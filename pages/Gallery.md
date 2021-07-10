@@ -9,7 +9,7 @@ permalink: /Gallery
 ## Big projects
 
 <p align="center">
-  <a href="https://sebastian-barrett.github.io/sebsite/PuzzleBox">
+  <a href="/PuzzleBox">
     <img alt="Puzzle box" src="https://user-images.githubusercontent.com/73778047/124695492-98c91b80-df26-11eb-89fc-78c58345902b.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
