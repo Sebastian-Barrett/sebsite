@@ -20,7 +20,7 @@ permalink: /Gallery
 <br>
 <p align="center">
   <a href="/Robot">
-    <img alt="Robot" src="/Sebsite/images/robot.jpg" width="45%">
+    <img alt="Robot" src="/Sebsite/images/Robot.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="/Sebsite/Game">
