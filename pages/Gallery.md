@@ -20,11 +20,11 @@ permalink: /Gallery
 <br>
 <p align="center">
   <a href="/Robot">
-    <img alt="Robot" src="/Sebsite/images/robot" width="45%">
+    <img alt="Robot" src="/Sebsite/images/robot.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="/Sebsite/Clock">
-    <img alt="Clock" src="/Sebsite/images/clock2" width="45%">
+    <img alt="Clock" src="/Sebsite/images/clock2.jpg" width="45%">
   </a>
 </p>
 
