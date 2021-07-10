@@ -13,8 +13,8 @@ permalink: /Gallery
     <img alt="Puzzle box" src="/Sebsite/images/puzzlebox.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="/Sebsite/Game">
-    <img alt="Game" src="/Sebsite/images/game.jpg" width="45%">
+  <a href="/Sebsite/Clock">
+    <img alt="Clock" src="/Sebsite/images/clock2.jpg" width="45%">
   </a>
 </p>
 <br>
@@ -23,8 +23,8 @@ permalink: /Gallery
     <img alt="Robot" src="/Sebsite/images/robot.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="/Sebsite/Clock">
-    <img alt="Clock" src="/Sebsite/images/clock2.jpg" width="45%">
+  <a href="/Sebsite/Game">
+    <img alt="Game" src="/Sebsite/images/game.jpg" width="45%">
   </a>
 </p>
 
