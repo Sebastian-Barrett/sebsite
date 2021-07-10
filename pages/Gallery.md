@@ -10,7 +10,7 @@ permalink: /Gallery
 
 <p align="center">
   <a href="/Sebsite/PuzzleBox">
-    <img alt="Puzzle box" src="Sebsite/images/PuzzleBox.jpg" width="45%">
+    <img alt="Puzzle box" src="/Sebsite/images/PuzzleBox.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="/Game">
