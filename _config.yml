@@ -33,9 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - Gallery.html
-  - about.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
