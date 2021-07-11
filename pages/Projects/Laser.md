@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Laser
-permalink: /Laser
+permalink: /laser
 ---
 
 # Laser Cutting

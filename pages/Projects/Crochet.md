@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Crochet
-permalink: /Crochet
+permalink: /crochet
 ---
 
 # Crochet

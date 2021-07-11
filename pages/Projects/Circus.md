@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Circus
-permalink: /Circus
+permalink: /circus
 ---
 
 # Circus

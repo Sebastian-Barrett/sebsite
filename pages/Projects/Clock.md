@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clock
-permalink: /Clock
+permalink: /clock
 ---
 
 # Clock

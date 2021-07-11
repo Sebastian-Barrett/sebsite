@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parametric
-permalink: Parametric
+permalink: /parametric
 ---
 
 # Parametric curves

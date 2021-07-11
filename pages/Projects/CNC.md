@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CNC
-permalink: /CNC
+permalink: /cnc
 ---
 
 # CNC milling

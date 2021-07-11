@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rendering
-permalink: /Rendering
+permalink: /rendering
 ---
 
 # Rendering

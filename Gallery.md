@@ -1,25 +1,25 @@
 ---
 layout: default
 title: Gallery
-permalink: /Gallery
+permalink: /gallery
 ---
 
 # Gallery
 ## Big projects
 
 <p align="center">
-  <a href="/Sebsite/PuzzleBox">
-    <img alt="Puzzle box" src="/Sebsite/images/puzzlebox.jpg" width="45%">
+  <a href="/sebsite/puzzlebox">
+    <img alt="Puzzle box" src="/sebsite/images/puzzlebox.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="/Sebsite/Clock">
-    <img alt="Clock" src="/Sebsite/images/clock2.jpg" width="45%">
+  <a href="/sebsite/clock">
+    <img alt="Clock" src="/sebsite/images/clock2.jpg" width="45%">
   </a>
 </p>
 <br>
 <p align="center">
   <a href="/robot">
-    <img alt="Robot" src="/sebsite/images/Robot.jpg" width="45%">
+    <img alt="Robot" src="/sebsite/images/robot.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; 
   <a href="/sebsite/game">

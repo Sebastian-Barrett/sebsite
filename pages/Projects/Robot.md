@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Robot
-permalink: /Robot
+permalink: /robot
 ---
 
 # Robot
