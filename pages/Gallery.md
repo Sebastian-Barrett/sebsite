@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Gallery
 permalink: /Gallery
 ---
 
-
+# Gallery
 ## Big projects
 
 <p align="center">
