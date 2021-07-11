@@ -6,7 +6,7 @@ permalink: /PuzzleBox
 
 # Puzzle Box
 
-## Desining
+## Designing
 Tolerance 
 radius limitations
 
