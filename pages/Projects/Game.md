@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Game
-permalink: /Projects/Game
+permalink: /Game
 ---
 
 # My Game

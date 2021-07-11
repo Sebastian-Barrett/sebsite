@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PuzzleBox
-permalink: /Projects/PuzzleBox
+permalink: /PuzzleBox
 ---
 
 # Puzzle Box
