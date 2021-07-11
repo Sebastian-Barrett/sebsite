@@ -4,7 +4,6 @@ title: Gallery
 permalink: /Gallery
 ---
 
-# Gallery
 
 ## Big projects
 
