@@ -6,3 +6,12 @@ permalink: /Game
 
 # My Game
 
+## Pieces
+
+## Board
+
+
+## Coins
+
+## Rules
+

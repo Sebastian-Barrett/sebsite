@@ -1,7 +1,15 @@
 ---
 layout: default
-title: Chess
-permalink: /Chess
+title: Python
+permalink: /Python
 ---
 
-#
+# Python
+link to parametric
+link to rendering 
+
+## Evolution
+
+## Sudoku solver
+
+## Poker probability

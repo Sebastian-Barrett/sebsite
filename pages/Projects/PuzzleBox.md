@@ -6,3 +6,9 @@ permalink: /PuzzleBox
 
 # Puzzle Box
 
+## Desining
+Tolerance 
+radius limitations
+
+## Milling
+

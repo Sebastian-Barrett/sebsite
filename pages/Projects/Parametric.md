@@ -8,5 +8,8 @@ permalink: Parametric
 
 ## Desmos dots
 
+link to rendering
+
 ## Python DXF
 
+link to laser cutting
