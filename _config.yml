@@ -34,7 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
- header_pages: 
+header_pages: 
   - about.html 
   - Gallery.md
 
