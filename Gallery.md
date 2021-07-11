@@ -18,7 +18,7 @@ permalink: /gallery
 </p>
 <br>
 <p align="center">
-  <a href="/robot">
+  <a href="/sebsite/robot">
     <img alt="Robot" src="/sebsite/images/robot.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; 
