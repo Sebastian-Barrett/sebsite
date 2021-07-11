@@ -9,7 +9,7 @@ permalink: /Gallery
 ## Big projects
 
 <p align="center">
-  <a href="/Sebsite/PuzzleBox">
+  <a href={{baseurl}}{/PuzzleBox}>
     <img alt="Puzzle box" src="/Sebsite/images/puzzlebox.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
