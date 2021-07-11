@@ -21,10 +21,12 @@
 title: Sebsite
 email: sebastianc.barrett@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A website for my projects
+  My answer to the question 
+  "So how do websites work?".
 baseurl: "/Sebsite" # the subpath of your site, e.g. /blog
 url: "https://sebastian-barrett.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sebastian-barrett
+root: "https://sebastian-barrett.github.io/Sebsite"
 
 # Build settings
 theme: minima

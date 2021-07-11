@@ -36,7 +36,7 @@ permalink: /Gallery
     <img alt="Art" src="/Sebsite/images/art.jpg" width="45%">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="/Sebsite/Game">
-    <img alt="Game" src="/Sebsite/images/game.jpg" width="45%">
+  <a href="/Sebsite/WallChess">
+    <img alt="Wall chess" src="/Sebsite/images/wallchess3.jpg" width="45%">
   </a>
 </p>
