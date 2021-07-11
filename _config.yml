@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages: 
-  - about.html 
+  - about.md
   - Gallery.md
 
 
