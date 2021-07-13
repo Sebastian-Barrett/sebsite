@@ -5,17 +5,18 @@
 @import "minima";
 
 /* for wide size*/
-@media (min-width: 701px) { 
+@media screen and (max-width: 700px) {
     #rightfloat {
-        margin: auto;
-        width: 95%;
+        float: right;    
+        margin: 0 0 0 10px;
+        width: 50%;
     }
 }
 
 /* for thin size */
-@media (max-width: 700px) { 
+@media screen and (max-width: 700px) { 
     #rightfloat {
         margin: auto;
-        width: 95%;
+        width: 100%;
     }
 }  
