@@ -13,7 +13,27 @@ permalink: /clock
 With transparent gears, wooden styling, and a giant pendulum this is a truly epic project. I learnt to design and model, test and fail, assemble and refine. 
 I designed the clock of 11 laser cut gears to use energy from a falling weight and timing from a swinging pendulum to tell time for 2 hours at a time. 
 
-## Overview
+<p align="center">
+  <a href="/sebsite/puzzlebox">
+    <img alt="Puzzle box" src="/sebsite/images/puzzlebox.jpg" width="45%">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="/sebsite/clock">
+    <img alt="Clock" src="/sebsite/images/clock2.jpg" width="45%">
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="/sebsite/robot">
+    <img alt="Robot" src="/sebsite/images/robot.jpg" width="45%">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="/sebsite/game">
+    <img alt="Game" src="/sebsite/images/game.jpg" width="45%">
+  </a>
+</p>
+
+## Mechanics
 
 <p align="left">
     <img alt="Clock" src="/sebsite/images/clockgif.gif" width=60%> 
@@ -28,3 +48,4 @@ The pendulum is a threaded rob with a bob on it that can be screwed up and down.
 
 
 ## Rachet
+
