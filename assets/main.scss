@@ -5,14 +5,15 @@
 @import "minima";
 
 /* for wide size*/
-#rightfloat {
-    float: right;    
-    margin: 0 0 0 10px;
-    width: 50%;
+@media (min-width: 701px) { 
+    #rightfloat {
+        margin: auto;
+        width: 95%;
+    }
 }
 
 /* for thin size */
-@media only screen and (max-width: 700px) { 
+@media (max-width: 700px) { 
     #rightfloat {
         margin: auto;
         width: 95%;
