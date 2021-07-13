@@ -15,7 +15,7 @@ I designed the clock of 11 laser cut gears to use energy from a falling weight a
 
 ## Mechanics
 
-<p align="left">
+<p>
     <img alt="Clock" src="/sebsite/images/clockgif.gif" id="rightfloat"> 
 </p>
 
