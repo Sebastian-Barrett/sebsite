@@ -11,7 +11,7 @@ permalink: /clock
 <br>
 
 With transparent gears, wooden styling, and a giant pendulum this is a truly epic project. I learnt to design and model, test and fail, assemble and refine. 
-I designed the clock of 11 laser cut gears to use energy from a falling weight and timing from a swinging pendulum to tell time for 2 hours at a time. 
+I designed the clock of 11 <a href="/sebsite/laser">laser cut</a> gears to use energy from a falling weight and timing from a swinging pendulum to tell time for 2 hours at a time. 
 </p>
 
 ## Mechanics
@@ -25,8 +25,8 @@ The pendulum is a threaded rod with a bob on it that can be screwed up and down.
 
 ## Laser cutting
 <img alt="DXF" src="/sebsite/images/clockdxf.jpg" id="rightfloat"> 
-To make all the 2D acrylic parts (like gears) I used the laser cutter. I designed all the parts to friction fit, which took a lot of trial and error. 
-<a href="/sebsite/laser">Some other laser cutter projects.</a>
+To make all the 2D acrylic parts (like gears) I used the laser cutter. 
+
 
 ## Escapement 
 

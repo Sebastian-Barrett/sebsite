@@ -15,3 +15,6 @@ coasters link to parametric
 kinetic art
 mouse cage 
 clock
+
+### Friction fit
+I designed all the parts to friction fit, which took a lot of trial and error. 
