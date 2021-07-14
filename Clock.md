@@ -23,13 +23,12 @@ The ticking pendulum allows the escapement (first gear) to move a small amount e
 The pendulum is a threaded rod with a bob on it that can be screwed up and down. This changes the frequency of the the pendulum so that the clock must be tuned to accuracy.
 </p>
 
-## Laser cutting
-<img alt="DXF" src="/sebsite/images/clockdxf.jpg" id="rightfloat"> 
-To make all the 2D acrylic parts (like gears) I used the laser cutter. 
-
-
 ## Escapement 
-
+<img alt="escapement" src="/sebsite/images/escapement.jpg" id="rightfloat"> 
+The escapement allows for the regular motion of the pendulum to regulate the movement of the clock. 
 
 ## Ratchet
 
+## Gears
+
+I other gears were created
