@@ -8,7 +8,7 @@ permalink: /circus
 
 ## Fire staff
 <video width = 400 controls>
-    <source src="staffspinning.mp4">
+    <source src="https://youtu.be/oBLuJbg3j6s">
 </video>
 ## Fire clubs
 
