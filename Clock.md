@@ -16,12 +16,12 @@ I designed the clock of 11 <a href="/sebsite/laser">laser cut</a> gears to use e
 
 ## Mechanics
 
-<p>
+<div id="clearfix">
     <img alt="Clock" src="/sebsite/images/clockgif.gif" id="rightfloat"> 
 
 The ticking pendulum allows the escapement (first gear) to move a small amount each swing. Then the frequency of rotation is decreased to once per minute and connected to the second hand. then two pairs of gears decrease the frequency again to once per hour, which is connected to the minute hand. Finally another two pairs reduces it again to power the hour hand. In the middle of the minute to hour transition the weight is connected to provide torque to the whole system that causes the gears to rotate. The weight is attached via my personally designed ratchet, so that it can be rewound.
 The pendulum is a threaded rod with a bob on it that can be screwed up and down. This changes the frequency of the the pendulum so that the clock must be tuned to accuracy.
-</p>
+</div>
 
 ## Escapement 
 <img alt="escapement" src="/sebsite/images/escapement.jpg" id="rightfloat"> 
