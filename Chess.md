@@ -11,10 +11,10 @@ All of the chess boards I have made so far have been [laser cut](/sebsite/laser)
 
 ## Chess board
 <div class="clearfix">
-    <img alt="chess board" src="/sebsite/images/chess1.jpg" id="rightfloat">
+    <img alt="chess board" src="/sebsite/images/chess.jpg" id="rightfloat">
 
 The first chess board I made was a full chess set with slots in the board for pieces and a draw to hold all the pieces. I decided to make simple and elegant pieces and I had a lot of fun designing them in Rhino.
-<img alt="pieces" src="/sebsite/images/piecesdxf1.jpg">
+<img alt="pieces" src="/sebsite/images/piecesdxf1.jpg" max-width="300">
 
 </div>
 
@@ -26,5 +26,9 @@ I had a full set of 2D pieces left over from making my first chess board, and on
 Then I decided to make another two because the concept was cool and playing chess against unknown opponents with an unknown team was super fun. This time I went all out on the pieces design and used a lot more laser cutting technique I had been learning. 
 
 <img alt="chess board" src="/sebsite/images/wallchess2.jpg" id="rightfloat">
+
+
 <img alt="chess board" src="/sebsite/images/wallchess3.jpg" id="rightfloat">
+
+
 </div>
