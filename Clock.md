@@ -6,7 +6,7 @@ permalink: /clock
 
 # Clock
 <div class="clearfix">
-    <img alt="Clock" src="/sebsite/images/clock1.jpg" id="rightfloat" width = "40%"> 
+<img alt="Clock" src="/sebsite/images/clock1.jpg" id="rightfloat" width = "40%"> 
 
 > With transparent gears, wooden styling, and a giant pendulum this is a truly epic project. I learnt to design and model, test and fail, assemble and refine.
 
