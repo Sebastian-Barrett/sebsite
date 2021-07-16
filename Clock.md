@@ -19,7 +19,7 @@ The pendulum is a threaded rod with a bob on it that can be screwed up and down.
 </clearfix>
 
 ## Escapement 
-<img alt="escapement" src="/sebsite/images/escapement.jpg" id="rightfloat"> 
+<img alt="escapement" src="/sebsite/images/escapment.jpg" id="rightfloat"> 
 The escapement allows for the regular motion of the pendulum to regulate the movement of the clock. It also provides energy from the weight to power the pendulum so that air friction does not slow it. To achieve this the teeth on the escapement have a slope that the gear teeth push against.
 The design of the escapement teeth allows the escapement to absolutely lock the rotation of the gear by shaping the teeth with a circular curve.
 The thickness of the escapement teeth had to be adjusted so that they were thin enough to avoid hitting the gear teeth. 
