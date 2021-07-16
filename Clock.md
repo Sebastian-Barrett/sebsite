@@ -23,17 +23,18 @@ The pendulum is a threaded rod with a bob on it that can be screwed up and down.
 
 ## Escapement 
 <div class="clearfix">
-    <img alt="escapement" src="/sebsite/images/escapment.jpg" id="rightfloat"> 
+    <img alt="escapement" src="/sebsite/images/escapment.gif" id="rightfloat"> 
 
 The escapement allows for the regular motion of the pendulum to regulate the movement of the clock. It also provides energy from the weight to power the pendulum so that air friction does not slow it. To achieve this the teeth on the escapement have a slope that the gear teeth push against.
 The design of the escapement teeth allows the escapement to absolutely lock the rotation of the gear by shaping the teeth with a circular curve.
 The thickness of the escapement teeth had to be adjusted so that they were thin enough to avoid hitting the gear teeth. 
+    <img alt="escapement" src="/sebsite/images/escapmentclose.gif"> 
 </div>
 
 ## Ratchet
 <div class="clearfix">
     <img alt="ratchet" src="/sebsite/images/ratchet.jpg" id="rightfloat">
-    
+
 I needed to attach the weight to a ratchet so it could be rewound without turning time backwards. So in typical style I decided to go through the unnecessarily complex (but much more interesting) route of designing my own novel ratchet. 
 The design has a inner and outer ring, with flexible bits of plastic (from packaging) attached to the inner ring that go to the sloped teeth in the outer ring. When the outer ring is turned counter clockwise (by the weight) the flexible plastic locks with the teeth and drives the inner ring and axle. If the outer ring is driven the other direction by hand the plastic slides over the teeth and the weight is wound up, without driving the axle backwards.
 </div> 
