@@ -5,9 +5,10 @@ permalink: /clock
 ---
 
 # Clock
-<img alt="Clock" src="/sebsite/images/clock1.jpg" height="300" id="rightfloat"> 
+<img alt="Clock" src="/sebsite/images/clock1.jpg" height="300" id="rightfloat" width = "auto"> 
 
-**With transparent gears, wooden styling, and a giant pendulum this is a truly epic project. I learnt to design and model, test and fail, assemble and refine.**
+> blockquote With transparent gears, wooden styling, and a giant pendulum this is a truly epic project. I learnt to design and model, test and fail, assemble and refine.
+
 I designed the clock of 11 [laser cut](/sebsite/laser) gears to use energy from a falling weight and timing from a swinging pendulum to tell time for 2 hours at a time. 
 
 ## Mechanics
