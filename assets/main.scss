@@ -84,6 +84,8 @@
 .columns-3 {
     float: left;
     width: 33.33%;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
 }
 
 /* Clear floats after the columns */
