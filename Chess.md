@@ -28,7 +28,6 @@ I had a full set of 2D pieces left over from making my first chess board, and on
 Then I decided to make another two because the concept was cool and playing chess against unknown opponents with an unknown team was super fun. This time I went all out on the pieces design and used a lot more laser cutting technique I had been learning. 
 
 <img alt="chess board" src="/sebsite/images/wallchess2.jpg">
-I tried a different strategy for holding the pieces 
 
 
 <img alt="chess board" src="/sebsite/images/wallchess3.jpg">
