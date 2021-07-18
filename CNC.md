@@ -18,9 +18,7 @@ This is highly useful manufacturing method
 <div class="clearfix">
     <img alt="Wave" src="/sebsite/images/wave.jpg" id="rightfloat">
     <p>This is water ripple frozen into wood. I used my <a href="/sebsite/python">python DXF program</a> to convert a wave equation to DXF file. I modelled my wave as a cosine wave with an exponential decay:
-    var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
-        throwOnError: false
-    });
+    \(y = a*e^(b*x)*\cos{c*x}\)
     Then in rhino I revolved that curve to make the wave surface.</p>
 
 </div>
