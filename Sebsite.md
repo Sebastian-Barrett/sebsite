@@ -23,7 +23,7 @@ I started with a Jekyll theme called minima which gave me a lot of basic CSS sty
 
 
 ### Logo
-I happened to find a neat idea for a log in my parametric curves exploration. I defined an curve:
+I happened to find a neat idea for a logo in my parametric curves exploration. I defined an curve:
 $$
     (X,Y) \\
     X=cos(3t) \\
@@ -31,3 +31,8 @@ $$
     0 \leq t \leq \pi \\ 
 $$
 <img alt="Sgraph" src="/sebsite/images/sgraph.jpg" width="50" height="50">
+<div class="clearfix">
+<p>To turn the curve into a logo I used my python program to turn it into a DXF and imported it into Rhino. I put a pipe around it to give it thickness, changed its material to a yellow paint and rendered it. Then I wrote a python program to turn the white pixels from the render transparent, to give the effect you can see on the tab in the browser. </p>
+<p>I really like this logo because it came from something that feels unique to myself.</p>
+<img alt="Slogo" src="/sebsite/images/slogo.PNG">
+</div>
