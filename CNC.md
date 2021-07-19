@@ -6,6 +6,7 @@ permalink: /cnc
 
 # CNC milling
 Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts. 
+My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
 
 ## Marble run
 <div class="clearfix">
@@ -39,7 +40,7 @@ I also made a surface defined by equation: \(z = xye^{-x^2+y^2}\). To model this
 
 <img alt="Surface model" src="/sebsite/images/surface.PNG" width-max="500">
 
-Then I used both of these models to make a cam path in Fusion 360 to cut them out of a block of wood:
+Then I used both of these models to make a cam path in Fusion 360 to cut them out of a block of wood. You can view the cam path with the top left button shaped like a mill:
 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf1593a955fb1769b2?mode=embed" width="100%" height="500vw" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 

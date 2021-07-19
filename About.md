@@ -1,12 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /About
+permalink: /about
 ---
 
 # About me
 > My hobby is hobbies
 
-My favorite thing to do is to learn new skills, and I have amassed many talents wide range of 
+I believe that the best way to learn is by doing and I love learning new skills. 
+Some of the things I have dabbled in are
 
 
