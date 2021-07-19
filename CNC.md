@@ -32,7 +32,7 @@ I also made a surface defined by equation: \(z = xye^{-x^2+y^2}\). To model this
 
 Then I used both of these models to make a cam path in Fusion 360 to cut them out of a block of wood:
 
-<iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf1593a955fb1769b2?mode=embed" width="100%" height="50%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf1593a955fb1769b2?mode=embed" width="100%" height="same-as-width" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Other
 
