@@ -24,12 +24,14 @@ I started with a Jekyll theme called minima which gave me a lot of basic CSS sty
 
 ### Logo
 I happened to find a neat idea for a log in my parametric curves exploration. I defined an curve:
-<div class="clearfix">
-    \begin{flalign}
-        $$(X,Y) \\
-        X=cos(3t) \\
-        Y=sin(2t) \\
-        0 \leq t \leq \pi \\ $$
-    \end{flalign}
+<div class="clearfix">  
+    $$
+        \begin{flalign}
+            (X,Y) \\
+            X=cos(3t) \\
+            Y=sin(2t) \\
+            0 \leq t \leq \pi \\ 
+        \end{flalign}
+    $$
     <img alt="Sgraph" src="/sebsite/images/sgraph.jpg" id="rightfloat" width="100" height="100">
 </div>
