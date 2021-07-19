@@ -5,11 +5,13 @@ permalink: /cnc
 ---
 
 # CNC milling
+Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts. 
 
 ## Marble run
 <div class="clearfix">
     <img alt="Marble run" src="/sebsite/images/marblerun.jpg" id="rightfloat">
-    
+    <p>This was my first CNC project, so I chose a simple shallow to mill in order to learn how. I learnt a lot about tool types, feeds and speeds, modeling in fusion 360, designing tool paths, G-code and CNC operation.</p> 
+    <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
 </div>
  
 ## Grand Teton
