@@ -23,4 +23,8 @@ I started with a Jekyll theme called minima which gave me a lot of basic CSS sty
 
 
 ### Logo
-I happened to find a neat idea for a log in my parametric curves exploration. I defined an curve  $(X,Y)$
+I happened to find a neat idea for a log in my parametric curves exploration. I defined an curve  
+$$(X,Y)$$
+$$X=cos(3t)$$
+$$Y=sin(2t)$$
+$$0\<t\<\pi$$
