@@ -15,7 +15,7 @@ My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC.
     <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
 </div>
 
-<iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" class="youtube" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" width="420" height="315"  frameborder="0" allowfullscreen></iframe>
 
 ## Grand Teton
 <div class="clearfix">

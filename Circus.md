@@ -13,7 +13,7 @@ At UNSW I joined the [Circus society](http://circusoc.com/) and they greatly inc
 <iframe src="https://www.youtube.com/embed/WSuwcAlEsxk" width="420" height="315" frameborder="0" allowfullscreen></iframe>
 
 ## Fire clubs
-<iframe src="https://www.youtube.com/embed/ST4W-bnGbUI" class="youtube" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ST4W-bnGbUI" width="420" height="315"  frameborder="0" allowfullscreen></iframe>
 
 ## Multiplex
 
