@@ -12,7 +12,7 @@ permalink: /clock
 
 <p>I designed the clock of 11 <a href="/sebsite/laser">laser cut</a> gears to use energy from a falling weight and timing from a swinging pendulum to tell time for 2 hours at a time.</p>
 </div> 
-<iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf92e454fae9309967?mode=embed" width="100%" height="550" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf92e454fae9309967?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Mechanics
 <div class="clearfix">
