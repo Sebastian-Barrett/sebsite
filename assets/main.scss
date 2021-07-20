@@ -124,18 +124,19 @@
 }
 
 .dropdown .dropbtn {
+    font-size: $base-font-size;
     border: none;
     outline: none;
     color: $text-color;
-    padding: 14px 16px;
+    padding: 5px 10px;
     background-color: $background-color;
     font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0; /* Important for vertical align on mobile phones */
+    margin-left: 20; /* Important for vertical align on mobile phones */
 }
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: left;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
