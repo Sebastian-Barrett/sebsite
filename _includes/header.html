@@ -18,8 +18,18 @@
 
         <div class="trigger">
           <!--my nav code-->
-          <a href="/sebsite">Home</a>
-          <a href="/sebsite/clock">Clock</a>
+          <a href="/sebsite" class="page-link">Home</a>
+          <a href="/sebsite/clock" class="page-link">Clock</a>
+          <div class="dropdown">
+            <button class="dropbtn">Dropdown
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="#">Link 1</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
+            </div>
+          </div>
           <!-- default HTML
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
