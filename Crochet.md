@@ -5,17 +5,20 @@ permalink: /crochet
 ---
 
 # Crochet
-
+I like crochet because it allows for complete control over what you make and can create some very cute things. 
+It is quite complex to start with a ball of yarn and work out how to turn that into a recognizable shape. I mostly crochet small animals, which make great presents.
 
 ## Unicorn
-<img alt="Unicorn" src="/sebsite/images/unicorn.jpg">
+<img alt="Unicorn" src="/sebsite/images/unicorn.jpg" class="basicimg">
 
 ## Galah
 <img alt="Galah" src="/sebsite/images/galah1.jpg" class="basicimg">
+
 <img alt="Galah" src="/sebsite/images/galah2.jpg" class="basicimg">
 
 ## Flying pig
 <img alt="Pig" src="/sebsite/images/pig1.jpg" class="basicimg">
+
 <img alt="Pig" src="/sebsite/images/pig2.jpg" class="basicimg">
 
 ## Rose
