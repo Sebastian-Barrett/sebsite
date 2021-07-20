@@ -38,7 +38,7 @@ Then in rhino I revolved that curve to make the wave surface:
 
 <img alt="Wave model" src="/sebsite/images/wavemodel.jpg" width-max="600">
 
-I also made a surface defined by equation: $$z = xye^{-x^2+y^2}$$. To model this surface I wrote a python program to create a DXF file with a large grid of points at set x y positions and a z height determined by the surface equation. Then in rhino I was able to fit a surface through the point grid. 
+I also made a surface defined by equation: $$z = xye^{-(x^2+y^2)}$$. To model this surface I wrote a python program to create a DXF file with a large grid of points at set x y positions and a z height determined by the surface equation. Then in rhino I was able to fit a surface through the point grid. 
 
 <img alt="Surface model" src="/sebsite/images/surface.PNG" width-max="500">
 
