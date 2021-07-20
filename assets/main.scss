@@ -67,7 +67,7 @@
     content: "";
     clear: both;
     display: table;
-  }
+}
 
 
 .footer-nav-col-1 {
@@ -118,17 +118,17 @@
 }
 
 .dropdown {
-    float: left;
+    float: right;
     overflow: hidden;
 }
 
 .dropdown .dropbtn {
-    font-size: 16px;
+    font-size: $base-font-size;
     border: none;
     outline: none;
-    color: white;
+    color: $text-color;
     padding: 14px 16px;
-    background-color: inherit;
+    background-color: $background-color;
     font-family: inherit; /* Important for vertical align on mobile phones */
     margin: 0; /* Important for vertical align on mobile phones */
 }
