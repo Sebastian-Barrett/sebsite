@@ -30,9 +30,9 @@ $$
     Y=sin(2t) \\
     0 \leq t \leq \pi \\ 
 $$
-<img alt="Sgraph" src="/sebsite/images/sgraph.jpg" width="50" height="50">
+<img alt="Sgraph" src="/sebsite/images/sgraph.jpg" width="200" height="200">
 <div class="clearfix">
 <p>To turn the curve into a logo I used my python program to turn it into a DXF and imported it into Rhino. I put a pipe around it to give it thickness, changed its material to a yellow paint and rendered it. Then I wrote a python program to turn the white pixels from the render transparent, to give the effect you can see on the tab in the browser. </p>
 <p>I really like this logo because it came from something that feels unique to myself.</p>
-<img alt="Slogo" src="/sebsite/images/slogo.PNG">
+<img alt="Slogo" src="/sebsite/images/slogo.jpg">
 </div>
