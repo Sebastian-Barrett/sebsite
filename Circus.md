@@ -10,7 +10,7 @@ I have been learning circus skills since 2012 and they are a great way to relax.
 ## Fire staff
 At UNSW I joined the [Circus society](http://circusoc.com/) and they greatly increased my abilites by introducing me to fire staff and clubs.
 
-<iframe src="https://youtu.be/oBLuJbg3j6s" width="100%" max-width="500" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://youtu.be/oBLuJbg3j6s" width="560"  height="315" frameborder="0" allowfullscreen></iframe>
 
 
 <iframe src="https://www.youtube.com/watch?v=k5s1cMNTmGs" width="100%" max-width="500" height="315" frameborder="0" allowfullscreen></iframe>
