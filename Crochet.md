@@ -11,7 +11,8 @@ permalink: /crochet
 <img alt="Unicorn" src="/sebsite/images/unicorn.jpg">
 
 ## Galah
-<img alt="Galah" src="/sebsite/images/galah.jpg" width="100%" max-width="500">
+<img alt="Galah" src="/sebsite/images/galah1.jpg" width="100%" max-width="500">
+<img alt="Galah" src="/sebsite/images/galah2.jpg" width="100%" max-width="500px">
 
 ## Flying pig
 <img alt="Pig" src="/sebsite/images/pig1.jpg" width="100%" max-width="500">
