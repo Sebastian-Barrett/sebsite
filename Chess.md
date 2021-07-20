@@ -14,10 +14,10 @@ All of the chess boards I have made so far have been [laser cut](/sebsite/laser)
     <img alt="Chess board" src="/sebsite/images/chess4.jpg" id="rightfloat">
 
 <p>The first chess board I made was a full chess set with slots in the board for pieces and a draw to hold all the pieces. I decided to make simple and elegant pieces and I had a lot of fun designing them in Rhino.</p>
-<img alt="Pieces" src="/sebsite/images/woodpieces.jpg" class="basicimg">
+<img alt="Pieces" src="/sebsite/images/woodpieces.jpg" width="49%">
 
-<img alt="Chess board" src="/sebsite/images/chess1.jpg" class="basicimg">
-<img alt="Chess board" src="/sebsite/images/chess3.jpg" class="basicimg">
+<img alt="Chess board" src="/sebsite/images/chess1.jpg" class="rightfloat">
+<img alt="Chess board" src="/sebsite/images/chess3.jpg" width="49%">
 
 </div>
 
