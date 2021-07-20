@@ -36,7 +36,6 @@ The thickness of the escapement teeth had to be adjusted so that they were thin 
 ## Ratchet
 <div class="clearfix">
     <img alt="ratchet" src="/sebsite/images/rachet.jpg" id="rightfloat">
-    <img alt="ratchet" src="/sebsite/images/rachet2.jpg" id="rightfloat">
 
 <p>I needed to attach the weight to a ratchet so it could be rewound without turning time backwards. So in typical style I decided to go through the unnecessarily complex (but much more interesting) route of designing my own novel ratchet. </p>
 <p>The design has a inner and outer ring, with flexible bits of plastic (from packaging) attached to the inner ring that go to the sloped teeth in the outer ring. When the outer ring is turned counter clockwise (by the weight) the flexible plastic locks with the teeth and drives the inner ring and axle. If the outer ring is driven the other direction by hand the plastic slides over the teeth and the weight is wound up, without driving the axle backwards.</p>
