@@ -142,6 +142,11 @@
     z-index: 1;
 }
 
+.dropdown-item {
+    margin: 0px;
+    padding: 0px;
+}
+
 .dropdown:hover .dropdown-content {
     display: block;
   }
