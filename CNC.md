@@ -5,8 +5,16 @@ permalink: /cnc
 ---
 
 # CNC milling
-Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts. 
-My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
+Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts. My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
+CNC milling works by using a computer to push a fast spinning mill bit (like a drill bit) into wood, plastic or metal to carve out the desired shape. [This article](https://all3dp.com/2/what-is-cnc-milling-simply-explained/) gives more detail. 
+
+The basic steps are:
+1. Make a model
+2. Chose tools
+3. Create a cam path 
+4. Generate G-code
+5. Set up the stock in the mill
+6. Mill and hope
 
 ## Marble run
 <div class="clearfix">
