@@ -8,7 +8,7 @@ permalink: /crochet
 
 
 ## Unicorn
-<img alt="Unicorn" src="sebsite/images/unicorn.jpg" width="100%" max-width="500">
+<img alt="Unicorn" src="sebsite/images/unicorn.jpg">
 
 ## Galah
 <img alt="Galah" src="sebsite/images/galah.jpg" width="100%" max-width="500">
