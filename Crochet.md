@@ -11,24 +11,24 @@ permalink: /crochet
 <img alt="Unicorn" src="/sebsite/images/unicorn.jpg">
 
 ## Galah
-<img alt="Galah" src="/sebsite/images/galah1.jpg" width="100%" max-width="500">
-<img alt="Galah" src="/sebsite/images/galah2.jpg" width="100%" max-width="500px">
+<img alt="Galah" src="/sebsite/images/galah1.jpg" class="basicimg">
+<img alt="Galah" src="/sebsite/images/galah2.jpg" class="basicimg">
 
 ## Flying pig
-<img alt="Pig" src="/sebsite/images/pig1.jpg" width="100%" max-width="500">
-<img alt="Pig" src="/sebsite/images/pig2.jpg" width="100%" max-width="500">
+<img alt="Pig" src="/sebsite/images/pig1.jpg" class="basicimg">
+<img alt="Pig" src="/sebsite/images/pig2.jpg" class="basicimg">
 
 ## Rose
-<img alt="Rose" src="/sebsite/images/rose.jpg" width="100%" max-width="500">
+<img alt="Rose" src="/sebsite/images/rose.jpg" class="basicimg">
 
 ## Freeform
-<img alt="Freeform" src="/sebsite/images/freeform.jpg" width="100%" max-width="500">
+<img alt="Freeform" src="/sebsite/images/freeform.jpg" class="basicimg">
 
 ## Duck
-<img alt="Duck" src="/sebsite/images/duck.jpg" width="100%" max-width="500">
+<img alt="Duck" src="/sebsite/images/duck.jpg" class="basicimg">
 
 ## Swan
-<img alt="Swan" src="/sebsite/images/swan.jpg" width="100%" max-width="500">
+<img alt="Swan" src="/sebsite/images/swan.jpg" class="basicimg">
 
 ## Gryffindor lion
-<img alt="Lion" src="/sebsite/images/lion.jpg" width="100%" max-width="500">
+<img alt="Lion" src="/sebsite/images/lion.jpg" class="basicimg">
