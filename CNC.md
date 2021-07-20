@@ -6,6 +6,7 @@ permalink: /cnc
 
 # CNC milling
 Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts. My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
+
 CNC milling works by using a computer to push a fast spinning mill bit (like a drill bit) into wood, plastic or metal to carve out the desired shape. [This article](https://all3dp.com/2/what-is-cnc-milling-simply-explained/) gives more detail. 
 
 The basic steps are:
@@ -21,9 +22,10 @@ The basic steps are:
     <img alt="Marble run" src="/sebsite/images/marblerun.jpg" id="rightfloat">
     <p>This was my first CNC project, so I chose a simple shallow to mill in order to learn how. I learnt a lot about tool types, feeds and speeds, modeling in fusion 360, designing tool paths, G-code and CNC operation.</p> 
     <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
+    <iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" width="420" height="315"  frameborder="0" allowfullscreen></iframe>
 </div>
 
-<iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" width="420" height="315"  frameborder="0" allowfullscreen></iframe>
+
 
 ## Grand Teton
 <div class="clearfix">
