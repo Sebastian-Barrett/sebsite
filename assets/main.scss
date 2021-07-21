@@ -178,12 +178,21 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
-  }
+}
 
 // mobile override
 @include media-query($on-palm) {
     .dropdown {
         line-height: $base-line-height;
+        float: none;
+        width: 130px;
     }
 
+    .dropdown-content {
+        position: absolute;
+        right: 130px;
+        top: 36px;
+        width: 120px;
+        z-index: 4;
+    }
 }
