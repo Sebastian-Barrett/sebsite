@@ -19,7 +19,7 @@ The basic steps are:
 
 ## Marble run
 <div class="clearfix">
-    <img alt="Marble run" src="/sebsite/images/marblerun.jpg" id="rightfloat">
+    <img alt="Marble run" src="/sebsite/images/marblerun.jpg" class="rightfloat">
     <p>This was my first CNC project, so I chose a simple shallow to mill in order to learn how. I learnt a lot about tool types, feeds and speeds, modeling in fusion 360, designing tool paths, G-code and CNC operation.</p> 
     <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
     <iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" class="youtube" frameborder="0" allowfullscreen></iframe>
@@ -29,7 +29,7 @@ The basic steps are:
 
 ## Grand Teton
 <div class="clearfix">
-    <img alt="Grand Teton" src="/sebsite/images/teton.jpg" id="rightfloat">
+    <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="rightfloat">
     <p>The Grand Teton is a mountain in Wyoming that my dad climbed and I decided to make him a mini topographical map of it because I wanted to try topographical CNC. I downloaded a STL file of the mountain from an online <a href="https://jthatch.com/Terrain2STL/">terrain STL generator</a>. I started with a big 8mm end mill for aggressive clearing and then did finer stepdowns with a smaller 6mm end mill and finishing parallel passes with a small 3mm ball mill. Afterwards I laser engraved "Grand Teton" into the wood and oiled it for protection.</p>
 </div>
 
@@ -38,7 +38,7 @@ The basic steps are:
 
 ## Wave
 <div class="clearfix">
-    <img alt="Wave" src="/sebsite/images/wave.jpg" id="rightfloat">
+    <img alt="Wave" src="/sebsite/images/wave.jpg" class="rightfloat">
     <p>This is water ripple frozen into wood. I used my <a href="/sebsite/python">python DXF program</a> to convert a wave equation to DXF file. I modelled my wave as a cosine wave with an exponential decay:
     \(y = ae^{-bx}\cos{cx}\)</p>
     <img alt="Wave graph" src="/sebsite/images/wavegraph.jpg" width="50%" width-max="600">

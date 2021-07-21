@@ -11,10 +11,10 @@ All of the chess boards I have made so far have been [laser cut](/sebsite/laser)
 
 ## Chess board
 <div class="clearfix">
-    <img alt="Chess board" src="/sebsite/images/chess4.jpg" id="rightfloat">
+    <img alt="Chess board" src="/sebsite/images/chess4.jpg" class="rightfloat">
 
 <p>The first chess board I made was a full chess set with slots in the board for pieces and a draw to hold all the pieces. I decided to make simple and elegant pieces and I had a lot of fun designing them in Rhino.</p>
-<img alt="Chess board" src="/sebsite/images/chess1.jpg" id="rightfloat">
+<img alt="Chess board" src="/sebsite/images/chess1.jpg" class="rightfloat">
 <img alt="Pieces" src="/sebsite/images/woodpieces.jpg" width="49%">
 <img alt="Chess board" src="/sebsite/images/chess3.jpg" width="49%">
 
@@ -22,7 +22,7 @@ All of the chess boards I have made so far have been [laser cut](/sebsite/laser)
 
 ## Wall chess
 <div class="clearfix">
-    <img alt="chess board" src="/sebsite/images/wallchess1.jpg" id="rightfloat">
+    <img alt="chess board" src="/sebsite/images/wallchess1.jpg" class="rightfloat">
 <p>I had a full set of 2D pieces left over from making my first chess board, and one day they were just sitting on my desk and I thought "what can I do with a full set of 2D wooden chess pieces?". So I decided to make a wall chess board for people to play on as they walk past each day. I added a turn counter and some string for a board and put it all up with blu tack, super simple.</p>
 
 <img alt="chess pieces" src="/sebsite/images/acrylicpieces.jpg" class="rightfloat">
