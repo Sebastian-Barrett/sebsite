@@ -134,6 +134,7 @@
     border: none;
     outline: none;
     color: $text-color;
+    padding: 0px;
     background-color: $background-color;
     font-family: inherit; /* Important for vertical align on mobile phones */
     &:not(:last-child) {
@@ -143,11 +144,14 @@
 
 .dropdown-content {
     display: none;
-    position: left;
+    position: absolute;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border-left: 1px solid $grey-color-light;
+    border-right: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-light;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     //min-width: 110px;
-    z-index: 2;
+    z-index: 1;
 }
 
 .dropdown-item {
