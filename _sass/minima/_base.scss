@@ -99,7 +99,20 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+
 }
+
+h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {  
+  content: '';  
+  background-color: $light-highlight;  
+  height: 2px;  
+  display: block;  
+  position: relative;  
+  top: 3px;  
+  left: 0px;  
+  width: 100%;  
+  z-index:-1;
+}  
 
 
 
