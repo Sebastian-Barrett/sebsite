@@ -134,11 +134,10 @@
     border: none;
     outline: none;
     color: $text-color;
-    padding: 5px 10px;
     background-color: $background-color;
     font-family: inherit; /* Important for vertical align on mobile phones */
     &:not(:last-child) {
-        margin-right: 20px;
+        margin-right: 15px;
     } 
 }
 
