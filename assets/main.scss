@@ -185,12 +185,13 @@
     .dropdown {
         line-height: $base-line-height;
         float: none;
-        width: 130px;
+        width: 140px;
+        padding: 5px 0px;
     }
 
     .dropdown-content {
         position: absolute;
-        right: 130px;
+        right: 140px;
         top: 36px;
         width: 120px;
         z-index: 4;
