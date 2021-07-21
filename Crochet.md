@@ -21,6 +21,12 @@ It is quite complex to start with a ball of yarn and work out how to turn that i
 
 <img alt="Pig" src="/sebsite/images/pig2.jpg" class="basicimg">
 
+
+## Tie
+<img alt="Tie" src="/sebsite/images/tie.jpg" class="basicimg">
+
+<img alt="Tie" src="/sebsite/images/tie1.jpg" class="basicimg">
+
 ## Rose
 <img alt="Rose" src="/sebsite/images/rose.jpg" class="basicimg">
 
