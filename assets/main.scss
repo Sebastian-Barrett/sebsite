@@ -157,4 +157,13 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
+    z-index: 3;
   }
+
+// mobile override
+@include media-query($on-palm) {
+    .dropdown {
+        line-height: 1.5;
+
+    }
+}
