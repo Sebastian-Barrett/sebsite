@@ -137,7 +137,9 @@
     padding: 5px 10px;
     background-color: $background-color;
     font-family: inherit; /* Important for vertical align on mobile phones */
-    margin-left: 20px; /* Important for vertical align on mobile phones */
+    &:not(:last-child) {
+        margin-right: 20px;
+    } 
 }
 
 .dropdown-content {
@@ -145,7 +147,7 @@
     position: left;
     background-color: $background-color;
     //min-width: 110px;
-    z-index: 1;
+    z-index: 2;
 }
 
 .dropdown-item {
@@ -156,7 +158,6 @@
 
 .dropdown:hover .dropdown-content {
     display: block;
-    z-index: 3;
   }
 
 // mobile override
