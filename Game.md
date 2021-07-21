@@ -16,22 +16,13 @@ permalink: /game
     <img alt="Pieces" src="/sebsite/images/gamepieces.jpg" class="rightfloat">
     <p>I 3d printed all the pieces which allowed me to make a lot of amazing geometries. The pieces were plenty durable so long as I didn't make any super thin parts. The only limitation I had was not including overhangs because I didn't want to print supports.</p>
 </div>
-<div class="clearfix">
-    <img alt="Lord" src="/sebsite/images/gamelord.jpg" class="rightfloat">
-    <p>The coolest piece was the Lords. I  </p>
-</div>
-<div class="clearfix">
-    <img alt="Teleporter" src="/sebsite/images/gameteleporter.jpg" class="rightfloat">
-    <p>The most </p>
-</div>
-<div class="clearfix">
-    <img alt="Lord" src="/sebsite/images/gamelord.jpg" class="rightfloat">
-    <p>The coolest piece was the Lords </p>
-</div>
-<div class="clearfix">
-    <img alt="Lord" src="/sebsite/images/gamelord.jpg" class="rightfloat">
-    <p>The coolest piece was the Lords </p>
-</div>
+
+
+<img alt="Lord" src="/sebsite/images/gamelord.jpg"  width="25%">
+<img alt="Teleporter" src="/sebsite/images/gameteleporter.jpg" width="25%">
+<img alt="Pawn" src="/sebsite/images/gamepawn.jpg" width="25%">
+<img alt="Destroyer" src="/sebsite/images/gamedestroyer.jpg" width="25%">
+
 
 ## Board
 
