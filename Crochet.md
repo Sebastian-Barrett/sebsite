@@ -41,3 +41,6 @@ It is quite complex to start with a ball of yarn and work out how to turn that i
 
 ## Gryffindor lion
 <img alt="Lion" src="/sebsite/images/lion.jpg" class="basicimg">
+
+## Flower
+<img alt="Flower" src="/sebsite/images/flower.jpg" class="basicimg">

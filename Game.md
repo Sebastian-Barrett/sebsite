@@ -18,10 +18,10 @@ permalink: /game
 </div>
 
 
-<img alt="Lord" src="/sebsite/images/gamelord.jpg"  width="25%">
-<img alt="Teleporter" src="/sebsite/images/gameteleporter.jpg" width="25%">
-<img alt="Pawn" src="/sebsite/images/gamepawn.jpg" width="25%">
-<img alt="Destroyer" src="/sebsite/images/gamedestroyer.jpg" width="25%">
+<img alt="Lord" src="/sebsite/images/gamelord.jpg"  width="24%">
+<img alt="Teleporter" src="/sebsite/images/gameteleporter.jpg" width="24%">
+<img alt="Pawn" src="/sebsite/images/gamepawn.jpg" width="24%">
+<img alt="Destroyer" src="/sebsite/images/gamedestroyer.jpg" width="24%">
 
 
 ## Board
