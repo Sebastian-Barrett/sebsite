@@ -12,18 +12,18 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
 
 ## Drawings 
 <div class="clearfix">
-    <img alt="Map" src="/sebsite/images/sydney.jpg" class="rightfloat">
+    <img alt="Snake lady" src="/sebsite/images/snakelady.jpg" class="rightfloat">
     <p>The laser cutter can engrave black and white images.</p>
-    <img alt="Map" src="/sebsite/images/perth.jpg" width="48%">
 
 </div>
+<img alt="Rob" src="/sebsite/images/rob.jpg" class="img-pair-left"><img alt="Rose" src="/sebsite/images/rose2.jpg" class="img-pair-right">
+
 
 ## Maps
 <div class="clearfix">
     <img alt="Map" src="/sebsite/images/sydney.jpg" class="thinrightfloat">
-    <p>Maps are super easy to make because the laser cutter can engrave black and white images.</p>
-    <img alt="Map" src="/sebsite/images/perth.jpg" width="48%">
-
+    <p>Maps are super easy to make because using the same method as engraving drawings.</p>
+    <img alt="Map" src="/sebsite/images/perth.jpg" width="65%">
 </div>
 
 
