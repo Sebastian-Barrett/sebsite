@@ -6,6 +6,46 @@ layout: home
 ---
 
 # My projects
+<div class="gallery" >
+    <figure class="gallery__item">
+        <a href="/sebsite/clock">
+        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
+        <figcaption>Clock</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/puzzlebox">
+        <img alt="Puzzle Box" src="/sebsite/images/puzzlebox.jpg" class="gallery__img">
+        <figcaption>Puzzle Box</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/game">
+        <img alt="Game" src="/sebsite/images/game.jpg" class="gallery__img">
+        <figcaption>My Game</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/clock">
+        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
+        <figcaption>Clock</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/clock">
+        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
+        <figcaption>Clock</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/clock">
+        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
+        <figcaption>Clock</figcaption>
+        </a>
+    </figure>
+    
+</div>
+
 
 
 # About me

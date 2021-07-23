@@ -13,7 +13,7 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
 ## Drawings 
 <div class="clearfix">
     <img alt="Snake lady" src="/sebsite/images/snakelady.jpg" class="rightfloat">
-    <p>The laser cutter can engrave black and white images.</p>
+    <p>The laser cutter can engrave grey-scale images by modulating the power of the laser to the darkness of the pixel. So black engraves deeply and white is not touched. This works well for engraving photos of drawings, however some of the contrast is lost because increasing the power of the laser can just deepen the cut rather than darkening the wood. The pieces here were drawn by some of my more artistic friends. </p>
 
 </div>
 <img alt="Rob" src="/sebsite/images/rob.jpg" class="img-pair-left"><img alt="Rose" src="/sebsite/images/rose2.jpg" class="img-pair-right">
@@ -22,7 +22,7 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
 ## Maps
 <div class="clearfix">
     <img alt="Map" src="/sebsite/images/sydney.jpg" class="thinrightfloat">
-    <p>Maps are super easy to make because using the same method as engraving drawings.</p>
+    <p>Maps are super easy to make because using the same method as engraving drawings. I used an online map creator to get the black and white images, them simply sent them to the laser. These maps are of Perth and Sydney, where I grew up and live.</p>
     <img alt="Map" src="/sebsite/images/perth.jpg" width="65%">
 </div>
 
