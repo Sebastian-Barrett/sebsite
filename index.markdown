@@ -27,21 +27,63 @@ layout: home
         </a>
     </figure>
     <figure class="gallery__item">
-        <a href="/sebsite/clock">
-        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
-        <figcaption>Clock</figcaption>
+        <a href="/sebsite/sebsite">
+        <img alt="Sebsite" src="/sebsite/images/sebsite.jpg" class="gallery__img">
+        <figcaption>Sebsite</figcaption>
         </a>
     </figure>
     <figure class="gallery__item">
-        <a href="/sebsite/clock">
-        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
-        <figcaption>Clock</figcaption>
+        <a href="/sebsite/robot">
+        <img alt="Robot" src="/sebsite/images/robot.jpg" class="gallery__img">
+        <figcaption>Robot</figcaption>
         </a>
     </figure>
     <figure class="gallery__item">
-        <a href="/sebsite/clock">
-        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
-        <figcaption>Clock</figcaption>
+        <a href="/sebsite/chess">
+        <img alt="Chess" src="/sebsite/images/chess4.jpg" class="gallery__img">
+        <figcaption>Chess</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/crochet">
+        <img alt="Crochet pig" src="/sebsite/images/pig1.jpg" class="gallery__img">
+        <figcaption>Crochet</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/parametric">
+        <img alt="Parametric flower" src="/sebsite/images/parametricflower.jpg" class="gallery__img">
+        <figcaption>Parametric curves</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/rendering">
+        <img alt="Wave" src="/sebsite/images/dots_2_sine.gif" class="gallery__img">
+        <figcaption>Rendering</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/cnc">
+        <img alt="CNC" src="/sebsite/images/teton.jpg" class="gallery__img">
+        <figcaption>CNC</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/laser">
+        <img alt="Laser" src="/sebsite/images/art.jpg" class="gallery__img">
+        <figcaption>Laser cutting</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/python">
+        <img alt="Evolution" src="/sebsite/images/evolution.jpg" class="gallery__img">
+        <figcaption>Python</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
+        <a href="/sebsite/circus">
+        <img alt="Circus" src="/sebsite/images/chess4.jpg" class="gallery__img">
+        <figcaption>Chess</figcaption>
         </a>
     </figure>
     
