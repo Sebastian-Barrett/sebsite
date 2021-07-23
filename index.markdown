@@ -6,10 +6,11 @@ layout: home
 ---
 
 # My projects
+
 <div class="gallery" >
     <figure class="gallery__item">
         <a href="/sebsite/clock">
-        <img alt="Clock" src="/sebsite/images/clock1.jpg" class="gallery__img">
+        <img alt="Clock" src="/sebsite/images/clock2.jpg" class="gallery__img">
         <figcaption>Clock</figcaption>
         </a>
     </figure>
