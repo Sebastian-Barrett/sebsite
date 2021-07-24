@@ -28,7 +28,7 @@ layout: home
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/sebsite">
-        <img alt="Sebsite" src="/sebsite/images/slogo2.PNG" class="gallery__img">
+        <img alt="Sebsite" src="/sebsite/images/slogo2.png" class="gallery__img">
         <figcaption>Sebsite</figcaption>
         </a>
     </figure>
