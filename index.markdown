@@ -58,7 +58,7 @@ layout: home
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/rendering">
-        <img alt="Wave" src="/sebsite/images/dots_2_sine.gif" class="gallery__img">
+        <img alt="Wave" src="/sebsite/images/circular_wave.gif" class="gallery__img">
         <figcaption>Rendering</figcaption>
         </a>
     </figure>
