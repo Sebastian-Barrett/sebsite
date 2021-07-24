@@ -9,6 +9,17 @@ Laser cutting is a very quick method to make 2D parts out of wood or acrylic. I 
 I use laser cutting in most of projects because it is so quick and useful. My other projects that use laser cutting are my [clock](/sebsite/clock), [chess boards](/sebsite/chess), [game](/sebsite/game), [puzzle box](/sebsite/puzzlebox), and [robot](/sebsite/robot).
 
 ## Coasters
+<div class="gallery" > 
+    <img alt="Coaster" src="/sebsite/images/coaster1.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster2.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster3.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster4.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster5.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster6.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster7.jpg" class="gallery__img">
+    <img alt="Coaster" src="/sebsite/images/coaster8.jpg" class="gallery__img">
+</div>
+
 
 ## Drawings 
 <div class="clearfix">
