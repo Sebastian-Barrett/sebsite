@@ -28,7 +28,7 @@ layout: home
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/sebsite">
-        <img alt="Sebsite" src="/sebsite/images/sebsite.jpg" class="gallery__img">
+        <img alt="Sebsite" src="/sebsite/images/slogo2.PNG" class="gallery__img">
         <figcaption>Sebsite</figcaption>
         </a>
     </figure>
@@ -82,8 +82,8 @@ layout: home
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/circus">
-        <img alt="Circus" src="/sebsite/images/chess4.jpg" class="gallery__img">
-        <figcaption>Chess</figcaption>
+        <img alt="Fire clubs" src="/sebsite/images/clubs.jpg" class="gallery__img">
+        <figcaption>Circus</figcaption>
         </a>
     </figure>
     
