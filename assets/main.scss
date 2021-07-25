@@ -59,7 +59,7 @@
 }
 
 .gallery__item {
-
+    align-self: end;
 }
 
 @include media-query($on-palm) {
