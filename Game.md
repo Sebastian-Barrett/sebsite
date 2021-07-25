@@ -36,3 +36,9 @@ permalink: /game
     <p>I made a lot of unique designs for the coins. Some are <a href="/sebsite/parametric">parametric</a>, some are geometric, and some are my hilarious attempts at drawing in rhino. They are all double sided, which required a bit of thinking to achieve because do all the scores on one side, cut a rectangle around the coins and flip the sheet, then score a mirrored version of the pattern to the other side and finally cut the coins out.</p>
 </div>
 
+## Dice
+
+<div class="clearfix">
+    <img alt="Coins" src="/sebsite/images/dice.jpg" class="thinrightfloat">
+    <p>I also laser cut circles into a cube of wood to create a neat little die.</p>
+</div>

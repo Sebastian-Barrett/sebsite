@@ -108,6 +108,7 @@ Some of the skills I have dabbled in are:
 - Many board and card games
 - Pottery
 - Ice skating/hockey
+- Skiing
 - Swimming
 - Sailing
 - Rock climbing

@@ -5,9 +5,18 @@ permalink: /laser
 ---
 
 # Laser Cutting
-Laser cutting is a very quick method to make 2D parts out of wood or acrylic. I have used it to create artistic pieces and functional parts. 
-I use laser cutting in most of projects because it is so quick and useful. My other projects that use laser cutting are my [clock](/sebsite/clock), [chess boards](/sebsite/chess), [game](/sebsite/game), [puzzle box](/sebsite/puzzlebox), [parametric designs](/sebsite/parametric) and [robot](/sebsite/robot).
+<div class="clearfix">
+    <img alt="Laser cutting" src="/sebsite/images/cutting.jpg" class="rightfloat">
+    Laser cutting is a very quick method to make 2D parts out of wood or acrylic. I have used it to create artistic pieces and functional parts. 
+    I use laser cutting in most of projects because it is so quick and useful. My other projects that use laser cutting are my <a href="/sebsite/clock">clock</a>, <a href="/sebsite/chess">chess boards</a>, <a href="/sebsite/game">game</a>, <a href="/sebsite/puzzlebox">puzzle box</a>, <a href="/sebsite/parametric">parametric designs</a> and <a href="/sebsite/robot">robot</a>.
+</div>
 
+## Laser art
+<div class="clearfix">
+    <img alt="Laser art" src="/sebsite/images/art.jpg" class="rightfloat">
+    <p>This is my biggest laser cutting project, combining everything I have learnt. The piece is made with three layers: two of acrylic with wood inlay and one of wood with acrylic inlay. Each of the layers also has
+    uses many different techniques to make all sorts of effects. the</p>
+</div>
 
 ## Drawings 
 <div class="clearfix">
@@ -25,13 +34,10 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
     <img alt="Map" src="/sebsite/images/perth.jpg" width="65%">
 </div>
 
-## Mosaic art
-
 ## Kinetic art
 <div class="clearfix">
     <img alt="kinetic art" src="/sebsite/images/kineticart.jpg" class="rightfloat">
     <p>Laser cutting can also be used for more engineering work because it create any 2D part. This is a moving art piece I created because I was board. The crank down the bottom is connected by two oppositely strung rubber band transmission belts to the two turing disks on top. This makes the spiky parts rotate opposite directions and creates and interesting optical effect.</p>
-    <p>friction fit</p>
 </div>
 
 ## Mouse cage 
@@ -41,6 +47,7 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
     <img alt="Flex pattern" src="/sebsite/images/flexpattern.jpg" width="350" max-width="100%">
 </div>
 
+3d model
 
 ## Friction fit
-I designed all the parts to friction fit, which took a lot of trial and error. 
+In several of my projects I use laser cut friction fits to join pieces or hold parts to bearings and axles. At first this took a lot of trial and error because I didn't know the kerf (width of the cut) of the laser. After a while though the process got much easier because I had a better intuition of what the kerf would be in different materials. Wood is about 0.1mm and acrylic is around 0.08mm, however the exact kerf will depend on the laser settings, material type (even acrylic color affects it), and thickness.
