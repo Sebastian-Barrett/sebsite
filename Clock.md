@@ -12,6 +12,8 @@ permalink: /clock
 
 <p>I designed the clock of 11 <a href="/sebsite/laser">laser cut</a> gears to use energy from a falling weight and timing from a swinging pendulum to tell time for 2 hours at a time.</p>
 </div> 
+This is an expanded model of my clock I built using Rhino and am displaying here using Fusion 360. 
+
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf92e454fae9309967?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Mechanics

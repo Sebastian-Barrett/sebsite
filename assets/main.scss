@@ -15,10 +15,10 @@
 
     /* for thin size */
     @include media-query($on-palm) { 
-        position: center;
         float: none;
         margin: auto;
-        width: 100%;        
+        width: auto;   
+        max-height: 70vw; 
     } 
 }
 
@@ -159,8 +159,8 @@
 }
 
 .viewer3d {
-    width: 95%;
-    position: center;
+    width: 96%;
+    margin: 0px 2%;
     height: 550px;
 }
 

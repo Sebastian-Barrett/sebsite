@@ -6,19 +6,7 @@ permalink: /laser
 
 # Laser Cutting
 Laser cutting is a very quick method to make 2D parts out of wood or acrylic. I have used it to create artistic pieces and functional parts. 
-I use laser cutting in most of projects because it is so quick and useful. My other projects that use laser cutting are my [clock](/sebsite/clock), [chess boards](/sebsite/chess), [game](/sebsite/game), [puzzle box](/sebsite/puzzlebox), and [robot](/sebsite/robot).
-
-## Coasters
-<div class="gallery" > 
-    <img alt="Coaster" src="/sebsite/images/coaster1.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster2.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster3.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster4.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster5.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster6.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster7.jpg" class="gallery__img">
-    <img alt="Coaster" src="/sebsite/images/coaster8.jpg" class="gallery__img">
-</div>
+I use laser cutting in most of projects because it is so quick and useful. My other projects that use laser cutting are my [clock](/sebsite/clock), [chess boards](/sebsite/chess), [game](/sebsite/game), [puzzle box](/sebsite/puzzlebox), [parametric designs](/sebsite/parametric) and [robot](/sebsite/robot).
 
 
 ## Drawings 
@@ -37,12 +25,22 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
     <img alt="Map" src="/sebsite/images/perth.jpg" width="65%">
 </div>
 
+## Mosaic art
+
+## Kinetic art
+<div class="clearfix">
+    <img alt="kinetic art" src="/sebsite/images/kineticart.jpg" class="rightfloat">
+    <p>Laser cutting can also be used for more engineering work because it create any 2D part. This is a moving art piece I created because I was board. The crank down the bottom is connected by two oppositely strung rubber band transmission belts to the two turing disks on top. This makes the spiky parts rotate opposite directions and creates and interesting optical effect.</p>
+    <p>friction fit</p>
+</div>
+
+## Mouse cage 
+<div class="clearfix">
+    <img alt="Mousecage" src="/sebsite/images/mouse1.jpg" class="rightfloat">
+    <p>My university hall was going through a prank war so I decided to join in my own special way by creating a mouse cage puzzle for a computer mouse. I designed all the parts in 2D, cut them out and assembled them with hot glue. The cage is in two parts: the top with the bars fits onto the bottom, and the bottom has 4 friction fit pins that hold the top in place. The locking pins are hidden by a skirt so the bottom appears solid. I added a little working mouse wheel, which was interesting to make because it is not aa flat 2D part. I used a wood bending technique where lots of lines are cut into thin wood as shown. </p>
+    <img alt="Flex pattern" src="/sebsite/images/flexpattern.jpg" max-width="10%">
+</div>
 
 
-## Engineering 
-kinetic art
-mouse cage 
-clock
-
-### Friction fit
+## Friction fit
 I designed all the parts to friction fit, which took a lot of trial and error. 

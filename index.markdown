@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# My projects
-
 <div class="gallery" >
     <figure class="gallery__item">
         <a href="/sebsite/clock">
