@@ -37,8 +37,8 @@ I use laser cutting in most of projects because it is so quick and useful. My ot
 ## Mouse cage 
 <div class="clearfix">
     <img alt="Mousecage" src="/sebsite/images/mouse1.jpg" class="rightfloat">
-    <p>My university hall was going through a prank war so I decided to join in my own special way by creating a mouse cage puzzle for a computer mouse. I designed all the parts in 2D, cut them out and assembled them with hot glue. The cage is in two parts: the top with the bars fits onto the bottom, and the bottom has 4 friction fit pins that hold the top in place. The locking pins are hidden by a skirt so the bottom appears solid. I added a little working mouse wheel, which was interesting to make because it is not aa flat 2D part. I used a wood bending technique where lots of lines are cut into thin wood as shown. </p>
-    <img alt="Flex pattern" src="/sebsite/images/flexpattern.jpg" max-width="10%">
+    <p>My university hall was going through a prank war so I decided to join in my own special way by creating a mouse cage puzzle for a computer mouse. I designed all the parts in 2D, cut them out and assembled them with hot glue. The cage is in two parts: the top with the bars fits onto the bottom, and the bottom has 4 friction fit pins that hold the top in place. The locking pins are hidden by a skirt so the bottom appears solid. I added a little working mouse wheel, which was interesting to make because it is not a flat 2D part. I used a wood bending technique where lots of lines are cut into thin wood as shown. </p>
+    <img alt="Flex pattern" src="/sebsite/images/flexpattern.jpg" width="350" max-width="100%">
 </div>
 
 
