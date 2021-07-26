@@ -15,8 +15,10 @@ permalink: /laser
 <div class="clearfix">
     <img alt="Laser art" src="/sebsite/images/art.jpg" class="rightfloat">
     <p>This is my biggest laser cutting project, combining everything I have learnt. The piece is made with three layers: two of acrylic with wood inlay and one of wood with acrylic inlay. Each of the layers also has
-    uses many different techniques to make all sorts of effects. the</p>
+    uses many different techniques to make all sorts of effects. There are many parametric curves scored onto the acrylic and wood and these were all created with my <a href="/sebsite/parametric">parametric python program</a>. There are also various geometric shapes which I designed in Rhino, and I could get quite creative with the effects because I could make shapes overlap but be on different layers to create 3D effects. Laser engraving on clear acrylic makes it turn frosted, so I engraved circles on three layers of acrylic to get an effect like bubbles. In the middle I created a river with wooden inlay swirls. I also designed a grapevine at the top, with intricate leaf patters and a mini bunch of grapes. </p>
+    <p>I designed my own laser settings to make this because I wanted complete control over the result. The laser works by taking in a file of colored lines and then cutting each of this lines with the power specified. It doesn't know what it is cutting so you need to choose the appropriate settings of speed and power. By deliberately setting weak power you can make it score lines rather than cut  and by changing the z offset of the laser you can cause it to become unfocused, creating thicker scores. I used these ideas to create 3 lines of different thickness and darkness for both acrylic and wood scoring. The super fine lines were used in detail, like my leaves, whilst the thicker lines were used for the parametric scores and other embellishing. </p>
 </div>
+
 
 ## Drawings 
 <div class="clearfix">
