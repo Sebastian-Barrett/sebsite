@@ -9,7 +9,10 @@ Parametric curves are curve where the x and y positions are defined by functions
 
 ## Desmos dots
 <div class="clearfix">
-    <video autoplay loop muted playsinline src="/sebsite/images/desmosdots1.mp4" class="rightfloat"></video>
+    <div class="rightfloat">
+        <video controls loop muted playsinline src="/sebsite/images/desmosdots1.mp4" width="100%"></video> 
+        <p>$$(\sin(11t)+\cos(t),\cos(11t)+\sin(t))$$</p>
+    </div>
     <p>The first cool thing I did with parametric functions was in <a href="https://www.desmos.com/calculator">desmos</a>, an excellent graphing calculator. I defined a parametric curve as a path and them made a lot of points follow that path all at slightly faster speeds. This seems super simple but the emergent behaviors are beautiful to watch.</p>
 </div>
 
