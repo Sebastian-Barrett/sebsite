@@ -5,12 +5,17 @@ permalink: /parametric
 ---
 
 # Parametric curves
-
-Parametric means a curve where the x and y positions are defined by functions eg. $$(cos(3t),sin(2t))$$. 
+Parametric curves are curve where the x and y positions are defined by functions eg. $$(\cos(3t),\sin(2t))$$. I have used them for years to make interesting patterns and animations with [desmos](https://www.desmos.com/calculator) and [python](/sebsite/python). I use them in [laser cutting](/sebsite/laser), [rendering](/sebsite/rendering), [puzzle box](/sebsite/puzzlebox), [sebsite](/sebsite/sebsite), and [CNC](/sebsite/cnc).
 
 ## Desmos dots
+<div class="clearfix">
+    <video autoplay loop muted playsinline src="/sebsite/images/desmosdots1.mp4" class="rightfloat"></video>
+    <p>The first cool thing I did with parametric functions was in <a href="https://www.desmos.com/calculator">desmos</a>, an excellent graphing calculator. I defined a parametric curve as a path and them made a lot of points follow that path all at slightly faster speeds. This seems super simple but the emergent behaviors are beautiful to watch.</p>
+</div>
 
+## Rendering 
 link to rendering
+
 
 ## Python DXF
 
