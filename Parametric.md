@@ -9,11 +9,15 @@ Parametric curves are curve where the x and y positions are defined by functions
 
 ## Desmos dots
 <div class="clearfix">
-    <div class="rightfloat">
-        <video controls loop muted playsinline src="/sebsite/images/desmosdots1.mp4" width="100%"></video> 
-        <p>$$(\sin(11t)+\cos(t),\cos(11t)+\sin(t))$$</p>
-    </div>
-    <p>The first cool thing I did with parametric functions was in <a href="https://www.desmos.com/calculator">desmos</a>, an excellent graphing calculator. I defined a parametric curve as a path and them made a lot of points follow that path all at slightly faster speeds. This seems super simple but the emergent behaviors are beautiful to watch.</p>
+    <p>The first cool thing I did with parametric functions was in <a href="https://www.desmos.com/calculator">desmos</a>, an excellent graphing calculator. I defined a parametric curve as a path and them made a lot of points follow that path all at slightly faster speeds. This seems super simple but the emergent behaviors are beautiful to watch. You can play with the graph <a href="https://www.desmos.com/calculator/vdyulhrk8k">here</a>.</p>
+</div>
+
+<div class="gallery2">
+    <video controls loop muted playsinline src="/sebsite/images/desmosdots1.mp4" class="gallery__img"></video> 
+    <video controls loop muted playsinline src="/sebsite/images/desmosdots2.mp4" class="gallery__img"></video> 
+    <video controls loop muted playsinline src="/sebsite/images/desmosdots3.mp4" class="gallery__img"></video> 
+    <video controls loop muted playsinline src="/sebsite/images/desmosdots4.mp4" class="gallery__img"></video> 
+    <video controls loop muted playsinline src="/sebsite/images/desmosdots5.mp4" class="gallery__img"></video> 
 </div>
 
 ## Rendering 
