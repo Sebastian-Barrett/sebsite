@@ -23,11 +23,14 @@ Parametric curves are curve where the x and y positions are defined by functions
 </div>
 
 ## Rendering 
-> Python + rendering engine > graphing calculator 
 <div class="clearfix">
     <video autoplay loop muted playsinline src="/sebsite/images/dots1.mp4" class="rightfloat"></video> 
-
-When I started teaching myself python I quickly realized I could do so much more than with a graphing calculator, which lead to me finding a rendering engine to use with python. I did some of the same 2D things, but was also able to expand into 3D parametric curves and model waves in 2D planes and 3D volumes. Look at some of these renderings on my <a href="/sebsite/rendering">rendering</a> page.
+    <blockquote>Python + rendering engine > graphing calculator</blockquote>
+    When I started teaching myself python I quickly realized I could do so much more than with a graphing calculator, which lead to me finding a rendering engine to use with python. I did some of the same 2D things, but was also able to expand into 3D parametric curves and model waves in 2D planes and 3D volumes. Look at some of these renderings on my <a href="/sebsite/rendering">rendering</a> page.
+</div>
+<div class="gallery2">
+<video autoplay loop muted playsinline src="/sebsite/images/dots2.mp4" class="gallery__img"></video> 
+<video autoplay loop muted playsinline src="/sebsite/images/dots3.mp4" class="gallery__img"></video> 
 </div>
 
 
