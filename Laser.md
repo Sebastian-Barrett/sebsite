@@ -58,10 +58,10 @@ permalink: /laser
 
 ## Kinetic art
 <div class="clearfix">
-    <img alt="kinetic art" src="/sebsite/images/kineticart.jpg" class="rightfloat">
+    <video autoplay loop muted playsinline src="/sebsite/images/kineticart.mp4" class="rightfloat"></video>
     <p>Laser cutting can also be used for more engineering work because it create any 2D part. This is a moving art piece I created because I was board. The crank down the bottom is connected by two oppositely strung rubber band transmission belts to the two turing disks on top. This makes the spiky parts rotate opposite directions and creates and interesting optical effect.</p>
 </div>
-3d model
+<img alt="kinetic art" src="/sebsite/images/kineticart.jpg" class="basicimg" max-width="500">
 
 ## Mouse cage 
 <div class="clearfix">

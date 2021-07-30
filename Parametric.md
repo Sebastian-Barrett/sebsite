@@ -29,8 +29,11 @@ Parametric curves are curve where the x and y positions are defined by functions
     <p>When I started teaching myself python I quickly realized I could do so much more than with a graphing calculator, which lead to me finding a rendering engine to use with python. I did some of the same 2D things, but was also able to expand into 3D parametric curves and model waves in 2D planes and 3D volumes. Look at some of these renderings on my <a href="/sebsite/rendering">rendering</a> page.</p>
 </div>
 <div class="gallery2">
-<video autoplay loop muted playsinline src="/sebsite/images/dots2.mp4" class="gallery__img"></video> 
-<video autoplay loop muted playsinline src="/sebsite/images/dots3.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots2.mp4" class="gallery__img"></video> 
+    <div>
+        <video autoplay loop muted playsinline src="/sebsite/images/dots3.mp4" class="gallery__img"></video> 
+        <caption>Every ball simply moves in a circle, and the outer balls circle faster than the inner balls.</caption> 
+    </div>
 </div>
 
 
@@ -47,7 +50,7 @@ X=\sin(t)+\frac{\sin(at)}{2}+ \frac{\sin(bt)}{4} \\
 Y=\cos(t)+\frac{\cos(at)}{2}+ \frac{\cos(bt)}{4}\\
 $$
 
-But this is slow. So I simply added a few lines to my python DXF program to loop through 40 values of $$a$$ and $$b$$ between 0 and 20. This created 1600 curves at a time! Then, I just had to peruse them and find my favorites.
+But this is slow. So I simply added a few lines to my python DXF program to loop through 40 values of a and b between 0 and 20. This created 1600 curves at a time! Then, I just had to peruse them and find my favorites.
 </div>
 
 ## Coasters
