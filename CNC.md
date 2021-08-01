@@ -5,7 +5,7 @@ permalink: /cnc
 ---
 
 # CNC milling
-Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts. My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
+Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts.  My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
 
 CNC milling works by using a computer to push a fast spinning mill bit (like a drill bit) into wood, plastic or metal to carve out the desired shape. [This article](https://all3dp.com/2/what-is-cnc-milling-simply-explained/) gives more detail. 
 
@@ -17,15 +17,7 @@ The basic steps are:
 5. Set up the stock in the mill
 6. Mill and hope
 
-## Marble run
-<div class="clearfix">
-    <img alt="Marble run" src="/sebsite/images/marblerun.jpg" class="rightfloat">
-    <p>This was my first CNC project, so I chose a simple shallow to mill in order to learn how. I learnt a lot about tool types, feeds and speeds, modeling in fusion 360, designing tool paths, G-code and CNC operation.</p> 
-    <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
-    <iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" class="youtube" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
+I learnt a lot about tool types, feeds and speeds, modeling in fusion 360, designing tool paths, G-code and CNC operation.
 
 ## Grand Teton
 <div class="clearfix">
@@ -33,8 +25,38 @@ The basic steps are:
     <p>The Grand Teton is a mountain in Wyoming that my dad climbed and I decided to make him a mini topographical map of it because I wanted to try topographical CNC. I downloaded a STL file of the mountain from an online <a href="https://jthatch.com/Terrain2STL/">terrain STL generator</a>. I started with a big 8mm end mill for aggressive clearing and then did finer stepdowns with a smaller 6mm end mill and finishing parallel passes with a small 3mm ball mill. Afterwards I laser engraved "Grand Teton" into the wood and oiled it for protection.</p>
 </div>
 
+<div class="gallery">
+    <div class="zoom-container">
+        <img alt="Milling" src="/sebsite/images/mill1.jpg" class="galler__img" class="zoom">
+    </div>
+    <div class="zoom-container">
+        <img alt="Milling" src="/sebsite/images/mill2.jpg" class="galler__img" class="zoom">
+    </div>
+    <div class="zoom-container">
+        <img alt="Milling" src="/sebsite/images/mill3.jpg" class="galler__img" class="zoom">
+    </div>
+    <div class="zoom-container">
+        <img alt="Milling" src="/sebsite/images/mill4.jpg" class="galler__img" class="zoom">
+    </div>
+    <div class="zoom-container">
+        <img alt="Milling" src="/sebsite/images/mill5.jpg" class="galler__img" class="zoom">
+    </div>
+    <div class="zoom-container">
+        <img alt="Milling" src="/sebsite/images/mill6.jpg" class="galler__img" class="zoom">
+    </div>
+
+</div>
+
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
+## Marble run
+<div class="clearfix">
+    <img alt="Marble run" src="/sebsite/images/marblerun.jpg" class="rightfloat">
+    <p>This was my first CNC project, so I chose a simple shallow to mill in order to learn how. </p> 
+    <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
+    <iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" class="youtube" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Wave
 <div class="clearfix">
