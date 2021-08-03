@@ -69,6 +69,14 @@
     text-align: center;
 }
 
+.gallery figure {
+    margin: 0px;
+}
+
+.gallery2 figure {
+    margin: 0px;
+}
+
 @include media-query($on-palm) {
     .gallery {
         display: grid;
