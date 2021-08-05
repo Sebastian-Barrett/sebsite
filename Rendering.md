@@ -7,14 +7,31 @@ permalink: /rendering
 # Rendering
 > Rendering engine + python = cool videos
 
-I use [POV rendering](http://www.povray.org/) to render scenes that I created using [python](/sebsite/python). In python I control the positions of an array of spheres using math to model them into 2D and 3D waves or [parametric curves](/sebsite/parametric). The positions of the balls vary slowly over time to create hundreds of individual frames, which I combine into videos using python.  The colors of the balls are altered by height or density or their ball number, to make them look better.  
+I use [POV-Ray rendering](http://www.povray.org/) to render scenes that I created using [python](/sebsite/python) and a [POV-Ray python library](https://github.com/Zulko/vapory). In python I control the positions of an array of spheres using math to model them into 2D and 3D waves or [parametric curves](/sebsite/parametric). The positions of the balls vary slowly over time to create hundreds of individual frames, which I combine into videos using python.  The colors of the balls are altered by height or density or their ball number, to make them look better.  
 
 ## Moving dots
-The idea to create videos of moving dots was based on my previous work on [parametric curves](/sebsite/parametric) and my desire to learn more python. 
+The idea to create videos of moving dots was based on my previous work on [parametric curves](/sebsite/parametric) and my desire to learn more python.
 
-<img alt="3D wave" src="/sebsite/images/circular_wave.gif">
-<img alt="3D wave" src="/sebsite/images/dots_2_sine.gif">
-<img alt="3D wave" src="/sebsite/images/double slit.gif">
+All of the spheres follow parametric path, slightly faster than the previous sphere. It is simple but it can create some pretty emergent behavior. 
+<div class="gallery2">
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots1.mp4" class="gallery__img"></video> 
+        <figcaption>3D parametric</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots4.mp4" class="gallery__img"></video> 
+        <figcaption>2D parametric</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots5.mp4" class="gallery__img"></video> 
+        <figcaption>2D parametric</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots2.mp4" class="gallery__img"></video> 
+        <figcaption>Many circular paths</figcaption>
+    </figure>
+</div>
+
 
 ## 2D waves
 

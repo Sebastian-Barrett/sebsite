@@ -58,7 +58,7 @@ layout: default
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/rendering">
-        <img alt="Wave" src="/sebsite/images/circular_wave.gif" class="gallery__img">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_sine_loop.mp4" class="gallery__img"></video> 
         <figcaption>Rendering</figcaption>
         </a>
     </figure>
