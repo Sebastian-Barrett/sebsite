@@ -113,11 +113,28 @@ y=A\frac{y_g-y_o}{d}\sin(kd-\omega t)  \\
 z=A\frac{z_g-z_o}{d}\sin(kd-\omega t)  \\
 $$
 
-Where $$(x_g,y_g,z_g)$$ is the grid position of the sphere, and $$(x_o,y_o,z_o)$$ is the position of the wave's origin and $$d$$ is the distance between the origin of the wave and grid position of the sphere.
+Where $$(x_g,y_g,z_g)$$ is the grid position of the sphere, and $$(x_o,y_o,z_o)$$ is the position of the wave's origin and $$d$$ is the distance between the origin of the wave and grid position of the sphere. These displacements can also be summed to simulate interference between several waves. 
+Small projects
+molecule models
 
 <div class="gallery2">
     <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots3.mp4" class="gallery__img"></video> 
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_85_center_wave_good.mp4" class="gallery__img"></video> 
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_77_4_interference_diff_freq.mp4" class="gallery__img"></video> 
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_63_cube_pulse_in.mp4" class="gallery__img"></video> 
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_72_pulsing_wave.mp4" class="gallery__img"></video> 
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots6.mp4" class="gallery__img"></video> 
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots7.mp4" class="gallery__img"></video> 
     </figure>
 </div>
 
