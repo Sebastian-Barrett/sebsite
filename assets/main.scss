@@ -66,12 +66,10 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
-    text-align: center;
 }
 
 .gallery .gallery__item, .gallery2 .gallery__item {
     margin: 0px 0px 5px 0px;
-    line-height: 1.2em;
 }
 
 @include media-query($on-palm) {
