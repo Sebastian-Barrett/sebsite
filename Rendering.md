@@ -35,18 +35,18 @@ All of the spheres follow a parametric path, slightly faster than the previous s
 
 
 ## 2D waves
-<div  class="clearfix">
-    <figure class="rightfloat">
+To create wave simulations I created a 2D array of spheres, then altered set the height of each sphere based on a wave equation of the form: 
+
+$$
+\\ y=A\sin(kx-\omega t) \\
+$$
+
+These waves can be summed to create shaped waves using finite <a href="/sebsite/fourier">fourier series</a> as shown:
+<div class="gallery2">
+    <figure class="gallery__item">
         <video autoplay loop muted playsinline src="/sebsite/images/dots_sine_loop.mp4" class="gallery__img"></video> 
         <figcaption>Sine wave</figcaption>
     </figure>
-    <p>To create wave simulations I created a 2D array of spheres, then altered set the height of each sphere based on a wave equation of the form: </p>
-    $$
-    \\ y=A\sin(kx-\omega t) \\
-    $$
-    <p>These waves can be summed create shaped waves using finite <a href="https://mathworld.wolfram.com/FourierSeries.html" target="_blank">fourier series</a> as seen:</p>
-</div>
-<div class="gallery2">
     <figure class="gallery__item">
         <video autoplay loop muted playsinline src="/sebsite/images/dots_half_sine_loop.mp4" class="gallery__img"></video> 
         <figcaption>Half sine wave</figcaption>
@@ -85,21 +85,11 @@ Alternatively the waves can be summed to show interfere waves from different sou
 ## Other
 I have also made other animations using assorted methods to define the spheres movements:
 <div class="gallery2">
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots3.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_86_increase_frequency.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_93_crosswaves.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_57_sheet.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_58_plaid.mp4" class="gallery__img"></video> 
-    </figure>
+    <video autoplay loop muted playsinline src="/sebsite/images/dots3.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_86_increase_frequency.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_93_crosswaves.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_57_sheet.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_58_plaid.mp4" class="gallery__img"></video> 
 </div>
 
 
@@ -116,23 +106,11 @@ $$
 Where $$(x_g,y_g,z_g)$$ is the grid position of the sphere, and $$(x_o,y_o,z_o)$$ is the position of the wave's origin and $$d$$ is the distance between the origin of the wave and grid position of the sphere. These displacements can also be summed to simulate interference between several waves. 
 
 <div class="gallery2">
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_85_center_wave_good.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_77_4_interference_diff_freq.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_63_cube_pulse_in.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_72_pulsing_wave.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots6.mp4" class="gallery__img"></video> 
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots7.mp4" class="gallery__img"></video> 
-    </figure>
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_85_center_wave_good.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_77_4_interference_diff_freq.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_63_cube_pulse_in.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots_72_pulsing_wave.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots6.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline src="/sebsite/images/dots7.mp4" class="gallery__img"></video> 
 </div>
 
