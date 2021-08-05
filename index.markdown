@@ -63,6 +63,12 @@ layout: default
         </a>
     </figure>
     <figure class="gallery__item">
+        <a href="/sebsite/rendering">
+        <img alt="Wurtzite lattice" src="/sebsite/images/wurtzite.jpg" class="gallery__img">
+        <figcaption>Atom models</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
         <a href="/sebsite/cnc">
         <img alt="CNC" src="/sebsite/images/teton.jpg" class="gallery__img">
         <figcaption>CNC</figcaption>

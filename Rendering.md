@@ -114,8 +114,6 @@ z=A\frac{z_g-z_o}{d}\sin(kd-\omega t)  \\
 $$
 
 Where $$(x_g,y_g,z_g)$$ is the grid position of the sphere, and $$(x_o,y_o,z_o)$$ is the position of the wave's origin and $$d$$ is the distance between the origin of the wave and grid position of the sphere. These displacements can also be summed to simulate interference between several waves. 
-Small projects
-molecule models
 
 <div class="gallery2">
     <figure class="gallery__item">
@@ -138,6 +136,3 @@ molecule models
     </figure>
 </div>
 
-## Water simulations
-
-## Unit cell models
