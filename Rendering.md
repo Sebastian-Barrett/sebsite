@@ -79,7 +79,13 @@ Alternatively the waves can be summed to show interfere waves from different sou
         <video autoplay loop muted playsinline src="/sebsite/images/dots_87_double_slit.mp4" class="gallery__img"></video> 
         <figcaption>Double slit</figcaption>
     </figure>
-
+    <figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_94_2diff_freq.mp4" class="gallery__img"></video> 
+        <figcaption>2 waves interfering</figcaption>
+    </figure><figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_95_4diff_freq.mp4" class="gallery__img"></video> 
+        <figcaption>4 waves interfering</figcaption>
+    </figure>
 </div>
     
 ## Other
