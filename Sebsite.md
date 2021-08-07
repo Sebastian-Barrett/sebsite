@@ -14,17 +14,16 @@ HTML is a language which defines the content of the page (title, text, images) a
 
 I started with a Jekyll theme called minima which gave me a lot of basic CSS styling for layout. I then modified this to add any extra elements that I wanted for my website (like the logo and bottom navigation bar) and wrote all the content for the pages. 
 
-## Content
 
-### Rendering 
+## Rendering 
 
-### Gifs
-
-
-### 3D models
+## Gifs
 
 
-### Logo
+## 3D models
+
+
+## Logo
 I happened to find a neat idea for a logo in my parametric curves exploration. I defined an curve:
 $$
     (X,Y) \\

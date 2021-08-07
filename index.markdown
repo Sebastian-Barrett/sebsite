@@ -92,7 +92,6 @@ layout: default
         <figcaption>Circus</figcaption>
         </a>
     </figure>
-    
 </div>
 
 
