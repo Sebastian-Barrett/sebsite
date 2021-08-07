@@ -58,7 +58,7 @@ layout: default
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/rendering">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_sine_loop.mp4" class="gallery__img"></video> 
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_98_2center_loop.mp4" class="gallery__img"></video> 
         <figcaption>Rendering</figcaption>
         </a>
     </figure>

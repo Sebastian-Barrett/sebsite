@@ -86,6 +86,14 @@ Alternatively the waves can be summed to show interfere waves from different sou
         <video autoplay loop muted playsinline src="/sebsite/images/dots_95_4diff_freq.mp4" class="gallery__img"></video> 
         <figcaption>4 waves interfering</figcaption>
     </figure>
+    </figure><figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_97.mp4" class="gallery__img"></video> 
+        <figcaption>2 waves same frequency</figcaption>
+    </figure>
+    </figure><figure class="gallery__item">
+        <video autoplay loop muted playsinline src="/sebsite/images/dots_96_2_center.mp4" class="gallery__img"></video> 
+        <figcaption>4 waves different frequencies</figcaption>
+    </figure>
 </div>
     
 ## Other
