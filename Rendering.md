@@ -91,15 +91,15 @@ Alternatively the waves can be summed to show interfere waves from different sou
         <video autoplay loop muted playsinline src="/sebsite/images/dots_97.mp4" class="gallery__img"></video> 
         <figcaption>2 waves same frequency</figcaption>
     </figure>
-    </figure><figure class="gallery__item">
+    <figure class="gallery__item">
         <video autoplay loop muted playsinline src="/sebsite/images/dots_96_2_center.mp4" class="gallery__img"></video> 
         <figcaption>2 waves different frequencies</figcaption>
     </figure>
-    </figure><figure class="gallery__item">
+    <figure class="gallery__item">
         <video autoplay loop muted playsinline src="/sebsite/images/dots_98_2center_loop.mp4" class="gallery__img"></video> 
         <figcaption>2 waves different frequencies</figcaption>
     </figure>
-    </figure><figure class="gallery__item">
+    <figure class="gallery__item">
         <video autoplay loop muted playsinline src="/sebsite/images/dots_100_3_interfere_loop.mp4" class="gallery__img"></video> 
         <figcaption>3 waves different frequencies</figcaption>
     </figure>

@@ -46,7 +46,10 @@ permalink: /laser
     <p>The laser cutter can engrave grey-scale images by modulating the power of the laser to the darkness of the pixel. So black engraves deeply and white is not touched. This works well for engraving photos of drawings, however some of the contrast is lost because increasing the power of the laser can just deepen the cut rather than darkening the wood. The pieces here were drawn by some of my more artistic friends. </p>
 
 </div>
-<img alt="Rob" src="/sebsite/images/rob.jpg" class="img-pair-left"><img alt="Rose" src="/sebsite/images/rose2.jpg" class="img-pair-right">
+<div class="gallery2">
+    <img alt="Rob" src="/sebsite/images/rob.jpg" class="gallery__img">
+    <img alt="Rose" src="/sebsite/images/rose2.jpg" class="gallery__img">
+</div>
 
 
 ## Maps

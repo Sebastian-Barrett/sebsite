@@ -57,3 +57,7 @@ And here are the better ones:
 ## Unit cell models
 I did materials science and one assignment asked for atomic lattice sketches, so in my typical overcomplicated style I decided to render them instead of draw them. 
 
+<div class="gallery2">
+    <video autoplay loop muted playsinline src="/sebsite/images/unit_cell_wurtzite_loop.mp4" class="gallery__img"></video> 
+
+</div>
