@@ -59,6 +59,7 @@ permalink: /laser
     <img alt="Map" src="/sebsite/images/perth.jpg" width="65%">
 </div>
 
+
 ## Kinetic art
 <div class="clearfix">
     <video autoplay loop muted playsinline src="/sebsite/images/kineticart.mp4" class="rightfloat"></video>

@@ -4,6 +4,14 @@
 
 @import "minima";
 
+// change highlight color
+::selection {
+    background: $light-highlight; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: $light-highlight; /* Gecko Browsers */
+}
+
 .rightfloat {
     /* for wide size*/
         float: right; 
