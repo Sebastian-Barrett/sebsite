@@ -63,7 +63,7 @@ layout: default
         </a>
     </figure>
     <figure class="gallery__item">
-        <a href="/sebsite/rendering">
+        <a href="/sebsite/atommodel">
         <img alt="Wurtzite lattice" src="/sebsite/images/wurtzite.jpg" class="gallery__img">
         <figcaption>Atom models</figcaption>
         </a>

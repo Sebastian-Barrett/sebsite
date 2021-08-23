@@ -18,9 +18,7 @@
         margin: 0 0 0 10px;
         width: 45%;
         max-width: 100%;
-        margin-bottom: $spacing-unit / 2;
-        margin-top: $spacing-unit / 2;
-
+       
     /* for thin size */
     @include media-query($on-palm) { 
         float: none;
