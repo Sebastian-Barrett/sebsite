@@ -95,7 +95,7 @@ layout: default
 </div>
 
 
-
+<!--
 # About me
 > My hobby is hobbies
 
@@ -123,6 +123,4 @@ Some of the skills I have dabbled in are:
 - Debating 
 - Tutoring
 - Cadets
-
-
-
+-->

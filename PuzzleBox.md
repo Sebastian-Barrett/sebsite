@@ -30,9 +30,16 @@ I designed the puzzle box joint by joint and then assembled the joints onto the 
 ## Milling
 <div class="clearfix">
     <img alt="Milling" src="/sebsite/images/milling.jpg" class="rightfloat">
-    <p></p>
+    <p>I designed the milling path on Fusion 360 in several stages:</p>
+    <ol>
+        <li>Facing stock above the parts</li>
+        <li>Clearing smaller details</li>
+        <li>Milling some vertical curves</li>
+        <li>Contouring the pieces top outlines with a down-cutter</li>
+        <li>Contouring the rest of the pieces depth with an up-cutter</li>
+    </ol>
 </div>
-<video autoplay loop muted playsinline src="/sebsite/images/puzzlecam.mp4" class="basicimg"></video> 
+<video autoplay loop muted playsinline src="/sebsite/images/puzzlecam2.mp4" class="basicimg" max-width="100%"></video> 
 
 <div class="clearfix">
     <img alt="Milled" src="/sebsite/images/milled.jpg" class="rightfloat">
