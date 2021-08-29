@@ -15,7 +15,7 @@
 .rightfloat {
     /* for wide size*/
         float: right; 
-        margin: 0 0 0 10px;
+        margin: 0px 0px 10px 10px;
         width: 45%;
         max-width: 100%;
        
@@ -48,6 +48,12 @@
 .img-pair-right{
     width: 47%;
     margin: 5px 0px 5px 3%;
+}
+
+.wide-image{
+    width: 100%;
+    height: auto;
+    margin: 5px;
 }
 
 .gallery {

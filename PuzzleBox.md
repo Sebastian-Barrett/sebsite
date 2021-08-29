@@ -5,12 +5,11 @@ permalink: /puzzlebox
 ---
 
 # Puzzle Box
-<blockquote>Simple to solve<br>Hard to make</blockquote>
 <div class="clearfix">
     <img alt="Puzzle Box" src="/sebsite/images/puzzlebox.jpg" class="rightfloat">
-    <p></p>
+    <blockquote>Simple to solve<br>Hard to make</blockquote>
+    <p>My puzzle box has 8 pieces that fit together smoothly with a variety of strange joints I designed. I designed in on the computer then milled it out of a plank of pine and lasered designs on the sides. It took me about 6 weeks of learning to make.</p>
 </div>
-
 
 
 ## Designing
@@ -36,14 +35,14 @@ I designed the puzzle box joint by joint and then assembled the joints onto the 
         <li>Clearing smaller details</li>
         <li>Milling some vertical curves</li>
         <li>Contouring the pieces top outlines with a down-cutter</li>
-        <li>Contouring the rest of the pieces depth with an up-cutter</li>
+        <li>Contouring the rest of the depth with an up-cutter</li>
     </ol>
 </div>
-<video autoplay loop muted playsinline src="/sebsite/images/puzzlecam2.mp4" class="basicimg" max-width="100%"></video> 
+<video autoplay loop muted playsinline src="/sebsite/images/puzzlecam.mp4" class="wide-image"></video> 
 
 <div class="clearfix">
     <img alt="Milled" src="/sebsite/images/milled.jpg" class="rightfloat">
-    <p>Once the parts had been milled I ran the bandsaw along the bottom to separate the pieces from the remaining stock. Then I glued, sanded, laser scored and oiled the cube to make the final product. I used 6 parametric designs, created from parametric curves</p>
+    <p>Once the parts had been milled I ran the bandsaw along the bottom to separate the pieces from the remaining stock. Then I glued, sanded, laser scored and oiled the cube to make the final product. I used 6 <a href="/sebsite/parametric">parametric designs</a> to create the laser patterns on the sides:</p>
 </div>
 
 <div class="gallery">
