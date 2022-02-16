@@ -17,6 +17,7 @@ I started with a Jekyll theme called minima which gave me a lot of basic CSS sty
 
 ## Rendering 
 
+
 ## Gifs
 
 
