@@ -28,3 +28,5 @@ The robot was controlled from my laptop, using a serial monitor to send WASD com
 
 ## Autonomous navigation 
 There was also a maze mode, where it would try to get through a maze by following the right wall. I could program right turns because the battery voltage varied over usage, so instead I made to robot bounce against the wall by constantly doing a wide right turning and then pivoting left every time a close wall is detected.
+
+<video autoplay loop muted playsinline controls src="/sebsite/images/robotmoving.mp4" class="gallery__img"></video>
