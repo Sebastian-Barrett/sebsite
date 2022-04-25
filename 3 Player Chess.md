@@ -9,6 +9,7 @@ permalink: /3chess
     <img alt="Finished chess set" src="/sebsite/images/3_final_set.jpg" class="rightfloat">
     <blockquote>Because I couldn't just build a simple chess board</blockquote>
     <p>I chose this project because I always wanted to make a proper and beautiful chess set. I got to practice some interesting woodwork and learn the lathe. It took me about 150 hours over many weeks. The result is a unique handcrafted piece, with a fine board and many imperfect chessmen. I designed the board in two halves in order to make it more portable and embedded magnets to hold it together. I designed the pieces to be quite traditional and for each of the main pieces to have some extra modification after the lathe. </p>
+    <p>I got the rules of this variant of three player chess from this <a href="https://www.youtube.com/watch?v=NMLVaFImzVs" target="_blank">video</a>.</p>
 </div>
 
 
@@ -19,11 +20,12 @@ permalink: /3chess
 </div>
 
 <div class="clearfix">
+    <video autoplay loop muted playsinline src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
     <p>I used CNC to make the strange quadrilateral shaped tiles out of some Jarrah and Marri placks. The design of the tile shapes comes from dividing the sides and center lines of a hexagon into 8 equal segments and drawing lines between certain points. After modeling the board I did the CAM in Fusion 360 and then milled it out on a symbiosis mill. I left stock on the bottom of the board and then ran each board through the bandsaw to separate the tiles from the board.</p>
 </div>
 
  
-<video autoplay loop muted playsinline src="/sebsite/images/3_milling.mp4" class="gallery__img"></video> 
+
 
 
 
