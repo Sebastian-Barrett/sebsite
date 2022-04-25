@@ -59,24 +59,42 @@ I designed my pieces to be quite traditional and combined lots of features I lik
 ### Pawn 
 finished all colors
 turning video 
-
-<video autoplay loop muted playsinline controls src="/sebsite/images/3_pawn_turning.mp4" class="gallery__img"></video> 
+<div class="gallery2">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_pawn_turning.mp4" class="gallery__img"></video> 
+    <img alt="Finished pawns" src="/sebsite/images/3_pawns.jpg" class="gallery__img">
+</div>
 
 ### Rook
+<div class="gallery2">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_rook_turning.mp4" class="gallery__img"></video> 
+    <img alt="Finished rooks" src="/sebsite/images/3_rooks.jpg" class="gallery__img">
+</div>
 
 ### Knight
-
+<div class="gallery2">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_knight_turning.mp4" class="gallery__img"></video> 
+    <img alt="Cutting knight" src="/sebsite/images/3_knight_cutting.gif" class="gallery__img">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_knight_sanding.mp4" class="gallery__img"></video>
+    <img alt="Finished knight" src="/sebsite/images/3_knights.jpg" class="gallery__img">
+</div>
 
 ### Bishop
-
+<div class="gallery2">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_bishop_turning.mp4" class="gallery__img"></video> 
+    <img alt="Finished pawns" src="/sebsite/images/3_bishops.jpg" class="gallery__img">
+</div>
 
 ### Queen
-
+<div class="gallery2">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_queen_turning.mp4" class="gallery__img"></video> 
+    <img alt="Finished pawns" src="/sebsite/images/3_queens.jpg" class="gallery__img">
+</div>
 
 ### King
-turning 
-    videos 
-post processing cuts
+<div class="gallery2">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/3_king_turning.mp4" class="gallery__img"></video> 
+    <img alt="Finished pawns" src="/sebsite/images/3_kings.jpg" class="gallery__img">
+</div>
 
 
 I also wanted my pieces to be weighted so I used broken 6mm carbide endmills from the CNC mill 
