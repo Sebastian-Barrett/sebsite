@@ -44,7 +44,7 @@ The thickness of the escapement teeth had to be adjusted so that they were thin 
 </div> 
 
 ## Gears
-All the gears were created using a <a href="https://geargenerator.com/">gear generator</a>. There were a lot of restrictions I had to accommodate for:
+All the gears were created using a <a href="https://geargenerator.com/" target="_blank">gear generator</a>. There were a lot of restrictions I had to accommodate for:
 - getting the right pair of gear ratios
 - making some gears big enough to fit around the pipe axle
 - making gears small enough so they didn't hit other components

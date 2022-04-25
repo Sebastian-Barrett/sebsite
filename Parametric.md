@@ -11,7 +11,7 @@ Parametric curves are curve where the x and y positions are defined by functions
 
 ## Desmos dots
 <div class="clearfix">
-    <p>The first cool thing I did with parametric functions was in <a href="https://www.desmos.com/calculator">desmos</a>, an excellent graphing calculator. I defined a parametric curve as a path and them made a lot of points follow that path all at slightly faster speeds. This is super simple but the emergent behaviors are beautiful to watch. You can play with my graph <a href="https://www.desmos.com/calculator/vdyulhrk8k">here</a>.</p>
+    <p>The first cool thing I did with parametric functions was in <a href="https://www.desmos.com/calculator">desmos</a>, an excellent graphing calculator. I defined a parametric curve as a path and them made a lot of points follow that path all at slightly faster speeds. This is super simple but the emergent behaviors are beautiful to watch. You can play with my graph <a href="https://www.desmos.com/calculator/vdyulhrk8k" target="_blank">here</a>.</p>
 </div>
 
 <div class="gallery2">
@@ -38,7 +38,7 @@ Parametric curves are curve where the x and y positions are defined by functions
 
 
 ## Python DXF
-<a href="/sebsite/laser">Laser cutting</a> is excellent because anything that you can make into a DXF file you can use. I wanted to laser cut parametric curves so I figured out a way to go from an equation to a cuttable DXF file using python and a module called <a href="https://ezdxf.readthedocs.io/en/stable/">ezdxf</a>. The first version worked by approximating parametric curves using a lot of really small straight lines, then I improved this to make a fitted curve through a bunch of points on the parametric curve. 
+<a href="/sebsite/laser">Laser cutting</a> is excellent because anything that you can make into a DXF file you can use. I wanted to laser cut parametric curves so I figured out a way to go from an equation to a cuttable DXF file using python and a module called <a href="https://ezdxf.readthedocs.io/en/stable/" target="_blank">ezdxf</a>. The first version worked by approximating parametric curves using a lot of really small straight lines, then I improved this to make a fitted curve through a bunch of points on the parametric curve. 
 <div class="clearfix">
     <img alt="DXF" src="/sebsite/images/parametricgrid.jpg" class="rightfloat">
 
