@@ -56,6 +56,8 @@ For a three player chess board I needed 48 chess pieces, which meant I got a lot
 I spent a bit of time learning about how to lathe (<a href="https://www.youtube.com/watch?v=KXzEjCorWO0" target="_blank">my favorite video</a>) and practising. 
 I designed my pieces to be quite traditional and combined lots of features I liked. I decided to keep the same base profile and base diameter for all the pieces. I used my designs to create 6 laser cut outlines of the profiles I wanted so that I could make my pieces reasonably similar. 
 
+jig 
+
 ### Pawn 
 finished all colors
 turning video 
@@ -96,12 +98,18 @@ turning video
     <img alt="Finished pawns" src="/sebsite/images/3_kings.jpg" class="gallery__img">
 </div>
 
+### Weighting
+<div class="clearfix">
+    <img alt="Piece holder jig" src="/sebsite/images/3_piece_holder.jpg" class="rightfloat">
+    <p>I also wanted my pieces to be weighted so I used broken 6mm carbide endmills from the CNC mill (because we have a lot of broken ones). To break the carbide to useable lengths I used a hammer and vice because it was too hard to cut easily. I made a jig to hold the pieces and drilled a hole for the carbide. Then I used hot glue to seal the hole and make the base flat. 
+    </p>
+</div>
 
-I also wanted my pieces to be weighted so I used broken 6mm carbide endmills from the CNC mill 
+<div class="gallery2">
+    <img alt="Carbide inserted" src="/sebsite/images/3_carbide_inserted.jpg" class="gallery__img">
+    <img alt="Finished base" src="/sebsite/images/3_piece_base.jpg" class="gallery__img">
+</div>
 
-
-finishing 
-final images 
 
 
 ## Case
