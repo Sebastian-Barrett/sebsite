@@ -9,6 +9,12 @@ layout: default
 
 <div class="gallery" >
     <figure class="gallery__item">
+        <a href="/sebsite/3chess">
+        <img alt="3 player chess set" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
+        <figcaption>3 player chess</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
         <a href="/sebsite/clock">
         <img alt="Clock" src="/sebsite/images/clock2.jpg" class="gallery__img">
         <figcaption>Clock</figcaption>
