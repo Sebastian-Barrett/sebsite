@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 3 Player Chess
-permalink: /3chess
+title: Machinist Chess Set
+permalink: /Machinistchess
 ---
 
-# 5-Axis Machined Chess Set
+# Machinist Chess Set
 <div class="clearfix">
     <img alt="Finished chess set" src="/sebsite/images/DSC_0088 cropped.JPG" class="rightfloat">
     <blockquote>A 5-axis learning project</blockquote>
