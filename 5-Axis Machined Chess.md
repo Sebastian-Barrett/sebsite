@@ -29,7 +29,10 @@ permalink: /Machinistchess
 </div>
 
 ## Circular board
-<p>You can learn the rules here: <a href="https://www.youtube.com/watch?v=Ishw2T-7Kk0" target="_blank">Circular chess rules</a>.</p>
+<div class="gallery2">
+    <p>Circular chess is the easiest of the 3 variants to understand, making it quick to play with friends. It is also a simpler game than regular chess, because it has the same number of squares, but they are less interconnected so there are less possible moves each turn. </p>
+    <iframe src="https://www.youtube.com/watch?v=Ishw2T-7Kk0" width="420" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Glinski's hexagonal board
 <p>You can learn the rules from CGP Grey's video: <a href="https://www.youtube.com/watch?v=bgR3yESAEVE" target="_blank">Can Chess, with Hexagons?</a>.</p>
