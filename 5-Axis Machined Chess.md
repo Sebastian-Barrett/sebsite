@@ -15,10 +15,16 @@ permalink: /Machinistchess
 ## Pieces 
 
 <div class="gallery2">
-    <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.<p>
+    <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.</p>
     <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
+    <img alt="Finished pawns" src="/sebsite/images/Blank.png" class="gallery__img">
     <p>I designed the pieces with more facets based on their importance. Pawns are pentagons, the minor pieces (Rooks, Knights, and Bishops) are hexagons, the major pieces (Queen, and for grand chess the Cardinal, and Empress) are heptagons, and the all-important King is an octagon. The pieces were made in Rhino by sketching their side profile, then lofting the profile between several rotated copies. I used Rhino because it has a twist command, allowing me to make the pieces spiral after lofting. </p>
-    <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video>
+    <p></p>
+    <img alt="Finished pawns" src="/sebsite/images/Blank.png" class="gallery__img">
+    <img alt="Finished pawns" src="/sebsite/images/Blank.png" class="gallery__img">
+    <p></p>
+    
+
 </div>
 
 
