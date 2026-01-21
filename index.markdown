@@ -16,7 +16,7 @@ layout: default
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/clock">
-        <img alt="Clock" src="/sebsite/images/clock2.jpg" class="gallery__img">
+        <img alt="Clock" src="/sebsite/images/clock8.jpg" class="gallery__img">
         <figcaption>Clock</figcaption>
         </a>
     </figure>
@@ -64,7 +64,7 @@ layout: default
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/rendering">
-        <video autoplay loop muted playsinline src="/sebsite/images/dots_98_2center_loop.mp4" class="gallery__img"></video> 
+        <video id="render_video" autoplay loop muted playsinline src="/sebsite/images/dots_98_2center_loop_2x3.mp4" class="gallery__img"></video> 
         <figcaption>Rendering</figcaption>
         </a>
     </figure>

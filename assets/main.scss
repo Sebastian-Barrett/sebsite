@@ -147,6 +147,10 @@
 
 }
 
+#render_video {
+    transform: rotate(90deg);
+}
+
 .clearfix::after {
     content: "";
     clear: both;
