@@ -31,17 +31,34 @@ permalink: /Machinistchess
 ## Circular board
 <div class="gallery2">
     <p>Circular chess is the easiest of the 3 variants to understand, making it quick to play with friends. It is also a simpler game than regular chess, because it has the same number of squares, but they are less interconnected so there are less possible moves each turn. </p>
-    <iframe src="https://www.youtube.com/watch?v=Ishw2T-7Kk0" width="420" height="315" frameborder="0" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Glinski's hexagonal board
-<p>You can learn the rules from CGP Grey's video: <a href="https://www.youtube.com/watch?v=bgR3yESAEVE" target="_blank">Can Chess, with Hexagons?</a>.</p>
+<div class="gallery2">
+    <p>Glinski’s Hexagonal chess looks the coolest and is quite fun to play but the adjusted piece moves takes some time to get used to. The game tends to play slower and longer than regular chess because the Pawns start protecting each other with optimal structure. This creates and instant ideal defence so the player that attacks first tends to lose. </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bgR3yESAEVE?si=WScL2dkg9W2pdFN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Capablanka chess: 10x10 board
-<p>You can learn the rules here: <a href="https://www.youtube.com/watch?v=_E8VgZS2X1U" target="_blank">Grand chess rules</a>.</p>
+<div class="gallery2">
+    <p>The 10x10 board can be used to play Capablanca chess or Grand chess. Capablanca chess was originally invented with a 10x10 board but Capablanca later decided to change to a 10x8 board and that is what modern Capablanca chess uses. The rules are simple to learn but much more complicated than regular chess with more powerful pieces and more possible moves each turn. I really like the Cardinal and Empress pieces and an easy way to get used to them is to play on the regular 8x8 board and swap the queen for a Cardinal or Empress. </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-
+## Box and Drawers
+<div class="gallery2">
+    <p>The normal 8x8 board is built on top of a box with drawers to store the pieces. I designed the box and drawers from flat panels that slot together using tongue and groove joints. These joints locate all the panels accurately and give the box a stable structure even before glue. </p>
+    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
+    <p>I hid magnets in the middle wall and the backs of the drawers to make the drawers stay in when fully closed. They are glued into thin pockets with felt and foam covering them. </p>
+    <p>I made the drawers with fillets on the outside corners to help it locate and slide smoothly. After the drawer was glued together, I machined foam to hold the pieces safely in the drawer. Machining foam is surprisingly hard, because foam tends to rip and create fuzzy surfaces when machined in particular ways. I found spiralling up from the centre of the pocket to the top and cutting conventional to create the cleanest surfaces. </p>
+    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
+    <p>I had to glue the top and walls of the box together without the bottom so that I could attach felt and foam to the inside of the box. The felt creates a soft sliding surface for the aluminium drawer, and the foam holds the pieces in place if the box is inverted. I didn’t add an end stop so that the drawers can be taken out during a game to store/display the taken pieces. </p>
+    <p>I made spiral brass and aluminium drawer handles to match the sets and identify the drawers. I also mirrored the foam in each drawer so that the layout of the pieces in the drawer matches how they should be setup on the normal board. </p>
+    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
+</div>
 
 ## Pieces 
 <div class="gallery2">
@@ -52,80 +69,44 @@ permalink: /Machinistchess
     <p>All the pieces were finished in one operation on the 5-axins CNC mill, parted to a small tab that can be broken by hand and filed away. To protect against tarnishing the pieces were dipped in a clear lacquer. I tried spraying lacquer but couldn’t get a clean surface due to complex curves or my bad technique. I glued thin laser cut leather to the bases of the pieces to prevent them from making loud noises or scratching the chess board. I chose leather instead of felt because it has a more premium feeling. </p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p>For Grand chess I had to make two extra pawns and two new pieces: a Cardinal (Bishop + Knight) and an Empress (Rook + Knight). With the Queen (Bishop + Knight) these three pieces are all the possible combinations of the minor pieces. I designed the Cardinal and Empress last and they have more intricate detail than the other pieces, making them harder to machine. For Glinski’s hexagonal chess I made an extra Bishop and Pawn. I also included a spare Queen for promotion.</p>
+    <p>For Grand chess I had to make two extra Pawns and two new pieces: a Cardinal (Bishop + Knight) and an Empress (Rook + Knight). With the Queen (Bishop + Knight) these three pieces are all the possible combinations of the minor pieces. I designed the Cardinal and Empress last and they have more intricate detail than the other pieces, making them harder to machine. For Glinski’s hexagonal chess I made an extra Bishop and Pawn. I also included a spare Queen for promotion.</p>
 </div>
 
 
 ## Pawn 
 <div class="gallery2">
-    <p></p>
+    <p>The Pawns are a simple pieces but they are distinctive and look clean. For the 10x10 board I had to make four more pawns than a regular set.</p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
+    <p>The Pawn typically has a collar just below its round head, but I wasn’t able to include this detail on my Pawns because of machining constraints. A mill uses round cutting tools which means it can’t cut any feature with a smaller radius than the tool. Of course, there are tools with tiny diameters which would allow cutting smaller features, but smaller tools are also shorter and wouldn’t be able to reach deep enough. So the Pawns with collars I designed had small heads, and awkward collars with a large gap to the head. </p>
+    <p>I initially tried designing Pawns with only 4 sides, but they looked ugly because from one direction they head was too small and the other the head was too large. The five sided Pawn is more balanced because the head is always about the same size from any direction.</p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
+    <p>I was able to automate the probing of my stock in order to speed up machining of all 20 Pawns. This mean I only had to replace the finished Pawn with new stock and press play on the program. The cycle time of a Pawn was only about 10 minutes including setup!</p>
 </div>
 
 ## Rook
 <div class="gallery2">
-    <p></p>
+    <p>The rook design is pretty simple, with big castellations and large decorative chamfers. When machining I cut the top of the Rook before machining the main body it maximises the rigidity and minimise vibration.  </p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
+    <p>The rook was the first piece I made, and I originally designed it with a corner fillet the same radius as my endmill. When I tried to cut the piece, it vibrated horribly in the sharp corner because the tool engagement spiked and the tool was in a long thin holder. This vibration left a cool spiral mark on the piece, where the endmill must have resonated with the part. I was able to fix this easily by making all fillets significantly larger that the tool. </p>
 </div>
 
 ## Knight
 <div class="gallery2">
-    <p></p>
+    <p>The Knight is the most complicated piece in every chess set, and my Knight has engraved eyes and nostrils and a grooved mane. I designed the Knight with a relatively small head because machining the space between the head and the body was very difficult.</p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
+    <p>To finish the back of the Knight I couldn’t swarf mill it with the side of an endmill because the mane was in the way. So, I had to do surface finishing using a ball endmill going back and forth with small stepovers. This left a different texture on the back sides to all the other pieces but fortunately it still had the same shine. </p>
+    <p>The Knight is the only piece that doesn’t spiral. I did try twisting it around the vertical axis, but that seemed like it was looking over its shoulder. </p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
+    <p>The CAM program for the Knight was the most complex, with lots of little operation getting the mane and eyes right. </p>
 </div>
 
 ## Bishop
 <div class="gallery2">
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
     <p></p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
@@ -146,26 +127,10 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
 </div>
 
 ## King
 <div class="gallery2">
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
     <p></p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
@@ -186,26 +151,10 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
 </div>
 
 ## Empress
 <div class="gallery2">
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
     <p></p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
