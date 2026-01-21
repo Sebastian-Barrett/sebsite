@@ -7,16 +7,20 @@ permalink: /Machinistchess
 # Machinist Chess Set
 <div class="clearfix">
     <img alt="Finished chess set" src="/sebsite/images/DSC_0088 cropped.JPG" class="rightfloat">
-    <blockquote>A 5-axis learning project</blockquote>
-    <p>The pieces were machined from aluminum and brass using a 5-axis CNC mill to create the spiral design. The regular chess board was made in matching aluminum and brass inlay and houses a pair of drawers for the pieces. I also made 3 extra variant boards to play some unusual forms of chess: a circular board, a hexagonal board and a 10x10 board.</p>
+    <blockquote>My 5-axis CNC learning project</blockquote>
+    <p>The pieces were machined from aluminium and brass using a 5-axis CNC mill to create a unique spiral design. The regular chess board was made in matching aluminium and brass inlay and houses a pair of drawers for storing the pieces. I also made 3 extra variant boards to play some unusual forms of chess: a circular board, a hexagonal board and a 10x10 board.  The ability to customize to make unique designs like variant boards is my favourite part of making things for myself. </p>
+    <p>I started this project to learn how to use a 5 axis CNC machine, and it took me a year and a half to complete. </p>
 </div>
 
 ## Pieces 
-I had to make a few extra pieces for the variant boards: two extra pawns, a cardinal and an empress for grand chess, an extra bishop for Glinski's hexagonal chess, and a spare queen for promotion. 
+
 <div class="gallery2">
+    <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.<p>
     <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
-    <p>Each piece was designed with flat spiraling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish as is really fast to machine.<p>
+    <p>I designed the pieces with more facets based on their importance. Pawns are pentagons, the minor pieces (Rooks, Knights, and Bishops) are hexagons, the major pieces (Queen, and for grand chess the Cardinal, and Empress) are heptagons, and the all-important King is an octagon. The pieces were made in Rhino by sketching their side profile, then lofting the profile between several rotated copies. I used Rhino because it has a twist command, allowing me to make the pieces spiral after lofting. </p>
+    <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video>
 </div>
+
 
 ### Pawn 
 <div class="gallery2">
