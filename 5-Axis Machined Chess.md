@@ -61,13 +61,13 @@ permalink: /Machinistchess
 </div>
 
 ## Pieces 
-<div class="gallery2" display: flex; align-items: center;>
+<div class="gallery2">
     <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.</p>
     <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_facets.jpg" class="gallery__img">
     <p>I designed the pieces with more facets based on their importance. Pawns are pentagons, the minor pieces (Rooks, Knights, and Bishops) are hexagons, the major pieces (Queen, and for grand chess the Cardinal, and Empress) are heptagons, and the all-important King is an octagon. The pieces were made in Rhino by sketching their side profile, then lofting the profile between several rotated copies. I used Rhino because it has a twist command, allowing me to make the pieces spiral after lofting. </p>
-    <p>All the pieces were finished in one operation on the 5-axins CNC mill, parted to a small tab that can be broken by hand and filed away. To protect against tarnishing the pieces were dipped in a clear lacquer. I tried spraying lacquer but couldn’t get a clean surface due to complex curves or my bad technique. I glued thin laser cut leather to the bases of the pieces to prevent them from making loud noises or scratching the chess board. I chose leather instead of felt because it has a more premium feeling. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <p>All the pieces were finished in one operation on the 5-axis CNC mill, parted to a small tab that can be broken by hand and filed away. To protect against tarnishing the pieces were dipped in a clear lacquer. I tried spraying lacquer but couldn’t get a clean surface due to complex curves or my bad technique. I glued thin laser cut leather to the bases of the pieces to prevent them from making loud noises or scratching the chess board. I chose leather instead of felt because it has a more premium feeling. </p>
+    <video autoplay loop playsinline controls src="/sebsite/images/5_laquer.mp4" class="gallery__img"></video> 
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
     <p>For Grand chess I had to make two extra Pawns and two new pieces: a Cardinal (Bishop + Knight) and an Empress (Rook + Knight). With the Queen (Bishop + Knight) these three pieces are all the possible combinations of the minor pieces. I designed the Cardinal and Empress last and they have more intricate detail than the other pieces, making them harder to machine. For Glinski’s hexagonal chess I made an extra Bishop and Pawn. I also included a spare Queen for promotion.</p>
 </div>
