@@ -10,7 +10,7 @@ layout: default
 <div class="gallery" >
     <figure class="gallery__item">
         <a href="/sebsite/3chess">
-        <img alt="3 Player Phess set" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
+        <img alt="3 Player Chess set" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
         <figcaption>3 Player Chess</figcaption>
         </a>
     </figure>
@@ -32,19 +32,19 @@ layout: default
         <figcaption>My Game</figcaption>
         </a>
     </figure>
-    <figure class="gallery__item">
+    <!--figure class="gallery__item">
         <a href="/sebsite/sebsite">
         <img alt="Sebsite" src="/sebsite/images/slogo2.png" class="gallery__img">
         <figcaption>Sebsite</figcaption>
         </a>
-    </figure>
+    </figure-->
     <figure class="gallery__item">
         <a href="/sebsite/robot">
         <img alt="Robot" src="/sebsite/images/robot.jpg" class="gallery__img">
         <figcaption>Robot</figcaption>
         </a>
     </figure>
-    <figure class="gallery__item">
+    <!--figure class="gallery__item">
         <a href="/sebsite/chess">
         <img alt="Chess" src="/sebsite/images/chess4.jpg" class="gallery__img">
         <figcaption>Chess</figcaption>
@@ -55,7 +55,7 @@ layout: default
         <img alt="Crochet pig" src="/sebsite/images/pig1.jpg" class="gallery__img">
         <figcaption>Crochet</figcaption>
         </a>
-    </figure>
+    </figure-->
     <figure class="gallery__item">
         <a href="/sebsite/parametric">
         <img alt="Parametric flower" src="/sebsite/images/parametricflower.jpg" class="gallery__img">
@@ -80,24 +80,24 @@ layout: default
         <figcaption>CNC</figcaption>
         </a>
     </figure>
-    <figure class="gallery__item">
+    <!--figure class="gallery__item">
         <a href="/sebsite/laser">
         <img alt="Laser" src="/sebsite/images/art.jpg" class="gallery__img">
         <figcaption>Laser cutting</figcaption>
         </a>
-    </figure>
+    </figure-->
     <figure class="gallery__item">
         <a href="/sebsite/python">
         <img alt="Evolution" src="/sebsite/images/evolution.jpg" class="gallery__img">
         <figcaption>Python</figcaption>
         </a>
     </figure>
-    <figure class="gallery__item">
+    <!--figure class="gallery__item">
         <a href="/sebsite/circus">
         <img alt="Fire clubs" src="/sebsite/images/clubs.jpg" class="gallery__img">
         <figcaption>Circus</figcaption>
         </a>
-    </figure>
+    </figure-->
 </div>
 
 
