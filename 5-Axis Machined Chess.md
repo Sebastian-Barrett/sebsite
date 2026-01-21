@@ -107,14 +107,12 @@ permalink: /Machinistchess
 
 ## Bishop
 <div class="gallery2">
-    <p></p>
+    <p>The Bishop is a pretty simple piece, with the traditional collar, slot in the hat and small ball on top. The collar is further down from the head than most bishops because I needed space to fit an endmill between the head and the collar. </p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
-    <p></p>
+    <p>The slot in the head is also a bit wider than normal because they are traditionally made with a saw. I could have made the slot thinner with a smaller endmill, but that would have forced the slot to be quite shallow. It was necessary to positioning the slot so that it looks symmetric, which was surprisingly difficult on a piece that is not symmetric. </p>
+    <p>The ball on top had to be mostly merged with the main body because the endmill I used to make the sides had a large radius. I could have made the connection between the head and the ball thinner, but only by increasing the height of the ball which looks silly. </p>
     <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.png" class="gallery__img">
-    <p></p>
 </div>
 
 ## Queen
