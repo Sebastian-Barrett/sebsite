@@ -20,11 +20,11 @@ permalink: /Machinistchess
     <p>After gluing the brass tiles, I faced the chess boards flat. I used a fancy spiral facing pattern because some of the facing marks were still visible after sanding and polishing. When gluing the tiles in some of them pressed diagonally so the glue didn’t touch the entire bottom face. These tiles ripped out during machining, but fortunately I was able to machine the pocket 0.1mm larger and put in a new brass square.</p>
     <p>I chose to sand and polish the boards after facing because the faced surface was distractingly shiny and I didn’t like the machining marks. I polished one of the boards to a mirror finish but that was also distracting while playing so I polished it back to a dull reflective. </p>
     <img alt="" src="/sebsite/images/5_mirror.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/5_border.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_border.JPG" class="gallery__img">
     <p>To differentiate between the board and the outside boarder I machined the boarder after polishing. This was most important for the hexagonal board because some of the aluminium tiles on the corners were ambiguous. </p>
     <p>After polishing and machining the borders I coated them with a clear lacquer to prevent tarnishing.</p>
     <img alt="" src="/sebsite/images/5_coating.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/5_feet_view.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_feet_view.png" class="gallery__img">
     <p>I designed the extra variant boards to stack with the main box so they could all store together. The box has four curved grooves in the top and bottom that fit and locate the Delrin feet of the variant boards. The circular and hexagonal boards are on opposite sides of one sheet of aluminium, with feet on both sides, so it can stack on the top or bottom of the box. The 10x10 board takes only has feet on the bottom, so it can only be put on top of the box. The box itself also has 4 thinner feet on the bottom to avoid scratching the table. </p>
 </div>
 
@@ -50,18 +50,18 @@ permalink: /Machinistchess
 <div class="gallery2">
     <p>The normal 8x8 board is built on top of a box with drawers to store the pieces. I designed the box and drawers from flat panels that slot together using tongue and groove joints. These joints locate all the panels accurately and give the box a stable structure even before glue. </p>
     <img alt="" src="/sebsite/images/5_tounge_groove.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/5_magnets.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_magnet.png" class="gallery__img">
     <p>I hid magnets in the middle wall and the backs of the drawers to make the drawers stay in when fully closed. They are glued into thin pockets with felt and foam covering them. </p>
     <p>I made the drawers with fillets on the outside corners to help it locate and slide smoothly. After the drawer was glued together, I machined foam to hold the pieces safely in the drawer. Machining foam is surprisingly hard, because foam tends to rip and create fuzzy surfaces when machined in particular ways. I found spiralling up from the centre of the pocket to the top and cutting conventional to create the cleanest surfaces. </p>
     <img alt="" src="/sebsite/images/5_foam.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_foam_inside.jpg" class="gallery__img">
     <p>I had to glue the top and walls of the box together without the bottom so that I could attach felt and foam to the inside of the box. The felt creates a soft sliding surface for the aluminium drawer, and the foam holds the pieces in place if the box is inverted. I didn’t add an end stop so that the drawers can be taken out during a game to store/display the taken pieces. </p>
     <p>I made spiral brass and aluminium drawer handles to match the sets and identify the drawers. I also mirrored the foam in each drawer so that the layout of the pieces in the drawer matches how they should be setup on the normal board. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_drawer.jpg" class="gallery__img">
 </div>
 
 ## Pieces 
-<div class="gallery2">
+<div class="gallery2" display: flex; align-items: center;>
     <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.</p>
     <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
