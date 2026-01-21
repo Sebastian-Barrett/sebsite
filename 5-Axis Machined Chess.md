@@ -32,6 +32,7 @@ permalink: /Machinistchess
 <div class="gallery2">
     <p>Circular chess is the easiest of the 3 variants to understand, making it quick to play with friends. It is also a simpler game than regular chess, because it has the same number of squares, but they are less interconnected so there are less possible moves each turn. </p>
     <iframe src="https://www.youtube.com/watch?v=Ishw2T-7Kk0" width="420" height="315" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Glinski's hexagonal board
