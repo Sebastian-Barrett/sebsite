@@ -14,12 +14,12 @@ permalink: /Machinistchess
 
 My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.
 <div class="clearfix">
-    <iframe width="90%" height="auto" aspect-ratio="16/9" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="single_youtube" aspect-ratio="16/9" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 # Boards
 <div class="gallery2">
-    <p>All the boards were made by cutting shallow pockets into a thick sheet of aluminium, then inlaying laser cut brass tiles. The main difficultly with this style of manufacture is that milled pockets can’t have sharp corners, so the brass tiles are fileted and don’t touch. However the hexagonal boardcould have some sharp cornered tiles because it had two colors being inlaid and the corners were mostly external.</p>
+    <p>All the boards were made by cutting shallow pockets into a thick sheet of aluminium, then inlaying laser cut brass tiles. The main difficultly with this style of manufacture is that milled pockets can’t have sharp corners, so the brass tiles are fileted and don’t touch. However the hexagonal board could have some sharp cornered tiles because it had two colors being inlaid and the corners were mostly external.</p>
     <img alt="" src="/sebsite/images/5_preglue.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_ripped_tile.jpg" class="gallery__img">
     <p>After gluing the brass tiles, I faced the chess boards flat. I used a fancy spiral facing pattern because some of the facing marks were still visible after sanding and polishing. When gluing the tiles in some of them pressed diagonally so the glue didn’t touch the entire bottom face. These tiles ripped out during machining, but fortunately I was able to machine the pocket 0.1mm larger and put in a new brass square.</p>
