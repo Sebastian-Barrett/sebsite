@@ -12,6 +12,9 @@ permalink: /Machinistchess
     <p>I started this project to learn how to use a 5 axis CNC machine, and it took me a year and a half to complete. </p>
 </div>
 
+<p>My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.</p>
+<iframe max_width=90% width="auto" height="auto" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Boards
 <div class="gallery2">
     <p>All the boards were made by cutting shallow pockets into a thick sheet of aluminium, then inlaying laser cut brass tiles. The main difficultly with this style of manufacture is that milled pockets can’t have sharp corners, so the brass tiles are fileted and don’t touch. The exception was the hexagonal board because it had two tiles being inlayed the corners were mostly external and could be sharp.</p>
