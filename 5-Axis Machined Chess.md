@@ -127,28 +127,28 @@ permalink: /Machinistchess
 
 ## King
 <div class="gallery2">
-    <p>The King is modelled on the crown of England, with the traditional cross on top. The cross was the only tricky part, because I wanted to make it thin and delicate without breaking. I decided to made it 2mm square, and fortunately it hasn’t broken yet. I also went with a very plain square cross because it made machining so much easier. </p>
+    <p>The King is modelled on the crown of England, with the traditional cross on top. The cross was the most tricky part, because I wanted to make it thin and delicate without breaking. I decided to made it 2mm square, and fortunately it hasn’t broken yet. I also went with a very plain square cross because it made machining so much easier. </p>
     <img alt="" src="/sebsite/images/5_king.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_king_head.jpg" class="gallery__img">
     <p>The cross has under-hangs that must be machined from the side, but this left machining marks on my aluminium king. To avoid the streaky lines on the brass King I offset the toolpath from the head slightly, leaving behind two small squares. </p>
 </div>
 
 ## Cardinal
 <div class="gallery2">
-    <p>The Cardinal is one of the two extra pieces needed to play Grand chess or Capablanca chess on the 10x10 board. The Cardinal moves like the combination of a Bishop and a Knight making it slightly weaker than the Queen but very manoeuvrable especially around obstacles in early game. The Cardinal is also called an Archbishop or a Princess, and I chose to use Cardinal for my set because Cardinals wear a very distinctive mitre hat that I could use for the head of the piece. This mitre hat is actually also what the Bishop’s head is based on but because bishops are normally made on the lathe the design was adapted and doesn’t look like a real mitre anymore. Real mitres taper at a variable angle around the hat, which makes them very difficult to manufacture unless you have a 5-axis machine. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <p>The Cardinal is one of the two extra pieces needed to play Grand chess or Capablanca chess on the 10x10 board. The Cardinal moves like the combination of a Bishop and a Knight making it slightly weaker than the Queen but very manoeuvrable especially around obstacles in early game. The Cardinal is also called an Archbishop or a Princess, but I chose to call it Cardinal for my set because Cardinals wear a very distinctive mitre hat that I could use for the head of the piece. This mitre hat is actually also what the Bishop’s head is based on but because bishops are normally made on the lathe the design was adapted and doesn’t look like a real mitre anymore. Real mitres taper at a variable angle around the hat, which makes them very difficult to manufacture unless you have a 5-axis machine. </p>
+    <img alt="" src="/sebsite/images/5_cardinal.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_cardianl_head.JPG" class="gallery__img">
     <p>I included a spherical bump inside the hat to represent a person’s head inside the mitre hat. I wanted the corner between the head and the hat to be quite small, so I used a 0.5mm tapered ball nose endmill. This was the most difficult piece to make because of this small corner radius deep in the hat. This was also the only piece where the spiral sides don’t continue to the top of the piece. </p>
 </div>
 
 ## Empress
 <div class="gallery2">
     <p>The Empress is the second extra piece required to play on the 10x10 board. The empress moves like a rook and a Knight combined making it on par with the Queen’s power. The Empress is more manurable in early game because it can jump over pieces whereas the queen is more powerful in late game because it controls more area. The Empress is also called chancellor, marshal, or a knook but I chose empress because a crown is distinctive and associated with empresses whereas the other names don’t have any easily machinable features. I had to design the empress to be distinct from the crowns of the queen and king and I wanted to do something special so I created this design with a hollow centre. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_empress.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_empress_cam.mp4" class="gallery__img">
     <p>The empress is easily my favourite because the hollow centre looks very fancy. Surprisingly this hollow volume was easy to machine, I just cut 7 holes and they meet in the middle.  Machining the holes wasn’t even a simultaneous 5 axis operation it was 3+2 machining. The holes were too small to deburr with my normal 6mm ball deburring bit but I was able to use a 1mm ball to clean the edges. </p>
     <p>I also created a smooth indent on the top of the Empress like how some velvet crowns curve inwards. On the first empress I skipped the indent a machined a flat top, but it didn’t look great and I decided to use a tiny ball mill to create the indent. Unfortunately, this creates a change in texture from the smooth swarf milled sides to then rougher ball finished section. I made the ball mill passes radial, which made them take longer but leave a cool pattern of expanding lines on the top. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_empress_head.JPG" class="gallery__img">
 </div>
 
 
