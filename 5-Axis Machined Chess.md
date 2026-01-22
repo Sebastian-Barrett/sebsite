@@ -89,18 +89,18 @@ permalink: /Machinistchess
 <div class="gallery2">
     <p>The rook design is pretty simple, with big castellations and large decorative chamfers. When machining I cut the top of the Rook before machining the main body it maximises the rigidity and minimise vibration.  </p>
     <img alt="" src="/sebsite/images/5_rook.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_rook_chatter.jpg" class="gallery__img">
     <p>The rook was the first piece I made, and I originally designed it with a corner fillet the same radius as my endmill. When I tried to cut the piece, it vibrated horribly in the sharp corner because the tool engagement spiked and the tool was in a long thin holder. This vibration left a cool spiral mark on the piece, where the endmill must have resonated with the part. I was able to fix this easily by making all fillets significantly larger that the tool. </p>
 </div>
 
 ## Knight
 <div class="gallery2">
     <p>The Knight is the most complicated piece in every chess set, and my Knight has engraved eyes and nostrils and a grooved mane. I designed the Knight with a relatively small head because machining the space between the head and the body was very difficult.</p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_knight.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
     <p>To finish the back of the Knight I couldn’t swarf mill it with the side of an endmill because the mane was in the way. So, I had to do surface finishing using a ball endmill going back and forth with small stepovers. This left a different texture on the back sides to all the other pieces but fortunately it still had the same shine. </p>
     <p>The Knight is the only piece that doesn’t spiral. I did try twisting it around the vertical axis, but that seemed like it was looking over its shoulder. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_twisted_knight.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
     <p>The CAM program for the Knight was the most complex, with lots of little operation getting the mane and eyes right. </p>
 </div>
@@ -108,8 +108,8 @@ permalink: /Machinistchess
 ## Bishop
 <div class="gallery2">
     <p>The Bishop is a pretty simple piece, with the traditional collar, slot in the hat and small ball on top. The collar is further down from the head than most bishops because I needed space to fit an endmill between the head and the collar. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_bishop.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_bishop_slot.JPG" class="gallery__img">
     <p>The slot in the head is also a bit wider than normal because they are traditionally made with a saw. I could have made the slot thinner with a smaller endmill, but that would have forced the slot to be quite shallow. It was necessary to positioning the slot so that it looks symmetric, which was surprisingly difficult on a piece that is not symmetric. </p>
     <p>The ball on top had to be mostly merged with the main body because the endmill I used to make the sides had a large radius. I could have made the connection between the head and the ball thinner, but only by increasing the height of the ball which looks silly. </p>
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
