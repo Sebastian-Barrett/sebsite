@@ -43,7 +43,7 @@ permalink: /Machinistchess
 ## Capablanka chess: 10x10 board
 <div class="gallery2">
     <p>The 10x10 board can be used to play Capablanca chess or Grand chess. Capablanca chess was originally invented with a 10x10 board but Capablanca later decided to change to a 10x8 board and that is what modern Capablanca chess uses. The rules are simple to learn but much more complicated than regular chess with more powerful pieces and more possible moves each turn. I really like the Cardinal and Empress pieces and an easy way to get used to them is to play on the regular 8x8 board and swap the queen for a Cardinal or Empress. </p>
-    <iframe src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="gallery__img"></iframe>
+    <iframe src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="gallery2_youtube"></iframe>
 </div>
 
 ## Box and Drawers
@@ -101,7 +101,7 @@ permalink: /Machinistchess
     <p>To finish the back of the Knight I couldn’t swarf mill it with the side of an endmill because the mane was in the way. So, I had to do surface finishing using a ball endmill going back and forth with small stepovers. This left a different texture on the back sides to all the other pieces but fortunately it still had the same shine. </p>
     <p>The Knight is the only piece that doesn’t spiral. I did try twisting it around the vertical axis, but that seemed like it was looking over its shoulder. </p>
     <img alt="" src="/sebsite/images/5_twisted_knight.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/5_knight_cam.mp4" class="gallery__img"></video> 
     <p>The CAM program for the Knight was the most complex, with lots of little operation getting the mane and eyes right. </p>
 </div>
 
