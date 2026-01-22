@@ -12,8 +12,8 @@ permalink: /Machinistchess
     <p>I started this project to learn how to use a 5 axis CNC machine, and it took me a year and a half to complete. </p>
 </div>
 
-<p>My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.</p>
-<div>
+My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.
+<div class="clearfix">
     <iframe max_width=90% width="auto" height="auto" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
