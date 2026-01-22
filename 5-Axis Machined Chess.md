@@ -31,24 +31,32 @@ permalink: /Machinistchess
 ## Circular board
 <div class="gallery2">
     <p>Circular chess is the easiest of the 3 variants to understand, making it quick to play with friends. It is also a simpler game than regular chess, because it has the same number of squares, but they are less interconnected so there are less possible moves each turn. </p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="465" height="262" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <img alt="" src="/sebsite/images/5_circular.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_circular2.JPG" class="gallery__img">
 </div>
 
 ## Glinski's hexagonal board
 <div class="gallery2">
     <p>Glinski’s Hexagonal chess looks the coolest and is quite fun to play but the adjusted piece moves takes some time to get used to. The game tends to play slower and longer than regular chess because the Pawns start protecting each other with optimal structure. This creates and instant ideal defence so the player that attacks first tends to lose. </p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bgR3yESAEVE?si=WScL2dkg9W2pdFN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="465" height="262" src="https://www.youtube.com/embed/bgR3yESAEVE?si=WScL2dkg9W2pdFN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <video autoplay muted loop playsinline controls src="/sebsite/images/5_hex_spin.mp4" class="gallery__img"></video> 
+    <img alt="" src="/sebsite/images/5_hex.JPG" class="gallery__img">
 </div>
 
 ## Capablanka chess: 10x10 board
 <div class="gallery2">
     <p>The 10x10 board can be used to play Capablanca chess or Grand chess. Capablanca chess was originally invented with a 10x10 board but Capablanca later decided to change to a 10x8 board and that is what modern Capablanca chess uses. The rules are simple to learn but much more complicated than regular chess with more powerful pieces and more possible moves each turn. I really like the Cardinal and Empress pieces and an easy way to get used to them is to play on the regular 8x8 board and swap the queen for a Cardinal or Empress. </p>
-    <iframe width="465" height="262" src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="gallery2_youtube"></iframe>
+    <iframe width="465" height="262" src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <img alt="" src="/sebsite/images/5_capa.JPG" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_capa2.JPG" class="gallery__img">
 </div>
 
 ## Box and Drawers
 <div class="gallery2">
-    <p>The normal 8x8 board is built on top of a box with drawers to store the pieces. I designed the box and drawers from flat panels that slot together using tongue and groove joints. These joints locate all the panels accurately and give the box a stable structure even before glue. </p>
+    <video autoplay muted loop playsinline controls src="/sebsite/images/5_drawer_slide.mp4" class="gallery__img"></video> 
+    <p>The normal 8x8 board is built on top of a box with drawers to store the pieces. I debated using regular draw slides but decided to make smooth metal drawers that would slide over felt lining the inside of the box. This worked well, but I had to spend some time working the correct thickness of felt to avoid it getting stuck.</p>
+    <p>I designed the box and drawers from flat panels that slot together using tongue and groove joints. These joints locate all the panels accurately and give the box a stable structure even before glue. </p>
     <img alt="" src="/sebsite/images/5_tounge_groove.png" class="gallery__img">
     <img alt="" src="/sebsite/images/5_magnet.png" class="gallery__img">
     <p>I hid magnets in the middle wall and the backs of the drawers to make the drawers stay in when fully closed. They are glued into thin pockets with felt and foam covering them. </p>
@@ -144,8 +152,8 @@ permalink: /Machinistchess
 ## Empress
 <div class="gallery2">
     <p>The Empress is the second extra piece required to play on the 10x10 board. The empress moves like a rook and a Knight combined making it on par with the Queen’s power. The Empress is more manurable in early game because it can jump over pieces whereas the queen is more powerful in late game because it controls more area. The Empress is also called chancellor, marshal, or a knook but I chose empress because a crown is distinctive and associated with empresses whereas the other names don’t have any easily machinable features. I had to design the empress to be distinct from the crowns of the queen and king and I wanted to do something special so I created this design with a hollow centre. </p>
-    <img alt="" src="/sebsite/images/5_empress.png" class="gallery__img">
     <img alt="" src="/sebsite/images/5_empress_cam.mp4" class="gallery__img">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/5_knight_cam.mp4" class="gallery__img"></video> 
     <p>The empress is easily my favourite because the hollow centre looks very fancy. Surprisingly this hollow volume was easy to machine, I just cut 7 holes and they meet in the middle.  Machining the holes wasn’t even a simultaneous 5 axis operation it was 3+2 machining. The holes were too small to deburr with my normal 6mm ball deburring bit but I was able to use a 1mm ball to clean the edges. </p>
     <p>I also created a smooth indent on the top of the Empress like how some velvet crowns curve inwards. On the first empress I skipped the indent a machined a flat top, but it didn’t look great and I decided to use a tiny ball mill to create the indent. Unfortunately, this creates a change in texture from the smooth swarf milled sides to then rougher ball finished section. I made the ball mill passes radial, which made them take longer but leave a cool pattern of expanding lines on the top. </p>
     <img alt="" src="/sebsite/images/5_empress_head.JPG" class="gallery__img">
