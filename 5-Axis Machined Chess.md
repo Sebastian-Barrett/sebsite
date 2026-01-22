@@ -13,18 +13,20 @@ permalink: /Machinistchess
 </div>
 
 <p>My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.</p>
-<iframe max_width=90% width="auto" height="auto" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <figure>
+    <iframe max_width=90% width="auto" height="auto" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
 
 # Boards
 <div class="gallery2">
-    <p>All the boards were made by cutting shallow pockets into a thick sheet of aluminium, then inlaying laser cut brass tiles. The main difficultly with this style of manufacture is that milled pockets can’t have sharp corners, so the brass tiles are fileted and don’t touch. The exception was the hexagonal board because it had two tiles being inlayed the corners were mostly external and could be sharp.</p>
+    <p>All the boards were made by cutting shallow pockets into a thick sheet of aluminium, then inlaying laser cut brass tiles. The main difficultly with this style of manufacture is that milled pockets can’t have sharp corners, so the brass tiles are fileted and don’t touch. However the hexagonal boardcould have some sharp cornered tiles because it had two colors being inlaid and the corners were mostly external.</p>
     <img alt="" src="/sebsite/images/5_preglue.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_ripped_tile.jpg" class="gallery__img">
     <p>After gluing the brass tiles, I faced the chess boards flat. I used a fancy spiral facing pattern because some of the facing marks were still visible after sanding and polishing. When gluing the tiles in some of them pressed diagonally so the glue didn’t touch the entire bottom face. These tiles ripped out during machining, but fortunately I was able to machine the pocket 0.1mm larger and put in a new brass square.</p>
     <p>I chose to sand and polish the boards after facing because the faced surface was distractingly shiny and I didn’t like the machining marks. I polished one of the boards to a mirror finish but that was also distracting while playing so I polished it back to a dull reflective. </p>
     <img alt="" src="/sebsite/images/5_mirror.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_border.JPG" class="gallery__img">
-    <p>To differentiate between the board and the outside boarder I machined the boarder after polishing. This was most important for the hexagonal board because some of the aluminium tiles on the corners were ambiguous. </p>
+    <p>To differentiate between the board and the outside border I machined the border after polishing. This was most important for the hexagonal board because some of the aluminium tiles on the corners were ambiguous. </p>
     <p>After polishing and machining the borders I coated them with a clear lacquer to prevent tarnishing.</p>
     <img alt="" src="/sebsite/images/5_coating.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_feet_view.png" class="gallery__img">
