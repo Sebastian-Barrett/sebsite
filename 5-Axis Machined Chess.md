@@ -12,7 +12,7 @@ permalink: /Machinistchess
     <p>I started this project to learn how to use a 5 axis CNC machine, and it took me a year and a half to complete. </p>
 </div>
 
-## Boards
+# Boards
 <div class="gallery2">
     <p>All the boards were made by cutting shallow pockets into a thick sheet of aluminium, then inlaying laser cut brass tiles. The main difficultly with this style of manufacture is that milled pockets can’t have sharp corners, so the brass tiles are fileted and don’t touch. The exception was the hexagonal board because it had two tiles being inlayed the corners were mostly external and could be sharp.</p>
     <img alt="" src="/sebsite/images/5_preglue.jpg" class="gallery__img">
@@ -28,7 +28,7 @@ permalink: /Machinistchess
     <p>I designed the extra variant boards to stack with the main box so they could all store together. The box has four curved grooves in the top and bottom that fit and locate the Delrin feet of the variant boards. The circular and hexagonal boards are on opposite sides of one sheet of aluminium, with feet on both sides, so it can stack on the top or bottom of the box. The 10x10 board takes only has feet on the bottom, so it can only be put on top of the box. The box itself also has 4 thinner feet on the bottom to avoid scratching the table. </p>
 </div>
 
-## Circular board
+# Circular board
 <div class="gallery2">
     <p>Circular chess is the easiest of the 3 variants to understand, making it quick to play with friends. It is also a simpler game than regular chess, because it has the same number of squares, but they are less interconnected so there are less possible moves each turn. </p>
     <iframe width="465" height="262" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_circular2.JPG" class="gallery__img">
 </div>
 
-## Glinski's hexagonal board
+# Glinski's hexagonal board
 <div class="gallery2">
     <p>Glinski’s Hexagonal chess looks the coolest and is quite fun to play but the adjusted piece moves takes some time to get used to. The game tends to play slower and longer than regular chess because the Pawns start protecting each other with optimal structure. This creates and instant ideal defence so the player that attacks first tends to lose. </p>
     <iframe width="465" height="262" src="https://www.youtube.com/embed/bgR3yESAEVE?si=WScL2dkg9W2pdFN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -44,7 +44,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_hex.JPG" class="gallery__img">
 </div>
 
-## Capablanka chess: 10x10 board
+# Capablanka chess: 10x10 board
 <div class="gallery2">
     <p>The 10x10 board can be used to play Capablanca chess or Grand chess. Capablanca chess was originally invented with a 10x10 board but Capablanca later decided to change to a 10x8 board and that is what modern Capablanca chess uses. The rules are simple to learn but much more complicated than regular chess with more powerful pieces and more possible moves each turn. I really like the Cardinal and Empress pieces and an easy way to get used to them is to play on the regular 8x8 board and swap the queen for a Cardinal or Empress. </p>
     <iframe width="465" height="262" src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -52,7 +52,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_capa2.JPG" class="gallery__img">
 </div>
 
-## Box and Drawers
+# Box and Drawers
 <div class="gallery2">
     <video autoplay muted loop playsinline controls src="/sebsite/images/5_drawer_slide.mp4" class="gallery__img"></video> 
     <p>The normal 8x8 board is built on top of a box with drawers to store the pieces. I debated using regular draw slides but decided to make smooth metal drawers that would slide over felt lining the inside of the box. This worked well, but I had to spend some time working the correct thickness of felt to avoid it getting stuck.</p>
@@ -68,7 +68,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_handle.jpg" class="gallery__img">
 </div>
 
-## Pieces 
+# Pieces 
 <div class="gallery2">
     <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.</p>
     <video autoplay muted loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
@@ -81,7 +81,7 @@ permalink: /Machinistchess
 </div>
 
 
-## Pawn 
+# Pawn 
 <div class="gallery2">
     <p>The Pawns are a simple pieces but they are distinctive and look clean. For the 10x10 board I had to make four more pawns than a regular set.</p>
     <img alt="" src="/sebsite/images/5_pawn.png" class="gallery__img">
@@ -93,7 +93,7 @@ permalink: /Machinistchess
     <p>I was able to automate the probing of my stock in order to speed up machining of all 20 Pawns. This mean I only had to replace the finished Pawn with new stock and press play on the program. The cycle time of a Pawn was only about 10 minutes including setup!</p>
 </div>
 
-## Rook
+# Rook
 <div class="gallery2">
     <p>The rook design is pretty simple, with big castellations and large decorative chamfers. When machining I cut the top of the Rook before machining the main body it maximises the rigidity and minimise vibration.  </p>
     <img alt="" src="/sebsite/images/5_rook.png" class="gallery__img">
@@ -101,7 +101,7 @@ permalink: /Machinistchess
     <p>The rook was the first piece I made, and I originally designed it with a corner fillet the same radius as my endmill. When I tried to cut the piece, it vibrated horribly in the sharp corner because the tool engagement spiked and the tool was in a long thin holder. This vibration left a cool spiral mark on the piece, where the endmill must have resonated with the part. I was able to fix this easily by making all fillets significantly larger that the tool. </p>
 </div>
 
-## Knight
+# Knight
 <div class="gallery2">
     <p>The Knight is the most complicated piece in every chess set, and my Knight has engraved eyes and nostrils and a grooved mane. I designed the Knight with a relatively small head because machining the space between the head and the body was very difficult.</p>
     <img alt="" src="/sebsite/images/5_knight.png" class="gallery__img">
@@ -113,7 +113,7 @@ permalink: /Machinistchess
     <p>The CAM program for the Knight was the most complex, with lots of little operation getting the mane and eyes right. </p>
 </div>
 
-## Bishop
+# Bishop
 <div class="gallery2">
     <p>The Bishop is a pretty simple piece, with the traditional collar, slot in the hat and small ball on top. The collar is further down from the head than most bishops because I needed space to fit an endmill between the head and the collar. </p>
     <img alt="" src="/sebsite/images/5_bishop.png" class="gallery__img">
@@ -123,7 +123,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_bishop_top.png" class="gallery__img">
 </div>
 
-## Queen
+# Queen
 <div class="gallery2">
     <p>The queen was hard to design but was one of my favourite pieces because of her distinctive crown. She has 7 sides, which made for a funky asymmetric crown. I modelled her on the idea of a tiara / crown sitting on a head, so the spherical section in the middle of the crown is the head. </p>
     <img alt="" src="/sebsite/images/5_queen.png" class="gallery__img">
@@ -133,7 +133,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_queen_skinny.jpg" class="gallery__img">
 </div>
 
-## King
+# King
 <div class="gallery2">
     <p>The King is modelled on the crown of England, with the traditional cross on top. The cross was the most tricky part, because I wanted to make it thin and delicate without breaking. I decided to made it 2mm square, and fortunately it hasn’t broken yet. I also went with a very plain square cross because it made machining so much easier. </p>
     <img alt="" src="/sebsite/images/5_king.png" class="gallery__img">
@@ -141,7 +141,7 @@ permalink: /Machinistchess
     <p>The cross has under-hangs that must be machined from the side, but this left machining marks on my aluminium king. To avoid the streaky lines on the brass King I offset the toolpath from the head slightly, leaving behind two small squares. </p>
 </div>
 
-## Cardinal
+# Cardinal
 <div class="gallery2">
     <p>The Cardinal is one of the two extra pieces needed to play Grand chess or Capablanca chess on the 10x10 board. The Cardinal moves like the combination of a Bishop and a Knight making it slightly weaker than the Queen but very manoeuvrable especially around obstacles in early game. The Cardinal is also called an Archbishop or a Princess, but I chose to call it Cardinal for my set because Cardinals wear a very distinctive mitre hat that I could use for the head of the piece. This mitre hat is actually also what the Bishop’s head is based on but because bishops are normally made on the lathe the design was adapted and doesn’t look like a real mitre anymore. Real mitres taper at a variable angle around the hat, which makes them very difficult to manufacture unless you have a 5-axis machine. </p>
     <img alt="" src="/sebsite/images/5_cardinal.png" class="gallery__img">
@@ -149,11 +149,11 @@ permalink: /Machinistchess
     <p>I included a spherical bump inside the hat to represent a person’s head inside the mitre hat. I wanted the corner between the head and the hat to be quite small, so I used a 0.5mm tapered ball nose endmill. This was the most difficult piece to make because of this small corner radius deep in the hat. This was also the only piece where the spiral sides don’t continue to the top of the piece. </p>
 </div>
 
-## Empress
+# Empress
 <div class="gallery2">
     <p>The Empress is the second extra piece required to play on the 10x10 board. The empress moves like a rook and a Knight combined making it on par with the Queen’s power. The Empress is more manurable in early game because it can jump over pieces whereas the queen is more powerful in late game because it controls more area. The Empress is also called chancellor, marshal, or a knook but I chose empress because a crown is distinctive and associated with empresses whereas the other names don’t have any easily machinable features. I had to design the empress to be distinct from the crowns of the queen and king and I wanted to do something special so I created this design with a hollow centre. </p>
-    <img alt="" src="/sebsite/images/5_empress_cam.mp4" class="gallery__img">
-    <video autoplay loop muted playsinline controls src="/sebsite/images/5_knight_cam.mp4" class="gallery__img"></video> 
+    <img alt="" src="/sebsite/images/5_empress.png" class="gallery__img">
+    <video autoplay loop muted playsinline controls src="/sebsite/images/5_empress_cam.mp4" class="gallery__img"></video> 
     <p>The empress is easily my favourite because the hollow centre looks very fancy. Surprisingly this hollow volume was easy to machine, I just cut 7 holes and they meet in the middle.  Machining the holes wasn’t even a simultaneous 5 axis operation it was 3+2 machining. The holes were too small to deburr with my normal 6mm ball deburring bit but I was able to use a 1mm ball to clean the edges. </p>
     <p>I also created a smooth indent on the top of the Empress like how some velvet crowns curve inwards. On the first empress I skipped the indent a machined a flat top, but it didn’t look great and I decided to use a tiny ball mill to create the indent. Unfortunately, this creates a change in texture from the smooth swarf milled sides to then rougher ball finished section. I made the ball mill passes radial, which made them take longer but leave a cool pattern of expanding lines on the top. </p>
     <img alt="" src="/sebsite/images/5_empress_head.JPG" class="gallery__img">
