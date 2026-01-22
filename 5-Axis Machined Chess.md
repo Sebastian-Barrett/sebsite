@@ -13,9 +13,9 @@ permalink: /Machinistchess
 </div>
 
 <p>My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.</p>
- <figure>
+<div>
     <iframe max_width=90% width="auto" height="auto" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</figure>
+</div>
 
 # Boards
 <div class="gallery2">
@@ -30,7 +30,7 @@ permalink: /Machinistchess
     <p>After polishing and machining the borders I coated them with a clear lacquer to prevent tarnishing.</p>
     <img alt="" src="/sebsite/images/5_coating.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_feet_view.png" class="gallery__img">
-    <p>I designed the extra variant boards to stack with the main box so they could all store together. The box has four curved grooves in the top and bottom that fit and locate the Delrin feet of the variant boards. The circular and hexagonal boards are on opposite sides of one sheet of aluminium, with feet on both sides, so it can stack on the top or bottom of the box. The 10x10 board takes only has feet on the bottom, so it can only be put on top of the box. The box itself also has 4 thinner feet on the bottom to avoid scratching the table. </p>
+    <p>I designed the extra variant boards to stack with the main box so they could all store together. The box has four curved grooves in the top and bottom that fit and locate the Delrin feet of the variant boards. The circular and hexagonal boards are on opposite sides of one sheet of aluminium, with feet on both sides, so it can stack on the top or bottom of the box. The 10x10 board only has feet on the bottom, so it can only be put on top of the box. The box itself also has 4 thinner feet on the bottom to avoid scratching the table. </p>
 </div>
 
 # Circular board
@@ -65,7 +65,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_tounge_groove.png" class="gallery__img">
     <img alt="" src="/sebsite/images/5_magnet.png" class="gallery__img">
     <p>I hid magnets in the middle wall and the backs of the drawers to make the drawers stay in when fully closed. They are glued into thin pockets with felt and foam covering them. </p>
-    <p>I made the drawers with fillets on the outside corners to help it locate and slide smoothly. After the drawer was glued together, I machined foam to hold the pieces safely in the drawer. Machining foam is surprisingly hard, because foam tends to rip and create fuzzy surfaces when machined in particular ways. I found spiralling up from the centre of the pocket to the top and cutting conventional to create the cleanest surfaces. </p>
+    <p>I made the drawers with fillets on the outside corners to help it locate and slide smoothly. After the drawer was glued together, I machined foam to hold the pieces safely in the drawer. Machining foam is surprisingly hard, because foam tends to rip and create fuzzy surfaces when machined in particular ways. I found spiralling up from the centre of the pocket and cutting in the conventional direction created the cleanest surfaces. </p>
     <img alt="" src="/sebsite/images/5_foam.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_foam_inside.jpg" class="gallery__img">
     <p>I had to glue the top and walls of the box together without the bottom so that I could attach felt and foam to the inside of the box. The felt creates a soft sliding surface for the aluminium drawer, and the foam holds the pieces in place if the box is inverted. I didn’t add an end stop so that the drawers can be taken out during a game to store/display the taken pieces. </p>
