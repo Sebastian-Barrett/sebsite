@@ -23,7 +23,7 @@ layout: default
     <figure class="gallery__item">
         <a href="/sebsite/clock">
         <img alt="Clock" src="/sebsite/images/clock8.jpg" class="gallery__img">
-        <figcaption>Clock</figcaption>
+        <figcaption>Pendulum Clock</figcaption>
         </a>
     </figure>
     <figure class="gallery__item">
