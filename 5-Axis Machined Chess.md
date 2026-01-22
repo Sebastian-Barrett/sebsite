@@ -97,7 +97,7 @@ permalink: /Machinistchess
 <div class="gallery2">
     <p>The Knight is the most complicated piece in every chess set, and my Knight has engraved eyes and nostrils and a grooved mane. I designed the Knight with a relatively small head because machining the space between the head and the body was very difficult.</p>
     <img alt="" src="/sebsite/images/5_knight.png" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_knight_back.jpg" class="gallery__img">
     <p>To finish the back of the Knight I couldn’t swarf mill it with the side of an endmill because the mane was in the way. So, I had to do surface finishing using a ball endmill going back and forth with small stepovers. This left a different texture on the back sides to all the other pieces but fortunately it still had the same shine. </p>
     <p>The Knight is the only piece that doesn’t spiral. I did try twisting it around the vertical axis, but that seemed like it was looking over its shoulder. </p>
     <img alt="" src="/sebsite/images/5_twisted_knight.png" class="gallery__img">
@@ -112,23 +112,23 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_bishop_slot.JPG" class="gallery__img">
     <p>The slot in the head is also a bit wider than normal because they are traditionally made with a saw. I could have made the slot thinner with a smaller endmill, but that would have forced the slot to be quite shallow. It was necessary to positioning the slot so that it looks symmetric, which was surprisingly difficult on a piece that is not symmetric. </p>
     <p>The ball on top had to be mostly merged with the main body because the endmill I used to make the sides had a large radius. I could have made the connection between the head and the ball thinner, but only by increasing the height of the ball which looks silly. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_bishop_top.png" class="gallery__img">
 </div>
 
 ## Queen
 <div class="gallery2">
-    <p>The queen was very hard to design but was one of my favourite pieces because of her distinctive crown. She has 7 sides, which made for a funky asymmetric crown. I modelled her on the idea of a tiara / crown sitting on a head, so the spherical section in the middle of the crown is the head. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <p>The queen was hard to design but was one of my favourite pieces because of her distinctive crown. She has 7 sides, which made for a funky asymmetric crown. I modelled her on the idea of a tiara / crown sitting on a head, so the spherical section in the middle of the crown is the head. </p>
+    <img alt="" src="/sebsite/images/5_queen.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_queen_top.jpg" class="gallery__img">
     <p>I used a ball endmill to finish the inside of the crown which left a cool sparkly texture where it plunges.  </p>
-    <p>I deliberately made the body of the queen thinner than the Bishop and King to show that she is a lady. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <p>I deliberately made the body of the queen thinner than the Bishop, King and Cardinal to show that she is a lady. </p>
+    <img alt="" src="/sebsite/images/5_queen_skinny.jpg" class="gallery__img">
 </div>
 
 ## King
 <div class="gallery2">
     <p>The King is modelled on the crown of England, with the traditional cross on top. The cross was the only tricky part, because I wanted to make it thin and delicate without breaking. I decided to made it 2mm square, and fortunately it hasn’t broken yet. I also went with a very plain square cross because it made machining so much easier. </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_king.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
     <p>The cross has under-hangs that must be machined from the side, but this left machining marks on my aluminium king. To avoid the streaky lines on the brass King I offset the toolpath from the head slightly, leaving behind two small squares. </p>
 </div>
