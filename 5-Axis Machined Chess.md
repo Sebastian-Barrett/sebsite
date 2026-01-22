@@ -14,7 +14,7 @@ permalink: /Machinistchess
 
 My youtube video shows the cool parts of how everything was made, and the rest of this article goes into more technical details.
 <div class="clearfix">
-    <iframe width="465" height="262" src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class=full_width_youtube src="https://www.youtube.com/embed/FxK-rUIphG4?si=QiNmPGt2uiV6MT5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 # Boards
