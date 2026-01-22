@@ -63,11 +63,11 @@ permalink: /Machinistchess
 ## Pieces 
 <div class="gallery2">
     <p>Each piece was designed with flat spiralling sides that could be swarf milled with the side of an endmill. This leaves an excellent surface finish and is fast to machine. I chose the flat spiral design because it is only possible with a 5-axis CNC machine: traditional chess pieces are always smooth round profiles because they are made on a lathe.</p>
-    <video autoplay loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
+    <video autoplay muted loop playsinline controls src="/sebsite/images/rook swarf fusion.mp4" class="gallery__img"></video> 
     <img alt="" src="/sebsite/images/5_facets.jpg" class="gallery__img">
     <p>I designed the pieces with more facets based on their importance. Pawns are pentagons, the minor pieces (Rooks, Knights, and Bishops) are hexagons, the major pieces (Queen, and for grand chess the Cardinal, and Empress) are heptagons, and the all-important King is an octagon. The pieces were made in Rhino by sketching their side profile, then lofting the profile between several rotated copies. I used Rhino because it has a twist command, allowing me to make the pieces spiral after lofting. </p>
     <p>All the pieces were finished in one operation on the 5-axis CNC mill, parted to a small tab that can be broken by hand and filed away. To protect against tarnishing the pieces were dipped in a clear lacquer. I tried spraying lacquer but couldn’t get a clean surface due to complex curves or my bad technique. I glued thin laser cut leather to the bases of the pieces to prevent them from making loud noises or scratching the chess board. I chose leather instead of felt because it has a more premium feeling. </p>
-    <video autoplay loop playsinline controls src="/sebsite/images/5_laquer.mp4" class="gallery__img"></video> 
+    <video autoplay muted loop playsinline controls src="/sebsite/images/5_laquer.mp4" class="gallery__img"></video> 
     <img alt="" src="/sebsite/images/5_drawer.JPG" class="gallery__img">
     <p>For Grand chess I had to make two extra Pawns and two new pieces: a Cardinal (Bishop + Knight) and an Empress (Rook + Knight). With the Queen (Bishop + Knight) these three pieces are all the possible combinations of the minor pieces. I designed the Cardinal and Empress last and they have more intricate detail than the other pieces, making them harder to machine. For Glinski’s hexagonal chess I made an extra Bishop and Pawn. I also included a spare Queen for promotion.</p>
 </div>
@@ -81,7 +81,7 @@ permalink: /Machinistchess
     <p>The Pawn typically has a collar just below its round head, but I wasn’t able to include this detail on my Pawns because of machining constraints. A mill uses round cutting tools which means it can’t cut any feature with a smaller radius than the tool. Of course, there are tools with tiny diameters which would allow cutting smaller features, but smaller tools are also shorter and wouldn’t be able to reach deep enough. So the Pawns with collars I designed had small heads, and awkward collars with a large gap to the head. </p>
     <p>I initially tried designing Pawns with only 4 sides, but they looked ugly because from one direction they head was too small and the other the head was too large. The five sided Pawn is more balanced because the head is always about the same size from any direction.</p>
     <img alt="" src="/sebsite/images/5_4_sided_pawn.png" class="gallery__img">
-    <video autoplay loop playsinline controls src="/sebsite/images/5_pawn_probing.mp4" class="gallery__img"></video> 
+    <video autoplay loop muted playsinline controls src="/sebsite/images/5_pawn_probing.mp4" class="gallery__img"></video> 
     <p>I was able to automate the probing of my stock in order to speed up machining of all 20 Pawns. This mean I only had to replace the finished Pawn with new stock and press play on the program. The cycle time of a Pawn was only about 10 minutes including setup!</p>
 </div>
 
