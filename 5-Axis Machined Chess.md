@@ -57,7 +57,7 @@ permalink: /Machinistchess
     <img alt="" src="/sebsite/images/5_foam_inside.jpg" class="gallery__img">
     <p>I had to glue the top and walls of the box together without the bottom so that I could attach felt and foam to the inside of the box. The felt creates a soft sliding surface for the aluminium drawer, and the foam holds the pieces in place if the box is inverted. I didn’t add an end stop so that the drawers can be taken out during a game to store/display the taken pieces. </p>
     <p>I made spiral brass and aluminium drawer handles to match the sets and identify the drawers. I also mirrored the foam in each drawer so that the layout of the pieces in the drawer matches how they should be setup on the normal board. </p>
-    <img alt="" src="/sebsite/images/5_drawer.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_handle.jpg" class="gallery__img">
 </div>
 
 ## Pieces 
@@ -68,7 +68,7 @@ permalink: /Machinistchess
     <p>I designed the pieces with more facets based on their importance. Pawns are pentagons, the minor pieces (Rooks, Knights, and Bishops) are hexagons, the major pieces (Queen, and for grand chess the Cardinal, and Empress) are heptagons, and the all-important King is an octagon. The pieces were made in Rhino by sketching their side profile, then lofting the profile between several rotated copies. I used Rhino because it has a twist command, allowing me to make the pieces spiral after lofting. </p>
     <p>All the pieces were finished in one operation on the 5-axis CNC mill, parted to a small tab that can be broken by hand and filed away. To protect against tarnishing the pieces were dipped in a clear lacquer. I tried spraying lacquer but couldn’t get a clean surface due to complex curves or my bad technique. I glued thin laser cut leather to the bases of the pieces to prevent them from making loud noises or scratching the chess board. I chose leather instead of felt because it has a more premium feeling. </p>
     <video autoplay loop playsinline controls src="/sebsite/images/5_laquer.mp4" class="gallery__img"></video> 
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_drawer.JPG" class="gallery__img">
     <p>For Grand chess I had to make two extra Pawns and two new pieces: a Cardinal (Bishop + Knight) and an Empress (Rook + Knight). With the Queen (Bishop + Knight) these three pieces are all the possible combinations of the minor pieces. I designed the Cardinal and Empress last and they have more intricate detail than the other pieces, making them harder to machine. For Glinski’s hexagonal chess I made an extra Bishop and Pawn. I also included a spare Queen for promotion.</p>
 </div>
 
@@ -76,19 +76,19 @@ permalink: /Machinistchess
 ## Pawn 
 <div class="gallery2">
     <p>The Pawns are a simple pieces but they are distinctive and look clean. For the 10x10 board I had to make four more pawns than a regular set.</p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_pawn.png" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_pawn_collar.png" class="gallery__img">
     <p>The Pawn typically has a collar just below its round head, but I wasn’t able to include this detail on my Pawns because of machining constraints. A mill uses round cutting tools which means it can’t cut any feature with a smaller radius than the tool. Of course, there are tools with tiny diameters which would allow cutting smaller features, but smaller tools are also shorter and wouldn’t be able to reach deep enough. So the Pawns with collars I designed had small heads, and awkward collars with a large gap to the head. </p>
     <p>I initially tried designing Pawns with only 4 sides, but they looked ugly because from one direction they head was too small and the other the head was too large. The five sided Pawn is more balanced because the head is always about the same size from any direction.</p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_4_sided_pawn.png" class="gallery__img">
+    <video autoplay loop playsinline controls src="/sebsite/images/5_pawn_probing.mp4" class="gallery__img"></video> 
     <p>I was able to automate the probing of my stock in order to speed up machining of all 20 Pawns. This mean I only had to replace the finished Pawn with new stock and press play on the program. The cycle time of a Pawn was only about 10 minutes including setup!</p>
 </div>
 
 ## Rook
 <div class="gallery2">
     <p>The rook design is pretty simple, with big castellations and large decorative chamfers. When machining I cut the top of the Rook before machining the main body it maximises the rigidity and minimise vibration.  </p>
-    <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
+    <img alt="" src="/sebsite/images/5_rook.png" class="gallery__img">
     <img alt="" src="/sebsite/images/Blank.jpg" class="gallery__img">
     <p>The rook was the first piece I made, and I originally designed it with a corner fillet the same radius as my endmill. When I tried to cut the piece, it vibrated horribly in the sharp corner because the tool engagement spiked and the tool was in a long thin holder. This vibration left a cool spiral mark on the piece, where the endmill must have resonated with the part. I was able to fix this easily by making all fillets significantly larger that the tool. </p>
 </div>
