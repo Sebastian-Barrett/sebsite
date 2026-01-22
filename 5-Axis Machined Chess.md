@@ -36,7 +36,7 @@ My youtube video shows the cool parts of how everything was made, and the rest o
 # Circular board
 <div class="gallery2">
     <p>Circular chess is the easiest of the 3 variants to understand, making it quick to play with friends. It is also a simpler game than regular chess, because it has the same number of squares, but they are less interconnected so there are less possible moves each turn. </p>
-    <iframe width="465" height="262" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="465" height="262" max_width="100%" src="https://www.youtube.com/embed/Ishw2T-7Kk0?si=Q13K4mwEnRArb1Nc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <img alt="" src="/sebsite/images/5_circular.png" class="gallery__img">
     <img alt="" src="/sebsite/images/5_circular2.JPG" class="gallery__img">
 </div>
