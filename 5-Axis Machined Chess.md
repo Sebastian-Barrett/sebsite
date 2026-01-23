@@ -49,7 +49,7 @@ My youtube video shows the cool parts of how everything was made, and the rest o
     <img alt="" src="/sebsite/images/5_hex.JPG" class="gallery__img">
 </div>
 
-# Capablanka chess: 10x10 board
+# 10x10 board
 <div class="gallery2">
     <p>The 10x10 board can be used to play Capablanca chess or Grand chess. Capablanca chess was originally invented with a 10x10 board but Capablanca later decided to change to a 10x8 board and that is what modern Capablanca chess uses. The rules are simple to learn but much more complicated than regular chess with more powerful pieces and more possible moves each turn. I really like the Cardinal and Empress pieces and an easy way to get used to them is to play on the regular 8x8 board and swap the queen for a Cardinal or Empress. </p>
     <iframe class="gallery2_youtube" src="https://www.youtube.com/embed/_E8VgZS2X1U?si=Pnss0qvRO1aoUueF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
