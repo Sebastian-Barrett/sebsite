@@ -51,7 +51,7 @@ permalink: /3chess
 ## Pieces 
 For a three player chess board I needed 48 chess pieces, which meant I got a lot of practice on the lathe... 
 
-I spent a bit of time learning about how to lathe (<a href="https://www.youtube.com/watch?v=KXzEjCorWO0" target="_blank">my favorite video</a>) and practising. 
+I spent some time learning about how to lathe from youtube and this was <a href="https://www.youtube.com/watch?v=KXzEjCorWO0" target="_blank">my favorite video</a>. I also practiced on the lathe, making a lot of scrap pieces before I was ready to make the final set.
 I designed my pieces to be quite traditional and combined lots of features I liked. I decided to keep the same base profile and base diameter for all the pieces. I used my designs to create 6 laser cut outlines of the profiles I wanted so that I could make my pieces reasonably similar. I used Karri for the red pieces, Jelutong for the white and an unknown wood for the brown. 
 
 <div class="clearfix">
