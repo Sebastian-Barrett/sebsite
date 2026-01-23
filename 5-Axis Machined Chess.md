@@ -27,7 +27,7 @@ My youtube video shows the cool parts of how everything was made, and the rest o
     <img alt="" src="/sebsite/images/5_mirror.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_border.JPG" class="gallery__img">
     <p>To differentiate between the board and the outside border I machined the border after polishing. This was most important for the hexagonal board because some of the aluminium tiles on the corners were ambiguous. </p>
-    <p>After polishing and machining the borders I coated them with a clear lacquer to prevent tarnishing.</p>
+    <p>After polishing and machining the borders I coated them with a clear lacquer to prevent tarnishing. </p>
     <img alt="" src="/sebsite/images/5_coating.jpg" class="gallery__img">
     <img alt="" src="/sebsite/images/5_feet_view.png" class="gallery__img">
     <p>I designed the extra variant boards to stack with the main box so they could all store together. The box has four curved grooves in the top and bottom that fit and locate the Delrin feet of the variant boards. The circular and hexagonal boards are on opposite sides of one sheet of aluminium, with feet on both sides, so it can stack on the top or bottom of the box. The 10x10 board only has feet on the bottom, so it can only be put on top of the box. The box itself also has 4 thinner feet on the bottom to avoid scratching the table. </p>

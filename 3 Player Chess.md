@@ -9,7 +9,10 @@ permalink: /3chess
     <img alt="Finished chess set" src="/sebsite/images/3_final_set.jpg" class="rightfloat">
     <blockquote>Because I couldn't just build a simple chess board</blockquote>
     <p>I chose this project because I always wanted to make a proper and beautiful chess set. I got to practice some interesting woodwork and learn the lathe. It took me about 150 hours over many weeks. The result is a unique handcrafted piece, with a solid 3 player board, a piece holder that is also the regular board and 3 teams of imperfect chessmen. I designed both boards in two halves in order to make them more portable and embedded magnets to hold them together. I designed the pieces to be quite traditional and for each of the main pieces to have some extra modification after the lathe. </p>
-    <p>You can learn the rules from <a href="https://www.youtube.com/watch?v=NMLVaFImzVs" target="_blank">this video</a>.</p>
+</div>
+
+<div class="clearfix">
+    <iframe class="single_youtube" src="https://www.youtube.com/embed/NMLVaFImzVs?si=mL5SdzFEmr9IjO-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
@@ -21,12 +24,12 @@ permalink: /3chess
 
 <div class="clearfix">
     <video playsinline src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
-    <p>I used CNC to make the strange quadrilateral shaped tiles out of some Jarrah and Marri placks. The board is designed by drawing lines between evenly spaced points along the sides and center lines of a hexagon. After modeling the board I arranged all the modeled tiles into the shapes of my timber planks. I did the CAM in Fusion 360 and then milled it out on a symbiosis mill. I left stock on the bottom of the board and then ran each board through the bandsaw to separate the tiles from the board.</p>
+    <p>I used a CNC mill to make the quadrilateral shaped tiles out of Jarrah and Marri placks. The board is designed by drawing lines between evenly spaced points along the sides and center lines of a hexagon. After modeling the board I arranged all the modeled tiles into the shapes of my timber planks. I did the CAM in Fusion 360 and then milled it out on a symbiosis mill. I left stock on the bottom of the board and then ran each board vertically through the bandsaw to separate the tiles from the board.</p>
 </div>
 
 <div class="clearfix">
     <img alt="Assembled board" src="/sebsite/images/3_assembled.jpg" class="rightfloat">
-    <p>Assembling the board was like solving a strange but cool jigsaw puzzle with a lot of symmetry. Then I had a very complicated glue up to create the two board halves. I had to make a few jigs that translated between the hexagonal shape of the board and the orthogonal geometry needed for clamping. I glued the tiles to a plywood board for some extra support. To complete the board I added a felt bottom and a Marri boarder from some of my leftover scraps because I love the wavy look of the Marri grain. I also routed a 1mm channel halfway up the side of the board so that I could fold the felt base up in between the board and the boarder. This concealed the edge of the felt and made it less likely to peel off. Then I glued the felt and boarder on with Mod Podge and PVA.</p>
+    <p>Assembling the board was like solving a symmetric jigsaw puzzle with no color. Then I did a complicated glue up to create the two board halves. I had to make a few jigs that translated between the hexagonal shape of the board and the orthogonal geometry needed for clamping. I glued the tiles to a plywood board for some extra support. To complete the board I added a felt bottom and a Marri boarder from some of my leftover scraps because I love the wavy look of the Marri grain. I also routed a 1mm channel halfway up the side of the board so that I could fold the felt base up in between the board and the boarder. This concealed the edge of the felt and made it less likely to peel off. Then I glued the felt and boarder on with Mod Podge and PVA.</p>
 </div>
 
 <div class="gallery2">
