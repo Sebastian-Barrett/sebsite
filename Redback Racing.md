@@ -17,7 +17,7 @@ permalink: /redback
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
-    <p>text</p>
+    <p class="rightfloat">text</p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
