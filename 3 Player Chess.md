@@ -23,11 +23,11 @@ permalink: /3chess
 ## 3 Player Board
 <div class="gallery2">
     <img alt="CAM" src="/sebsite/images/3_CAM.jpg" class="gallery__img">
-    <video max_height="350px" autoplay muted loop playsinline controls src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
+    <video max-height="364px" autoplay muted loop playsinline controls src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
 </div>
 
 <div class="clearfix">
-    <img alt="Milled tiles" src="/sebsite/images/3_milled.jpg" class="gallery__img">
+    <img alt="Milled tiles" src="/sebsite/images/3_milled.jpg" class="rightfloat">
     <p> After modeling the board I arranged all the various quadrilateral tiles into the shapes of my timber planks. I did the CAM in Fusion 360, spiraling down around the outside. I then used a CNC mill to cut out the tiles out of Jarrah and Marri placks. I left stock on the bottom of the board and then ran each board vertically through the bandsaw to separate the tiles from the remaining wood.</p>
 </div>
 
