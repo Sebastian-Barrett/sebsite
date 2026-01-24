@@ -12,7 +12,7 @@ permalink: /3chess
 </div>
 <div class="gallery2">
     <img height="100%" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
-    <img height="100%" src="/sebsite/images/3_2board.JPG" class="gallery__img">
+    <img height="100%" width="69%" src="/sebsite/images/3_2board.JPG" class="gallery__img">
 </div>
 
 <div class="clearfix">
@@ -27,7 +27,7 @@ permalink: /3chess
 </div>
 
 <div class="clearfix">
-    <video playsinline src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
+    <video autoplay muted loop playsinline controls src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
     <p>I used a CNC mill to make the quadrilateral shaped tiles out of Jarrah and Marri placks. The board is designed by drawing lines between evenly spaced points along the sides and center lines of a hexagon. After modeling the board I arranged all the modeled tiles into the shapes of my timber planks. I did the CAM in Fusion 360 and then milled it out on a symbiosis mill. I left stock on the bottom of the board and then ran each board vertically through the bandsaw to separate the tiles from the board.</p>
 </div>
 
@@ -43,11 +43,12 @@ permalink: /3chess
 
 <div class="clearfix">
     <img alt="Sanding" src="/sebsite/images/3_sanding.jpg" class="rightfloat">
-    <p>After glueing, the joining edge of the board halves was not completely straight due to the complexity of the glue up. I fixed this by cutting off an unnoticeable amount with the track saw. I also sanded the top flat with the orbital sander, which took a while because of a height difference between the Jarrah and Marri tiles. I drilled four holes for magnets in the two sides of the board and then glued the magnets and wood plugs in. </p>
-    <p>To finish the board I used 3 coats of Tung oil, sanding with 800 grit between each. Each coat left the surface slightly streaky so I sanded to 1200 on the final coat of Tung oil. </p>
+    <p>After glueing, the joining edge of the board halves was not completely straight due to the complexity of the glue up. I fixed this by cutting off an unnoticeable amount with the track saw. I also sanded the top flat with the orbital sander, which took a while because of a height difference between the Jarrah and Marri tiles. </p>
 </div>
 <div class="gallery2">
+    <p>I drilled holes for magnets in the two halves of the 3 player board and then glued the magnets in. I then covered the holes with thin wood plugs to make them less visible.</p>
     <img alt="Hidden magnets" src="/sebsite/images/3_magnets.jpg" class="gallery__img">
+    <p>To finish the board I used 3 coats of Tung oil, sanding with 800 grit between each. Each coat left the surface slightly streaky so I sanded to 1200 on the final coat of Tung oil. Tung oil makes the board look nicer and hardens the wood for increased durability. It also makes it more waterproof, but because I only applied oil on the top side and not the felt side water slowly got absorbed through the felt side making the board bow.</p>
     <img alt="Finished board" src="/sebsite/images/3_final_board.jpg" class="gallery__img">
 </div>
 
