@@ -56,7 +56,7 @@
     /* for wide size*/
     @media screen and (min-width: 601px) {
         float: left; 
-        margin: 0 0 10 0px;
+        margin: 15px;
         width: 50%;
         max-width: 100%;
         text-align: left;
@@ -65,7 +65,7 @@
     /* for thin size */
     @media screen and (max-width: 600px) { 
         position: center;
-        margin: auto;
+        margin: 15px;;
         width: 100%;
         max-width: 100%;
         text-align: left;
@@ -75,7 +75,7 @@
 .rightfloat {
     /* for wide size*/
         float: right; 
-        margin: 10px 0px 10px 10px;
+        margin: 15px;
         width: auto;
         height: auto;
         max-width: 50%;
@@ -87,7 +87,7 @@
     @include media-query($on-palm) { 
         display: block;
         float: none;
-        margin: 10px 0px 10px 0px; 
+        margin: 15px;; 
         width: 100%;   
         max-width: 100%;
         max-height: 70vh; 

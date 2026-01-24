@@ -15,14 +15,17 @@ permalink: /redback
     <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
     <p>text</p>
 </div>
+
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
-    <p class="rightfloat">text</p>
+    <p>text</p>
 </div>
+
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
     <p>text</p>
 </div>
+
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
     <p>text</p>
