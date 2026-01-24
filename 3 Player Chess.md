@@ -12,7 +12,7 @@ permalink: /3chess
 </div>
 <div class="gallery2">
     <img height="100%" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
-    <img height="100%" width="69%" src="/sebsite/images/3_2board.JPG" class="gallery__img">
+    <img height="auto" width="69%" src="/sebsite/images/3_2board.JPG" class="gallery__img">
 </div>
 
 <div class="clearfix">
@@ -23,12 +23,12 @@ permalink: /3chess
 ## 3 Player Board
 <div class="gallery2">
     <img alt="CAM" src="/sebsite/images/3_CAM.jpg" class="gallery__img">
-    <img alt="Milled tiles" src="/sebsite/images/3_milled.jpg" class="gallery__img">
+    <video max_height="350px" autoplay muted loop playsinline controls src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
 </div>
 
 <div class="clearfix">
-    <video autoplay muted loop playsinline controls src="/sebsite/images/3_milling.mp4" class="rightfloat"></video> 
-    <p>I used a CNC mill to make the quadrilateral shaped tiles out of Jarrah and Marri placks. The board is designed by drawing lines between evenly spaced points along the sides and center lines of a hexagon. After modeling the board I arranged all the modeled tiles into the shapes of my timber planks. I did the CAM in Fusion 360 and then milled it out on a symbiosis mill. I left stock on the bottom of the board and then ran each board vertically through the bandsaw to separate the tiles from the board.</p>
+    <img alt="Milled tiles" src="/sebsite/images/3_milled.jpg" class="gallery__img">
+    <p> After modeling the board I arranged all the various quadrilateral tiles into the shapes of my timber planks. I did the CAM in Fusion 360, spiraling down around the outside. I then used a CNC mill to cut out the tiles out of Jarrah and Marri placks. I left stock on the bottom of the board and then ran each board vertically through the bandsaw to separate the tiles from the remaining wood.</p>
 </div>
 
 <div class="clearfix">
