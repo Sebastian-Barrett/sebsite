@@ -6,9 +6,13 @@ permalink: /3chess
 
 # Three player chess 
 <div class="clearfix">
-    <img alt="Finished chess set" src="/sebsite/images/3_final_set.jpg" class="rightfloat">
+    <img alt="Finished chess set" src="/sebsite/images/3_board.png" class="rightfloat">
     <blockquote>Because I couldn't just build a simple chess board</blockquote>
     <p>I chose this project because I always wanted to make a proper and beautiful chess set. I got to practice some interesting woodwork and learn the lathe. It took me about 150 hours over many weeks. The result is a unique handcrafted piece, with a solid 3 player board, a piece holder that is also the regular board and 3 teams of imperfect chessmen. I designed both boards in two halves in order to make them more portable and embedded magnets to hold them together. I designed the pieces to be quite traditional and for each of the main pieces to have some extra modification after the lathe. </p>
+</div>
+<div class="gallery2">
+    <img height="100%" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
+    <img height="100%" src="/sebsite/images/3_2board.JPG" class="gallery__img">
 </div>
 
 <div class="clearfix">
@@ -56,9 +60,9 @@ I designed my pieces to be quite traditional and combined lots of features I lik
 
 <div class="clearfix">
     <img alt="Piece holder jig" src="/sebsite/images/3_piece_holder.jpg" class="rightfloat">
-    <p>I also wanted my pieces to be weighted so I used broken 6mm carbide endmills from the mill (because we have a lot of broken ones). To break the carbide to useable lengths I used a hammer and vice because it was too hard to cut easily. I made a jig to hold the pieces while I drilled a hole for the carbide. Then I used hot glue to seal the hole and make the base flat. 
+    <p>I also wanted my pieces to be weighted so I used broken 6mm carbide endmills from the mill (because we have a lot of broken ones). To break the carbide to useable lengths I used a hammer and vice because it was too hard to cut. I made a jig to hold the pieces while I drilled a hole for the carbide. Then I used hot glue to seal the hole and make the base flat. 
     </p>
-    <p> To finish the pieces, I added matching brown felt to all the bases so that they would be quite to place and not scratch the board (and look stylish).  
+    <p> To finish the pieces, I added matching brown felt to all the bases to keep them quiet to place and not scratch the board (and look stylish).  
     </p>
 </div>
 
@@ -70,13 +74,13 @@ I designed my pieces to be quite traditional and combined lots of features I lik
 ### Pawn 
 <div class="gallery2">
     <video autoplay loop muted playsinline controls src="/sebsite/images/3_pawn_turning.mp4" class="gallery__img"></video> 
-    <img alt="Finished pawns" src="/sebsite/images/3_pawns.jpg" class="gallery__img">
+    <img alt="Finished pawns" src="/sebsite/images/3_pawns2.JPG" class="gallery__img">
 </div>
 
 ### Rook
 <div class="gallery2">
     <video autoplay loop muted playsinline controls src="/sebsite/images/3_rook_turning.mp4" class="gallery__img"></video> 
-    <img alt="Finished rooks" src="/sebsite/images/3_rooks.jpg" class="gallery__img">
+    <img alt="Finished rooks" src="/sebsite/images/3_rooks2.JPG" class="gallery__img">
 </div>
 
 ### Knight
@@ -95,31 +99,31 @@ The knights were the most difficult piece to make because of all the extra cutti
         <img alt="Cutting knight" src="/sebsite/images/3_knight_8.jpg" class="gallery__img">
     </div>
     <video autoplay loop muted playsinline controls src="/sebsite/images/3_knight_sanding.mp4" class="gallery__img"></video>
-    <img alt="Finished knight" src="/sebsite/images/3_knights.jpg" class="gallery__img">
+    <img alt="Finished knight" src="/sebsite/images/3_knights2.JPG" class="gallery__img">
 </div>
 
 ### Bishop
 <div class="gallery2">
     <video autoplay loop muted playsinline controls src="/sebsite/images/3_bishop_turning.mp4" class="gallery__img"></video> 
-    <img alt="Finished bishops" src="/sebsite/images/3_bishops.jpg" class="gallery__img">
+    <img alt="Finished bishops" src="/sebsite/images/3_bishops2.JPG" class="gallery__img">
 </div>
 
 ### Queen
 <div class="gallery2">
     <video autoplay loop muted playsinline controls src="/sebsite/images/3_queen_turning.mp4" class="gallery__img"></video> 
-    <img alt="Finished queens" src="/sebsite/images/3_queens.jpg" class="gallery__img">
+    <img alt="Finished queens" src="/sebsite/images/3_queens2.JPG" class="gallery__img">
 </div>
 
 ### King
 <div class="gallery2">
     <video autoplay loop muted playsinline controls src="/sebsite/images/3_king_turning.mp4" class="gallery__img"></video> 
-    <img alt="Finished kings" src="/sebsite/images/3_kings.jpg" class="gallery__img">
+    <img alt="Finished kings" src="/sebsite/images/3_kings2.JPG" class="gallery__img">
 </div>
 
 
 
-## Case
-I also needed a way to store and transport the chess set so I made a box for the pieces and a case for the whole set. I milled EVA foam mats from Bunnings to create a padded holder for the pieces and then attached the last of my Marri scraps onto the outside of the foam to make the box.
-design 
-cnc 
-result 
+## Regular board and piece storage 
+<div class="gallery2">
+    <p>I wanted to be able to play regular chess with the set and I needed a way to store and transport the pieces so I made a hollow folding chess board with foam inserts to hold the pieces. I used some thin sheets of leftover wood glue to a plywood base to create the board. I had to add some extra blank area on either end of teh chess board to make the inside big enough to fit all the chess pieces. I milled EVA foam and glued it to the inside of the box to create a padded holder for the pieces. </p>
+    <img alt="storage" src="/sebsite/images/3_foam.JPG" class="gallery__img">
+</div>
