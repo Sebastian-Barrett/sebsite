@@ -11,18 +11,21 @@ permalink: /redback
     <p>Redback racing is UNSW's university student formula SAE team, which I joined for two years.</p>
 </div>
 
+<!--Right Left image pair with Left Right text. Collapses to img text img text in phone view-->
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
-    <p>text1</p>
+    <p>text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 </p>
+</div>
+<div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
     <p>text2</p>
 </div>
 
+<!--Right Left image pair with Left Right text. Collapses to img text img text in phone view-->
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
     <p>text3</p>
 </div>
-
 <div class="clearfix">
     <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
     <p>text4</p>
