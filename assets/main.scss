@@ -56,8 +56,8 @@
     /* for wide size*/
     @media screen and (min-width: 601px) {
         float: left; 
-        margin: 0px 15px 0px 0px;
-        width: 50%;
+        margin: 0px 1.5% 0px 0px;
+        width: 48.5%;
         max-width: 100%;
         text-align: left;
     }
@@ -75,10 +75,10 @@
 .rightfloat {
     /* for wide size*/
         float: right; 
-        margin: 0px 0px 0px 15px;
+        margin: 0px 0px 0px 1.5%;
         width: auto;
         height: auto;
-        max-width: 50%;
+        max-width: 48.5%;
         max-height: 70vh;
         text-align: left;
         
