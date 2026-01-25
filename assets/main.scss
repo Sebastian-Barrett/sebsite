@@ -58,39 +58,40 @@
         float: left; 
         margin: 15px 1.5% 15px 0px;
         width: 48.5%;
-        max-width: 100%;
+        height: auto;
         text-align: left;
     }
 
     /* for thin size */
     @media screen and (max-width: 600px) { 
         position: center;
+        display: block;
+        float: none;
         margin: 15px 0px 15px 0px;;
         width: 100%;
-        max-width: 100%;
+        height: auto;  
         text-align: left;
     } 
 }
 
 .rightfloat {
     /* for wide size*/
+    @media screen and (min-width: 601px) {
         float: right; 
         margin: 15px 0px 15px 1.5%;
-        width: auto;
+        width: 48.5%;
         height: auto;
-        max-width: 48.5%;
-        max-height: 70vh;
         text-align: left;
-        
+    }
        
     /* for thin size */
-    @include media-query($on-palm) { 
+    @media screen and (max-width: 600px) { 
+        position: center;
         display: block;
         float: none;
         margin: 15px 0px 15px 0px;
         width: 100%;   
-        max-width: 100%;
-        max-height: 70vh; 
+        height: auto;
         text-align: left;
     } 
 }
