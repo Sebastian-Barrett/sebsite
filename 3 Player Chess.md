@@ -12,7 +12,7 @@ permalink: /3chess
 </div>
 <div class="gallery2">
     <img height="100%" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
-    <img height="auto" width="69%" src="/sebsite/images/3_2board.JPG" class="gallery__img">
+    <img height="auto" width="69%" src="/sebsite/images/3_2board.png" class="gallery__img">
 </div>
 
 <div class="clearfix">
