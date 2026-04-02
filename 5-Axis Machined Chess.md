@@ -8,7 +8,8 @@ permalink: /Machinistchess
 <div class="clearfix">
     <img alt="Finished chess set" src="/sebsite/images/DSC_0088 cropped.JPG" class="rightfloat">
     <blockquote>My 5-axis CNC learning project</blockquote>
-    <p>The pieces were machined from aluminium and brass using a 5-axis CNC mill to create a unique spiral design. The regular chess board was made in matching aluminium and brass inlay and houses a pair of drawers for storing the pieces. I also made 3 extra variant boards to play some unusual forms of chess: a circular board, a hexagonal board and a 10x10 board.  The ability to customize to make unique designs like variant boards is my favourite part of making things for myself. </p>
+    <p>I machined a beautiful custom chess set using a 5-axis CNC mill over 18 months. This project is a great combination of engineering challenges and artistic detail. The pieces were machined from aluminium and brass using the 5-axis mill to create a unique spiral design. The complex spiral design was created because it helped me to learn how to use the mill for simultaneous machining, where all 5 axes move at once. Simultaneous machining is more complex than 3+2 machining, where 2 axes move to rotate the stock into position then a standard 3 axis toolpath is used.</p>
+    <p>The regular chess board was made in matching aluminium and brass inlay and houses a pair of drawers for storing the pieces. I also made 3 extra variant boards to play some unusual forms of chess: a circular board, a hexagonal board and a 10x10 board.  The ability to customize to make unique designs like variant boards is my favourite part of making things for myself. </p>
     <p>I started this project to learn how to use a 5 axis CNC machine, and it took me a year and a half to complete. </p>
 </div>
 
