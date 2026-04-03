@@ -63,17 +63,17 @@ permalink: /redback
     <p class="leftfloat">In the HV box power lines passed through the electrical enclose and a high voltage disconnect between the battery to the motor so that serval safety and monitoring devices could be fitted. There was also a discharge circuit to discharge stored capacitance from the motor when the car got switched off. </p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/redback/IMG_7660.HEIC" class="leftfloat">
+    <img src="/sebsite/images/redback/composite enclosure.png" class="leftfloat">
     <p class="rightfloat">During my second year we remade the electrical enclosure with a focus on lightweight and compact design. We changed from using welding aluminum panels to a fiberglass foam composite, which greatly reduced the enclosure weight.</p>
 </div>
 
 # Manufacturing
 <div class="clearfix">
-    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/accu mount.mp4" class="leftfloat"></video> 
+    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/accu mount.mp4" class="rightfloat"></video> 
     <p class="leftfloat">My first ever 5-axis part was these steel mounts for the battery. They were welded to the chassis and used to bolt the HV battery to the spaceframe. </p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat">
+    <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat" max-height: 350px>
     <p class="rightfloat">I also made the motor mount. This was a required several setups: two operations on a 3 axis Datron to do the front and back, then another operation on the 5-axis to drill some perpendicular holes. The 5 axis operation required careful alignment to ensure the part was orientated in X and Z correctly. </p>
 </div>
 <div class="clearfix">
@@ -81,11 +81,11 @@ permalink: /redback
     <p class="leftfloat">We had to add a custom bolt pattern to the sprockets we bought. As the sprocket was already cut, I had to design and make aluminium soft jaws to clamp onto the outside without damaging it. The actual pattern was simple just 5 holes, but it was in hardened steel so I needed to use a carbide drill. </p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
+    <img src="/sebsite/images/redback/layup.jpg" class="leftfloat">
     <p class="rightfloat">We did custom composite layups to make the panelling for some enclosures. We made a fiberglass foam fiberglass sandwich, with wooden hardpoints cut and glued into the foam where we needed to mount components. </p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
+    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/laser cutting.mp4" class="rightfloat"></video> 
     <p class="leftfloat">Most of our sheet metal components were laser cut and bent. Laser cutting allowed for much more complex shapes and made it easy to create bending relief. </p>
 </div>
 <div class="clearfix">
