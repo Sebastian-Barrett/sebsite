@@ -15,6 +15,12 @@ layout: default
         </a>
     </figure>
     <figure class="gallery__item">
+        <a href="/sebsite/redback">
+        <img alt="Redback Racing" src="/sebsite/images/Car fast.jpg" class="gallery__img">
+        <figcaption>Redback Racing</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
         <a href="/sebsite/3chess">
         <img alt="3 Player Chess set" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
         <figcaption>3 Player Chess</figcaption>
