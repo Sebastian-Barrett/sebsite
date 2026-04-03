@@ -50,8 +50,24 @@ permalink: /redback
 </div>
 
 # Electrical enclosure
+<div class="clearfix">
+    <img src="/sebsite/images/redback/Partyhouse.png" class="rightfloat">
+    <p class="leftfloat">The electrical enclosure housed the high voltage and low voltage control and safety systems. The main concerns were easy access, waterproofing, electrical insulation, and physical integration with the other systems on the car. I designed the two boxes to be laser cut, bent and welded. I also designed steel mounts that welded onto the car chassis tubes. For quick disassembly the boxes were attached to each other with toggle latches. The toggle latches also provided downwards pressure onto the rubber U channel around the top of each box to create a waterproof seal. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/labled partyhouse.png" class="leftfloat">
+    <p class="rightfloat">The housing was split into two parts to create electrical isolation between the HV and LV circuitry. In the LV top half we used a Motec engine control unit to control torque requests and manage the car data. The shutdown PCB monitored for connection between the HV circuits and LV ground (which would indicate a short of the HV battery) and the PCB disconnected the HV battery if it shorted. We used a power distribution module to separately fuse and switch the LV power supply to various components. Several circle connectors allowed the control PCBs to connect to the car’s loom.</p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/HVD.jpg" class="rightfloat">
+    <p class="leftfloat">In the HV box power lines passed through the electrical enclose and a high voltage disconnect between the battery to the motor so that serval safety and monitoring devices could be fitted. There was also a discharge circuit to discharge stored capacitance from the motor when the car got switched off. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/IMG_7660.HEIC" class="leftfloat">
+    <p class="rightfloat">During my second year we remade the electrical enclosure with a focus on lightweight and compact design. We changed from using welding aluminum panels to a fiberglass foam composite, which greatly reduced the enclosure weight.</p>
+</div>
 
-# CNC Milling
+# Manufacture
 
 
 
