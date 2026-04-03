@@ -7,8 +7,8 @@ permalink: /redback
 # Redback Racing
 <div class="clearfix">
     <img alt="" src="/sebsite/images/redback/Car fast.jpg" class="rightfloat">
-    <blockquote>We build a F1 style car. In one year!</blockquote>
-    <p class="leftfloat">Redback racing is UNSW's university student formula SAE team, which I joined for two years. We build a formula 1 style electric race car each year and compete with other universities from Oceania. I joined the powertrain department and spent one year working on the electrical enclosure and high voltage battery. During my second year I became the lead of the powertrain department and was in charge of the HV battery, electric motor, safety and control system, and drivetrain. </p>
+    <blockquote>We build a F1 style car every year!</blockquote>
+    <p class="leftfloat">Redback racing is UNSW's formula SAE team, which I joined for two years. We build a Formula 1 style electric race car each year and compete with other universities from Oceania. I joined the powertrain department and spent one year working on the electrical enclosure and high voltage battery. During my second year I became the lead of the powertrain department and was in charge of the HV battery, electric motor, safety and control system, and drivetrain. </p>
     
 </div>
 <div class="clearfix">
@@ -32,7 +32,7 @@ permalink: /redback
 </div>
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/redback/overtake.mp4" class="leftfloat"></video> 
-    <p class="rightfloat">The biggest challenge is Endurance where the car must complete a 22km race. They get marked for speed and energy efficiency. In my first year Redback came 2nd, and in my second year Redback came 11th because we didn’t finish endurance. </p>
+    <p class="rightfloat">The biggest challenge is Endurance where the car must complete a 22km race. They get marked for speed and energy efficiency. </p>
 </div>
 
 # HV Battery
@@ -91,18 +91,4 @@ permalink: /redback
 <div class="clearfix">
     <img src="/sebsite/images/redback/20240628_135935.jpg" class="leftfloat">
     <p class="rightfloat">The hardest sheet metal parts to design and make were chassis mounts because the chassis tubes were at weird angles that required careful jigging and alignment for welding.</p>
-</div>
-
-
-
-
-
-<!--Right Left image pair with Left Right text. Collapses to img text img text in phone view-->
-<div class="clearfix">
-    <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
-    <p class="leftfloat"></p>
-</div>
-<div class="clearfix">
-    <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
-    <p class="rightfloat"></p>
 </div>
