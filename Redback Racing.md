@@ -70,7 +70,7 @@ permalink: /redback
 # Manufacturing
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/redback/accu mount.mp4" class="rightfloat"></video> 
-    <p class="leftfloat">My first ever 5-axis part was these steel mounts for the battery. They were welded to the chassis and used to bolt the HV battery to the spaceframe. </p>
+    <p class="leftfloat">My first ever 5-axis part was these steel mounts for the battery. They are a great example of a 5-axis part because they required three setups on a 3-axis machine but only two on the 5-axis. They could also be machined from both sides, which means I could use shorter and more rigid tools on the 5-axis. They were welded to the chassis and used to bolt the HV battery to the spaceframe. </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat" max-height="350px">
