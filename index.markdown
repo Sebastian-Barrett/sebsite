@@ -16,7 +16,7 @@ layout: default
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/redback">
-        <img alt="Redback Racing" src="/sebsite/images/Car fast.jpg" class="gallery__img">
+        <img alt="Redback Racing" src="/sebsite/images/redback/Car fast.jpg" class="gallery__img">
         <figcaption>Redback Racing</figcaption>
         </a>
     </figure>
