@@ -12,11 +12,6 @@
     background: $light-highlight; /* Gecko Browsers */
 }
 
-.img {
-    object-fit: contain;
-    max-height: 350px;
-}
-
 #leftalign {
      /* for wide size*/
      @media screen and (min-width: 601px) {
@@ -38,6 +33,9 @@
 
 
 #leftfloat {
+    max-height: 300px;
+    object-fit: contain;
+
     /* for wide size*/
     @media screen and (min-width: 601px) {
         float: left; 
@@ -58,6 +56,8 @@
 }
 
 .leftfloat {
+    max-height: 300px;
+    object-fit: contain;
     /* for wide size*/
     @media screen and (min-width: 601px) {
         float: left; 
@@ -81,6 +81,8 @@
 
 .rightfloat {
     /* for wide size*/
+    max-height: 300px;
+    object-fit: contain;
     @media screen and (min-width: 601px) {
         float: right; 
         margin: 15px 0px 15px 1.5%;
@@ -103,6 +105,8 @@
 
 
 .thinrightfloat {
+    max-height: 300px;
+    object-fit: contain;
     /* for wide size*/
     float: right; 
     margin: 0 0 0 10px;
