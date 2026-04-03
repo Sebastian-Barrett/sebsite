@@ -7,13 +7,13 @@ permalink: /redback
 # Redback Racing
 <div class="clearfix">
     <img alt="" src="/sebsite/images/redback/Car fast.jpg" class="rightfloat">
-    <blockquote>We build a F1 style car every year!</blockquote>
-    <p class="leftfloat">Redback racing is UNSW's formula SAE team, which I joined for two years. We build a Formula 1 style electric race car each year and compete with other universities from Oceania. I joined the powertrain department and spent one year working on the electrical enclosure and high voltage battery. During my second year I became the lead of the powertrain department and was in charge of the HV battery, electric motor, safety and control system, and drivetrain. </p>
+    <blockquote>We build an F1-style car every year!</blockquote>
+    <p class="leftfloat">Redback racing is UNSW's formula SAE team, which I joined for two years. We build a Formula 1 style electric race car each year and compete with other universities. I joined the powertrain department and spent one year working on the electrical enclosure and high voltage battery. During my second year I became the lead of the powertrain department and was in charge of the HV battery, electric motor, safety and control system, and drivetrain. </p>
     
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/team photo.jpg" class="leftfloat">
-    <p class="rightfloat">I think that the student projects at university like Redback are an excellent opportunity, and you should get involved if you are at university. I felt like it was the first time I really got to apply things I was learning from my classes and it made the lessons more meaningful. I also learnt so many extra skills that you can’t learn in the classroom. Practical skills like design, manufacture assembly and testing. Also, soft team skills like working between departments, managing a team, and maintaining a professional workplace. I really enjoyed getting to work with so many keen, dedicated people who all wanted to build the best car possible. You can check out <a href="https://www.redbackracing.com/">Redback’s website here</a>.</p>
+    <p class="rightfloat">I think that student projects like Redback are an excellent opportunity, and you should get involved if you are at university. It felt like the first time I really got to apply things I was learning from my classes and it made the lessons more meaningful. I also learnt so many extra skills that you can’t teach in the classroom. Practical skills like design, manufacture, assembly and testing. Also, soft skills like working between departments, managing a team, and maintaining a professional workplace. I really enjoyed getting to work with so many keen, dedicated people who all wanted to build the best car possible. You can check out <a href="https://www.redbackracing.com/">Redback’s website here</a>.</p>
 </div>
 
 # Competition
@@ -38,11 +38,11 @@ permalink: /redback
 # HV Battery
 <div class="clearfix">
     <img src="/sebsite/images/redback/segment.jpg" class="rightfloat">
-    <p class="leftfloat">Our 600V battery was made of 12 segments in series, each with 12 modules in series. Each module contains six 18650 cells in parallel packaged with thermal monitoring, voltage taps, and insulative plastic caps. To make each segment we used fiberglass boards to physically connect the modules and insulate between copper bus bars going from module to module. </p>
+    <p class="leftfloat">Our 600V battery was made of 12 segments in series, each with 12 modules in series. Each module contains six 18650 cells in parallel packaged with thermal monitoring, voltage taps, and insulative plastic caps. To make each segment, we used fiberglass boards to physically connect the modules and insulate between copper bus bars going from module to module. </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/accu.jpg" class="leftfloat">
-    <p class="rightfloat">Each segment was housed in a separate compartment in the battery, with aluminium walls and an insulative mica coating. The segments all have voltage tap wires and thermal sense wires that get routed to separate PCBs to measure module health. The battery management system (BMS) uses voltage and temperate information to control charging, discharging and balancing of the battery. If it gets too hot the BMS will tell the ECU to reduce the maximum current draw to help maintain safe temperatures. </p>
+    <p class="rightfloat">Each segment was housed in a separate compartment in the battery, with aluminium walls and an insulative mica coating. The segments all have voltage tap wires and thermal sense wires that get routed to separate PCBs to measure module health. The battery management system (BMS) uses voltage and temperature information to control charging, discharging and balancing of the battery. If it gets too hot the BMS will reduce the maximum current draw to help maintain safe temperatures. </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/cardboard accu.jpeg" class="rightfloat">
@@ -60,7 +60,7 @@ permalink: /redback
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/HV layer.jpg" class="rightfloat">
-    <p class="leftfloat">In the HV box power lines passed through the electrical enclose and a high voltage disconnect between the battery to the motor so that serval safety and monitoring devices could be fitted. There was also a discharge circuit to discharge stored capacitance from the motor when the car got switched off. </p>
+    <p class="leftfloat">In the HV box, power lines passed through the electrical enclosure between the battery and the motor so that serval safety and monitoring devices could be fitted. It also contained a discharge circuit to discharge stored capacitance from the motor when the car got switched off. </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/composite enclosure.png" class="leftfloat">
@@ -74,15 +74,15 @@ permalink: /redback
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat" max-height="350px">
-    <p class="rightfloat">I also made the motor mount. This was a required several setups: two operations on a 3 axis Datron to do the front and back, then another operation on the 5-axis to drill some perpendicular holes. The 5 axis operation required careful alignment to ensure the part was orientated in X and Z correctly. </p>
+    <p class="rightfloat">I also made the motor mount. This required several setups: two operations on a 3-axis Datron to do the front and back, then another operation on the 5-axis to drill some perpendicular holes. The 5-axis operation required careful alignment to ensure the part was orientated in X and Z correctly. </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/gear.jpg" class="rightfloat">
-    <p class="leftfloat">We had to add a custom bolt pattern to the sprockets we bought. As the sprocket was already cut, I had to design and make aluminium soft jaws to clamp onto the outside without damaging it. The actual pattern was simple just 5 holes, but it was in hardened steel so I needed to use a carbide drill. </p>
+    <p class="leftfloat">We had to add a custom bolt pattern to the sprockets we bought. As the sprocket was already cut, I had to design and make aluminium soft jaws to clamp onto the outside without damaging it. The actual pattern was simple, just 5 holes, but it was my first time machining hardened steel and using a carbide drill. </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/layup.jpg" class="leftfloat">
-    <p class="rightfloat">We did custom composite layups to make the panelling for some enclosures. We made a fiberglass foam fiberglass sandwich, with wooden hardpoints cut and glued into the foam where we needed to mount components. </p>
+    <p class="rightfloat">We did custom composite layups to make the panelling for some enclosures. We made a fiberglass-foam-fiberglass sandwich, with wooden hardpoints cut and glued into the foam where we needed to mount components. </p>
 </div>
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/redback/laser cutting.mp4" class="rightfloat"></video> 
