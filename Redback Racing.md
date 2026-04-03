@@ -27,17 +27,34 @@ permalink: /redback
     <p class="rightfloat">The cars must also complete autocross, which consists of four tight circles in two directions to test the cars turning acceleration.</p>
 </div>
 <div class="clearfix">
-    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/autocross.mp4" class="rightfloat"></video> 
-    <p class="leftfloat">The biggest challenge is Endurance where the car must complete a 22km race. They get marked for speed and energy efficiency. In my first year Redback came 2nd, and in my second year Redback came 11th because we didn’t finish endurance. </p>
+    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/accel.mp4" class="rightfloat"></video> 
+    <p class="leftfloat">The cars do a straight line acceleration test, which favors light and powerful cars. For this test we can change the shape of the rear wing to reduce drag.</p>
+</div>
+<div class="clearfix">
+    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/overtake.mp4" class="leftfloat"></video> 
+    <p class="rightfloat">The biggest challenge is Endurance where the car must complete a 22km race. They get marked for speed and energy efficiency. In my first year Redback came 2nd, and in my second year Redback came 11th because we didn’t finish endurance. </p>
 </div>
 
 # HV Battery
+<div class="clearfix">
+    <img src="/sebsite/images/redback/segment.jpg" class="rightfloat">
+    <p class="leftfloat">Our 600V battery was made of 12 segments in series, each with 12 modules in series. Each module contains six 18650 cells in parallel packaged with thermal monitoring, voltage taps, and insulative plastic caps. To make each segment we used fiberglass boards to physically connect the modules and insulate between copper bus bars going from module to module. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/accu.jpg" class="leftfloat">
+    <p class="rightfloat">Each segment was housed in a separate compartment in the battery, with aluminium walls and an insulative mica coating. The segments all have voltage tap wires and thermal sense wires that get routed to separate PCBs to measure module health. The battery management system (BMS) uses voltage and temperate information to control charging, discharging and balancing of the battery. If it gets too hot the BMS will tell the ECU to reduce the maximum current draw to help maintain safe temperatures. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/cardboard accu.jpeg" class="rightfloat">
+    <p class="leftfloat">As with most engineering projects we first modeled our designs in CAD (cardboard aided design!) which is helpful to detect assembly and tool access issues.</p>
+</div>
 
+# Electrical enclosure
 
 # CNC Milling
 
 
-# Electrical enclosure
+
 
 
 
