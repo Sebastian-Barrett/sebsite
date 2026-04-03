@@ -73,7 +73,7 @@ permalink: /redback
     <p class="leftfloat">My first ever 5-axis part was these steel mounts for the battery. They were welded to the chassis and used to bolt the HV battery to the spaceframe. </p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat" max-height: 350px>
+    <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat" max-height="350px">
     <p class="rightfloat">I also made the motor mount. This was a required several setups: two operations on a 3 axis Datron to do the front and back, then another operation on the 5-axis to drill some perpendicular holes. The 5 axis operation required careful alignment to ensure the part was orientated in X and Z correctly. </p>
 </div>
 <div class="clearfix">
