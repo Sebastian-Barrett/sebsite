@@ -59,7 +59,7 @@ permalink: /redback
     <p class="rightfloat">The housing was split into two parts to create electrical isolation between the HV and LV circuitry. In the LV top half we used a Motec engine control unit to control torque requests and manage the car data. The shutdown PCB monitored for connection between the HV circuits and LV ground (which would indicate a short of the HV battery) and the PCB disconnected the HV battery if it shorted. We used a power distribution module to separately fuse and switch the LV power supply to various components. Several circle connectors allowed the control PCBs to connect to the car’s loom.</p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/redback/HVD.jpg" class="rightfloat">
+    <img src="/sebsite/images/redback/HV layer.jpg" class="rightfloat">
     <p class="leftfloat">In the HV box power lines passed through the electrical enclose and a high voltage disconnect between the battery to the motor so that serval safety and monitoring devices could be fitted. There was also a discharge circuit to discharge stored capacitance from the motor when the car got switched off. </p>
 </div>
 <div class="clearfix">
@@ -67,9 +67,31 @@ permalink: /redback
     <p class="rightfloat">During my second year we remade the electrical enclosure with a focus on lightweight and compact design. We changed from using welding aluminum panels to a fiberglass foam composite, which greatly reduced the enclosure weight.</p>
 </div>
 
-# Manufacture
-
-
+# Manufacturing
+<div class="clearfix">
+    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/accu mount.mp4" class="leftfloat"></video> 
+    <p class="leftfloat">My first ever 5-axis part was these steel mounts for the battery. They were welded to the chassis and used to bolt the HV battery to the spaceframe. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/motor mount.jpg" class="leftfloat">
+    <p class="rightfloat">I also made the motor mount. This was a required several setups: two operations on a 3 axis Datron to do the front and back, then another operation on the 5-axis to drill some perpendicular holes. The 5 axis operation required careful alignment to ensure the part was orientated in X and Z correctly. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/gear.jpg" class="rightfloat">
+    <p class="leftfloat">We had to add a custom bolt pattern to the sprockets we bought. As the sprocket was already cut, I had to design and make aluminium soft jaws to clamp onto the outside without damaging it. The actual pattern was simple just 5 holes, but it was in hardened steel so I needed to use a carbide drill. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/Blank.jpg" class="leftfloat">
+    <p class="rightfloat">We did custom composite layups to make the panelling for some enclosures. We made a fiberglass foam fiberglass sandwich, with wooden hardpoints cut and glued into the foam where we needed to mount components. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/Blank.jpg" class="rightfloat">
+    <p class="leftfloat">Most of our sheet metal components were laser cut and bent. Laser cutting allowed for much more complex shapes and made it easy to create bending relief. </p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/redback/20240628_135935.jpg" class="leftfloat">
+    <p class="rightfloat">The hardest sheet metal parts to design and make were chassis mounts because the chassis tubes were at weird angles that required careful jigging and alignment for welding.</p>
+</div>
 
 
 
