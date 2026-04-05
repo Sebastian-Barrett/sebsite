@@ -13,7 +13,7 @@ permalink: /redback
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/redback/team photo.jpg" class="leftfloat">
-    <p class="rightfloat">I think that student projects like Redback are an excellent opportunity, and you should get involved if you are at university. It felt like the first time I really got to apply things I was learning from my classes and it made the lessons more meaningful. I also learnt so many extra skills that you can’t teach in the classroom. Practical skills like design, manufacture, assembly and testing. Also, soft skills like working between departments, managing a team, and maintaining a professional workplace. I really enjoyed getting to work with so many keen, dedicated people who all wanted to build the best car possible. You can check out <a href="https://www.redbackracing.com/">Redback’s website here</a>.</p>
+    <p class="rightfloat">I think that student projects like Redback are an excellent opportunity, and you should get involved if you are at university. It felt like the first time I really got to apply things I was learning from my classes and it made the lessons more meaningful. I also learnt so many extra skills that you can’t teach in the classroom. Practical skills like design, manufacture, assembly and testing. Also, soft skills like working between departments, managing a team, and maintaining a professional workplace. I really enjoyed getting to work with so many keen, dedicated people who all wanted to build the best car possible. You can check out <a href="https://www.redbackracing.com/" target="_blank">Redback’s website here</a>.</p>
 </div>
 
 # Competition

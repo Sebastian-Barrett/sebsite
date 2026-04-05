@@ -5,7 +5,16 @@ permalink: /cnc
 ---
 
 # CNC milling
-I learnt CNC machining in 2020 and it has become one of my most valuable skills. I have machined parts for Redback Racing, my thesis, my [chess board](/3%20Player%20Chess.md) and as a job designing and making parts for UNSW researchers.
+<div class="clearfix">
+    <video autoplay muted loop playsinline controls src="/sebsite/images/redback/laser cutting.mp4" class="rightfloat"></video> 
+    <p class="leftfloat">I learnt CNC machining in 2020 and it has become one of my most valuable skills. I have machined parts for many personal projects; including <a href="/redback">Redback Racing</a>, my thesis, my <a href="/Machinistchess">chess board</a>. I work at UNSW designing and making parts for UNSW researchers, which has greatly expanded my skills! Researchers always seem to want massive or tiny parts, they often have unusual material requirements, and sometimes only have an idea but no knowledge about how to make it.
+    I also enjoy teaching CNC machining to students at the Kirby Makerspace and I wrote the CNC inductions and learning material.</p>
+</div>
+
+<div class="clearfix">
+    <img src="/sebsite/images/CNC/Blank.jpg" class="leftfloat">
+    <p class="rightfloat"></p>
+</div>
 
 
 CNC milling works by using a computer to push a fast spinning mill bit (like a drill bit) into wood, plastic or metal to carve out the desired shape. [This article](https://all3dp.com/2/what-is-cnc-milling-simply-explained/) gives more detail. 
