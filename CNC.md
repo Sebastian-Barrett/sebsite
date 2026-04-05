@@ -22,32 +22,6 @@ permalink: /cnc
     <p class="leftfloat">During a final year course at UNSW students design and make stirling engines where they make most of the simple parts, and I helped make the harder parts for them. They make acrylic bearing mounts, which get laser cut then I enlarged the bearing holes for a precise press fit. I also drilled and threaded side holes so that set screws could be used to fix some components in place.</p>
 </div>
 
-# Gallery
-<div class="gallery" >
-    <figure class="gallery__item">
-        <img src="/sebsite/images/CNC/cryogenic brackets.jpg" class="gallery__img">
-        <figcaption>Machinist Chess set</figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-        <figcaption>Grand Teton CAD</figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <img src="/sebsite/images/teton.jpg" class="gallery__img">
-        <figcaption>Grand Teton</figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/julio plate.mp4" class="rightfloat"></video> 
-        <figcaption></figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <img src="/sebsite/images/CNC/Blank.jpg" class="gallery__img">
-        <figcaption></figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <img src="/sebsite/images/CNC/Blank.jpg" class="gallery__img">
-        <figcaption></figcaption>
-    </figure>
 
     
 
@@ -59,14 +33,6 @@ permalink: /cnc
 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
-# Marble run
-<div class="clearfix">
-    <img alt="Marble run" src="/sebsite/images/marblerun.jpg" class="rightfloat">
-    <p>This was my first CNC project, so I chose a simple shallow to mill in order to learn how. </p> 
-    <p>To make the actual shape I created a parametrically defined curve and used my <a href="/sebsite/parametric">python program</a> to turn it into a DXF curve. Then I used rhino to put a pipe around the curve and cut the solid shape created out of a cylindrical object.</p>
-    <iframe src="https://www.youtube.com/embed/H_PB5cSu4eQ" class="youtube" frameborder="0" allowfullscreen></iframe>
-</div>
 
 # Wave
 <div class="clearfix">
@@ -87,3 +53,34 @@ I used both of these models to make a cam path in Fusion 360 to cut them out of 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf1593a955fb1769b2?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
+# Gallery
+<div class="gallery" >
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/cryogenic brackets.jpg" class="gallery__img">
+        <figcaption>Cryogenic brackets</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/cryogenic brackets.jpg" class="gallery__img">
+        <figcaption>Grand Teton CAD</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/teton.jpg" class="gallery__img">
+        <figcaption>Grand Teton</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/julio plate.mp4" class="gallery__img"></video> 
+        <figcaption>Junction flow plate</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/wave.jpg" class="gallery__img">
+        <figcaption>Wooden wave</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/surface.jpg" class="gallery__img">
+        <figcaption>$$z = xye^{-(x^2+y^2)}$$</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img alt="Marble run" src="/sebsite/images/marblerun.jpg" class="gallery__img">
+        <figcaption>Marble run</figcaption>
+    </figure>
+</div>
