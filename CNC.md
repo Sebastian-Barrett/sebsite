@@ -5,7 +5,8 @@ permalink: /cnc
 ---
 
 # CNC milling
-Learning to CNC mill was an excellent skill because it is able to make a wide variety of very strong parts.  My [puzzle box](/sebsite/puzzlebox) and [my game](/sebsite/game) both use CNC. 
+I learnt CNC machining in 2020 and it has become one of my most valuable skills. I have machined parts for Redback Racing, my thesis, my [chess board](/3%20Player%20Chess.md) and as a job designing and making parts for UNSW researchers.
+
 
 CNC milling works by using a computer to push a fast spinning mill bit (like a drill bit) into wood, plastic or metal to carve out the desired shape. [This article](https://all3dp.com/2/what-is-cnc-milling-simply-explained/) gives more detail. 
 
