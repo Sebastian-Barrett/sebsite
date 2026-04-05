@@ -6,11 +6,7 @@ permalink: /letterpunches
 
 # Letter punches
 <div class="clearfix">
-    <img alt="" src="/sebsite/images/letter punches/letter punches/astrick.jpg" class="rightfloat">
-<<<<<<< HEAD
-    <img alt="" src="/sebsite/images/letter punches/letter punches/astrick.jpg" class="rightfloat">
-=======
->>>>>>> 49995a2 (letter punches)
+    <img alt="" src="/sebsite/images/letter punches/astrick.jpg" class="rightfloat">
     <blockquote>Letter punches to cast type for a old fashioned printing press</blockquote>
     <p class="leftfloat">I machined a set of 88 letter punches for a group trying to recreate historical law documents. The letter punches are hardened tool steel that gets pressed into annealed copper to create a negative of a letter. The copper negative can then be used as a mold to cast many copies, to create the thousands of letters needed to print a page on a printing press.</p>
     </div>
@@ -32,7 +28,6 @@ permalink: /letterpunches
 </p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/letter punches/rounded.jpg" class="leftfloat" >
     <img src="/sebsite/images/letter punches/rounded.jpg" class="leftfloat" >
     <p class="rightfloat">The letter punches were all made from tool steel so that it could be hardened above 60HRC after machining. The final hardness is important because if the punch is too soft it will deform during pressing, which creates a useless rounded letter head. In the annealed state the tool steel was about 200HB, which is hard enough to significantly reduce tool life. 
 </p>
