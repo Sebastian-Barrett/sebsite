@@ -27,8 +27,9 @@ permalink: /cnc
 
 # Grand Teton
 <div class="clearfix">
-    <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="rightfloat">
-    <p>The Grand Teton is a mountain in Wyoming that my dad climbed and I decided to make him a mini topographical map of it because I wanted to try topographical CNC. I downloaded a STL file of the mountain from an online <a href="https://jthatch.com/Terrain2STL/" target="_blank">terrain STL generator</a>. I started with a big 8mm end mill for aggressive clearing and then did finer stepdowns with a smaller 6mm end mill and finishing parallel passes with a small 3mm ball mill. Afterwards I laser engraved "Grand Teton" into the wood and oiled it for protection.</p>
+    <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="leftfloat">
+    <p class="leftfloat">The Grand Teton is a mountain in Wyoming that my dad climbed! </p>
+    <iframe class="rightfloat" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </div>
 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -42,15 +43,6 @@ permalink: /cnc
     <img alt="Wave graph" src="/sebsite/images/wavegraph.jpg" width="50%" width-max="600">
     <p>Then in Rhino I revolved that curve to make the wave surface.</p>
 </div>
-
-<div class="clearfix">
-    <img alt="Surface model" src="/sebsite/images/surface.jpg" class="rightfloat">
-    <p>I also made a surface defined by equation: $$z = xye^{-(x^2+y^2)}$$ To model this surface I wrote a python program to create a DXF file with a large grid of points at set x y positions and a z height determined by the surface equation. Then in rhino I was able to fit a surface through the point grid. </p>
-</div>
-
-I used both of these models to make a cam path in Fusion 360 to cut them out of the wood. You can view the cam path with the top left button shaped like a mill:
-
-<iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf1593a955fb1769b2?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 # Gallery
