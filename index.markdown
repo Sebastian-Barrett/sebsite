@@ -28,7 +28,7 @@ layout: default
     </figure>
     <figure class="gallery__item">
         <a href="/sebsite/letterpunches">
-        <img alt="Letter punches" src="/sebsite/images/letter punches/astricks before facing.jpg" class="gallery__img">
+        <img alt="Letter punches" src="/sebsite/images/letter punches/ampesand.png" class="gallery__img">
         <figcaption>Letter punches</figcaption>
         </a>
     </figure>
