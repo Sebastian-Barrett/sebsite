@@ -4,11 +4,13 @@ title: CNC
 permalink: /cnc
 ---
 
-# CNC milling
+# CNC machining
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/redback/laser cutting.mp4" class="rightfloat"></video> 
-    <p class="leftfloat">I learnt CNC machining in 2020 and it has become one of my most valuable skills. I have machined parts for many personal projects; including <a href="/redback">Redback Racing</a>, my thesis, my <a href="/Machinistchess">chess board</a>. I work at UNSW designing and making parts for UNSW researchers, which has greatly expanded my skills! Researchers always seem to want massive or tiny parts, they often have unusual material requirements, and sometimes only have an idea but no knowledge about how to make it.
-    I also enjoy teaching CNC machining to students at the Kirby Makerspace and I wrote the CNC inductions and learning material.</p>
+    <p class="leftfloat">I learnt CNC machining in 2020 and it has become one of my most valuable skills. I have machined parts for many personal projects; including <a href="/redback">Redback Racing</a>, my thesis, my <a href="/Machinistchess">chess board</a>. </p>
+    <p>I work at UNSW designing and making parts for UNSW researchers, which has greatly expanded my skills! Researchers always seem to want massive or tiny parts, they often have unusual material requirements, and sometimes only have an idea but no knowledge about how to make it.</p>
+    <p>I also enjoy teaching CNC machining to students at the Kirby Makerspace where I run machine inductions for our Tormach, Symbiosis and HAAS 3 and 5 axis machines. I wrote the <a href="https://www.making.unsw.edu.au/learn/haas-5-axis-32-induction/" target="_blank">CNC inductions</a> where students are given their first part to program. I also got to write the advanced learning material
+    <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-feeds-and-speeds-and-more/" target="_blank"></a> for students which covers <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-feeds-and-speeds-and-more/" target="_blank">feed and speeds</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-probing/" target="_blank">probing</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-tooling/" target="_blank">tooling</a> and other <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-machinist-essentials/" target="_blank">essential knowledge</a> in depth.</p> 
 </div>
 
 <div class="clearfix">
