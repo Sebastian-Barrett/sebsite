@@ -11,7 +11,7 @@ layout: default
     <figure class="gallery__item">
         <a href="/sebsite/Machinistchess">
         <img alt="Machinist Chess set" src="/sebsite/images/DSC_0088 cropped.JPG" class="gallery__img">
-        <figcaption font-size="18">Machinist Chess set</figcaption>
+        <figcaption>Machinist Chess set</figcaption>
         </a>
     </figure>
     <figure class="gallery__item">

@@ -47,7 +47,7 @@ permalink: /letterpunches
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/letter punches/big vice.jpg" class="rightfloat" >
-    <p class="leftfloat">Fortunately, I had access to a Datron with a fast 40,000RPM spindle. A high spindle speed is very helpful for micro machining because it directly decreases the time to cut each letter. On any other machine it would have taken me four times longer per letter. The Datron is also extremely rigid and has a low runout spindle, which both help reduce uneven load on the flutes of the tool. However the Datron only had a weak vice and the steel letter punches kept slipping due to large cutting forces in steel. To fix this I was able to add some holes to a larger vice and bolt it to the T-slot table. It looks weirdly oversized in the machine, but completely fixed the problem. The larger vice also allowed me to machine four letters at once, greatly reducing my setup time. 
+    <p class="leftfloat">Fortunately, I had access to a Datron with a fast 40,000RPM spindle. A high spindle speed is very helpful for micro machining because it directly decreases the time to cut each letter. On any other machine it would have taken me four times longer per letter. The Datron is also extremely rigid and has a low runout spindle, which both help reduce uneven load on the flutes of the tool. However the Datron only had a weak vice and the steel letter punches kept slipping due to large cutting forces. To fix this I was able to add some holes to a larger vice and bolt it to the T-slot table. It looks weirdly oversized in the machine, but completely fixed the problem. The larger vice also allowed me to machine four letters at once, greatly reducing my setup time. 
 </p>
 </div>
 
