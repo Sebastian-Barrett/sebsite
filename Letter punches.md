@@ -8,7 +8,7 @@ permalink: /letterpunches
 <div class="clearfix">
     <img alt="" src="/sebsite/images/letter punches/astrick.jpg" class="rightfloat">
     <blockquote>Letter punches to cast type for a old fashioned printing press</blockquote>
-    <p class="leftfloat">I machined a set of 88 letter punches for a group trying to recreate historical law documents. The letter punches are hardened tool steel that gets pressed into annealed copper to create a negative of a letter. The copper negative can then be used as a mold to cast many copies, to create the thousands of letters needed to print a page on a printing press.</p>
+    <p class="leftfloat">I machined a set of 88 letter punches for a group trying to recreate historical law documents. Each letter punch will be pressed into annealed copper to create a negative of that letter. The copper negative can then be used as a mold to cast many copies, to create the thousands of letters needed to print a page on a printing press.</p>
     </div>
 
 # Design
@@ -42,18 +42,18 @@ permalink: /letterpunches
 </div>
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/letter punches/a toolpath.mp4" class="leftfloat"></video> 
-    <p class="rightfloat">Machining the letters was difficult because each letter is about 4mm tall, and I needed to use a R0.1mm ball mill to create the smallest details. Even with the R0.1mm ball there were some gaps too small to machine. Also the length of tools decreases as smaller diameters, so the smallest tools could only reach a small depth into the letter. This means the letters have the most detail at the important top surface and get less detailed deeper down. I used a high efficiency strategy with a large depth of cut and a very small stepover. High efficiency machining is excellent because it spreads the load, heat and wear along the length of the flute, which greatly extends tool life. I also pre-drilled into pockets to eliminate ramping because ramping creates large stresses and I noticed tools often breaking during ramping. 
+    <p class="rightfloat">Machining the letters was difficult because each letter is about 4mm tall, and I needed to use a R0.1mm ball mill to create the smallest details. Even with the R0.1mm ball there were some gaps too small to machine. Additionally the smaller tools are also shorter so they can only reach a small depth into the letter. This means the letters have the most detail at the important top surface and get less detailed deeper down. I used a high efficiency strategy with a large depth of cut and a very small stepover. High efficiency machining is excellent because it spreads the load, heat and wear along the length of the flute, which greatly extends tool life. I also pre-drilled into pockets to eliminate the large stresses and tool breakage caused by ramping. 
 </p>
 </div>
 <div class="clearfix">
     <img src="/sebsite/images/letter punches/big vice.jpg" class="rightfloat" >
-    <p class="leftfloat">Fortunately, I had access to a Datron with a fast 40,000RPM spindle. A high spindle speed is very helpful for micro machining because it directly decrease the time to cut each letter. On any other machine it would have taken me four times longer per letter. The Datron is also extremely rigid and has a low runout spindle, which both help reduce uneven load on the flutes of the tool. However the Datron is usually used for aluminium and only had a light vice because aluminium doesn't create large cutting forces. This meant that the steel letter punches kept slipping in the weak vice. To fix this I was able to add some holes to a larger vice and bolt it to the T-slot table. It looks weirdly oversized in the machine, but completely fixed the problem. The larger vice also allowed me to machine four letters at once, greatly reducing my setup time. 
+    <p class="leftfloat">Fortunately, I had access to a Datron with a fast 40,000RPM spindle. A high spindle speed is very helpful for micro machining because it directly decreases the time to cut each letter. On any other machine it would have taken me four times longer per letter. The Datron is also extremely rigid and has a low runout spindle, which both help reduce uneven load on the flutes of the tool. However the Datron only had a weak vice and the steel letter punches kept slipping due to large cutting forces in steel. To fix this I was able to add some holes to a larger vice and bolt it to the T-slot table. It looks weirdly oversized in the machine, but completely fixed the problem. The larger vice also allowed me to machine four letters at once, greatly reducing my setup time. 
 </p>
 </div>
 
 # Storage box
 <div class="clearfix">
     <img src="/sebsite/images/letter punches/box.jpg" class="rightfloat" >
-    <p class="leftfloat">I also made a small box to hold all the punches because they are so small and so similar that it is very difficult to keep track of their identities. It also protects the punches from damage, and with some desiccant in the box it helps prevent rust. 
+    <p class="leftfloat">I also made a box to hold all the punches because they are so small and so similar that it is very difficult to keep track of them. It also protects the punches from damage, and adding desiccant to the box helps prevent rust. 
 </p>
 </div>
