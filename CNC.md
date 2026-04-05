@@ -7,29 +7,15 @@ permalink: /cnc
 # CNC machining
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/redback/laser cutting.mp4" class="rightfloat"></video> 
-    <p class="leftfloat">I learnt CNC machining in 2020 and it has become one of my most valuable skills. I have machined parts for many personal projects; including <a href="/redback">Redback Racing</a>, my thesis, my <a href="/Machinistchess">chess board</a>. </p>
-    <p>I work at UNSW designing and making parts for UNSW researchers, which has greatly expanded my skills! Researchers always seem to want massive or tiny parts, they often have unusual material requirements, and sometimes only have an idea but no knowledge about how to make it.</p>
-    <p>I also enjoy teaching CNC machining to students at the Kirby Makerspace where I run machine inductions for our Tormach, Symbiosis and HAAS 3 and 5 axis machines. I wrote the <a href="https://www.making.unsw.edu.au/learn/haas-5-axis-32-induction/" target="_blank">CNC inductions</a> where students are given their first part to program. I also got to write the advanced learning material
-    <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-feeds-and-speeds-and-more/" target="_blank"></a> for students which covers <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-feeds-and-speeds-and-more/" target="_blank">feed and speeds</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-probing/" target="_blank">probing</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-tooling/" target="_blank">tooling</a> and other <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-machinist-essentials/" target="_blank">essential knowledge</a> in depth.</p> 
+    <p class="leftfloat">I learnt CNC machining in 2020 and it has become one of my most valuable skills! CNC machining is a computer controlled process where a cutting tool moves through solid material to cut out the programed part. I started machining wood on routers, and have progressed up to machining tool steels on a 5-axis mill and turning bearing shafts on a CNC lathe. I have machined parts for many personal projects; including <a href="/sebsite/redback">Redback Racing</a>, my thesis, my <a href="/sebsite/Machinistchess">chess board</a>. </p>
+    <p class="leftfloat">I work at UNSW designing and making parts for UNSW researchers, which has greatly expanded my skills! Researchers always seem to want massive or tiny parts and they often have unusual material requirements. The largest part was bigger than the working volume of the machine and required rotating halfway and the <a href="/sebsite/letterpunches">most detailed parts</a> required 0.2mm endmills, which is the size of 2-3 human hairs. I have machined materials including rubber, tool steel, teflon, and foam.</p>
 </div>
 
 <div class="clearfix">
-    <img src="/sebsite/images/CNC/Blank.jpg" class="leftfloat">
-    <p class="rightfloat"></p>
+    <img src="/sebsite/images/CNC/CNC badge.png" class="leftfloat">
+    <p class="rightfloat">I also enjoy teaching CNC machining to students at the Kirby Makerspace where I run machine inductions for our Tormach, Symbiosis and HAAS 3 and 5 axis machines. I wrote the <a href="https://www.making.unsw.edu.au/learn/haas-5-axis-32-induction/" target="_blank">CNC inductions</a> for several machines: students have to program a part designed to teach them about different toolpath strategies. I also got to write the advanced learning material for students which covers <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-feeds-and-speeds-and-more/" target="_blank">feed and speeds</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-probing/" target="_blank">probing</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-tooling/" target="_blank">tooling</a> and other <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-machinist-essentials/" target="_blank">essential knowledge</a> in depth.</p> 
 </div>
 
-
-CNC milling works by using a computer to push a fast spinning mill bit (like a drill bit) into wood, plastic or metal to carve out the desired shape. [This article](https://all3dp.com/2/what-is-cnc-milling-simply-explained/) gives more detail. 
-
-The basic steps are:
-1. Make a model
-2. Chose tools
-3. Create a cam path 
-4. Generate G-code
-5. Set up the stock in the mill
-6. Mill and hope
-
-I learnt a lot about tool types, feeds and speeds, modeling in fusion 360, designing tool paths, G-code and CNC operation.
 
 ## Grand Teton
 <div class="clearfix">
