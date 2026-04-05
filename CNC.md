@@ -25,7 +25,7 @@ permalink: /cnc
 # Grand Teton
 <div class="clearfix">
     <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="leftfloat">
-    <iframe class="rightfloat" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+    <iframe class="rightfloat" style="max-height: 300px; width: auto;" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
     <p class="leftfloat">The Grand Teton is a mountain in Wyoming that my dad climbed! </p>
     
 </div>
@@ -36,22 +36,25 @@ permalink: /cnc
 # Wave
 <div class="clearfix">
     <img alt="Wave" src="/sebsite/images/wave.jpg" class="rightfloat">
-    <p>This is water ripple frozen into wood. I used my <a href="/sebsite/python">python DXF program</a> to convert a wave equation to DXF file. I modelled my wave as a cosine wave with an exponential decay:
-    \(y = ae^{-bx}\cos{cx}\)</p>
+    <p>This is water ripple frozen into wood. I used python to convert a wave equation into a DXF file. The wave is a cosine  with an exponential decay:</p>
+    <p>\(y = ae^{-bx}\cos{cx}\)</p>
     <img alt="Wave graph" src="/sebsite/images/wavegraph.jpg" width="50%" width-max="600">
-    <p>Then in Rhino I revolved that curve to make the wave surface.</p>
 </div>
 
 
 # Gallery
 <div class="gallery" >
     <figure class="gallery__item">
-        <img src="/sebsite/images/CNC/cryogenic brackets.jpg" class="gallery__img">
-        <figcaption>Cryogenic brackets</figcaption>
+        <img src="/sebsite/images/CNC/rubber pully.jpg" class="gallery__img">
+        <figcaption>4mm rubber pulley</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/needle hub.jpg" class="gallery__img">
+        <figcaption>12mm planetary gearbox</figcaption>
     </figure>
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/cryogenic brackets.jpg" class="gallery__img">
-        <figcaption>Grand Teton CAD</figcaption>
+        <figcaption>Cryogenic brackets</figcaption>
     </figure>
     <figure class="gallery__item">
         <img src="/sebsite/images/teton.jpg" class="gallery__img">
