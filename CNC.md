@@ -16,20 +16,18 @@ permalink: /cnc
     <p class="rightfloat">I also enjoy teaching CNC machining to students at the Kirby Makerspace where I run machine inductions for our Tormach, Symbiosis and HAAS 3- and 5-axis machines. I wrote the <a href="https://www.making.unsw.edu.au/learn/haas-5-axis-32-induction/" target="_blank">CNC inductions</a> for several machines: students have to program a part designed to teach them about different toolpath strategies. I also got to write the advanced learning material for students which covers <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-feeds-and-speeds-and-more/" target="_blank">feed and speeds</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-probing/" target="_blank">probing</a>, <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-tooling/" target="_blank">tooling</a> and other <a href="https://www.making.unsw.edu.au/learn/advanced-cnc-milling-machinist-essentials/" target="_blank">essential knowledge</a> in depth.</p> 
 </div>
 
-# MECH4100 bearing press fits
+# Acrylic bearing mounts
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/acrylic reaming.mp4" class="rightfloat"></video> 
     <p class="leftfloat">During a final year course at UNSW students design and make stirling engines where they make most of the simple parts, and I helped make the harder parts for them. They make acrylic bearing mounts, which get laser cut then I enlarged the bearing holes for a precise press fit. I also drilled and threaded side holes so that set screws could be used to fix some components in place.</p>
 </div>
 
-
-    
-
 # Grand Teton
 <div class="clearfix">
     <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="leftfloat">
-    <p class="leftfloat">The Grand Teton is a mountain in Wyoming that my dad climbed! </p>
     <iframe class="rightfloat" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+    <p class="leftfloat">The Grand Teton is a mountain in Wyoming that my dad climbed! </p>
+    
 </div>
 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
