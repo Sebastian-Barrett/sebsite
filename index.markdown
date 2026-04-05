@@ -27,6 +27,12 @@ layout: default
         </a>
     </figure>
     <figure class="gallery__item">
+        <a href="/sebsite/letterpunches">
+        <img alt="Letter punches" src="/sebsite/images/letter punches/astricks before facing.jpg" class="gallery__img">
+        <figcaption>Letter punches</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
         <a href="/sebsite/clock">
         <img alt="Clock" src="/sebsite/images/clock8.jpg" class="gallery__img">
         <figcaption>Pendulum Clock</figcaption>
