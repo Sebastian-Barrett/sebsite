@@ -25,7 +25,7 @@ permalink: /cnc
 # Grand Teton
 <div class="clearfix">
     <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="leftfloat">
-    <iframe class="rightfloat" style="max-height: 300px; width: auto;" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+    <iframe class="rightfloat" style="style="aspect-ratio: 3 / 2; max-height: 300px;";" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
     <p class="leftfloat">The Grand Teton is a mountain in Wyoming that my dad climbed! </p>
     
 </div>
@@ -43,7 +43,7 @@ permalink: /cnc
 
 
 # Gallery
-<div class="gallery" >
+<div class="gallery">deburr.mp4
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/rubber pully.jpg" class="gallery__img">
         <figcaption>4mm rubber pulley</figcaption>
@@ -53,20 +53,16 @@ permalink: /cnc
         <figcaption>12mm planetary gearbox</figcaption>
     </figure>
     <figure class="gallery__item">
+        <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/deburr.mp4" class="gallery__img"></video> 
+        <figcaption>Deburring</figcaption>
+    </figure>
+    <figure class="gallery__item">
         <img src="/sebsite/images/CNC/cryogenic brackets.jpg" class="gallery__img">
         <figcaption>Cryogenic brackets</figcaption>
     </figure>
     <figure class="gallery__item">
-        <img src="/sebsite/images/teton.jpg" class="gallery__img">
-        <figcaption>Grand Teton</figcaption>
-    </figure>
-    <figure class="gallery__item">
         <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/julio plate.mp4" class="gallery__img"></video> 
         <figcaption>Junction flow plate</figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <img src="/sebsite/images/wave.jpg" class="gallery__img">
-        <figcaption>Wooden wave</figcaption>
     </figure>
     <figure class="gallery__item">
         <img src="/sebsite/images/surface.jpg" class="gallery__img">
