@@ -21,6 +21,12 @@ layout: default
         </a>
     </figure>
     <figure class="gallery__item">
+        <a href="/sebsite/cnc">
+        <img alt="CNC" src="/sebsite/images/CNC/barb_connector.jpg" class="gallery__img">
+        <figcaption>CNC machining</figcaption>
+        </a>
+    </figure>
+    <figure class="gallery__item">
         <a href="/sebsite/3chess">
         <img alt="3 Player Chess set" src="/sebsite/images/3_final_set.jpg" class="gallery__img">
         <figcaption>3 Player Chess</figcaption>
@@ -90,12 +96,6 @@ layout: default
         <a href="/sebsite/atommodel">
         <img alt="Wurtzite lattice" src="/sebsite/images/wurtzite.jpg" class="gallery__img">
         <figcaption>Atom models</figcaption>
-        </a>
-    </figure>
-    <figure class="gallery__item">
-        <a href="/sebsite/cnc">
-        <img alt="CNC" src="/sebsite/images/teton.jpg" class="gallery__img">
-        <figcaption>CNC</figcaption>
         </a>
     </figure>
     <!--figure class="gallery__item">
