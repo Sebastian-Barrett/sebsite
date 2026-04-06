@@ -24,9 +24,9 @@ permalink: /cnc
 
 # Grand Teton
 <div class="clearfix">
+    <p class="leftfloat">The Grand Teton is a mountain in Wyoming where I used to live.</p>
     <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="leftfloat">
-    <iframe class="rightfloat" style="style="aspect-ratio: 3 / 2; max-height: 300px;";" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-    <p class="leftfloat">The Grand Teton is a mountain in Wyoming that my dad climbed! </p>
+    <iframe class="rightfloat" style="style="aspect-ratio: 3 / 2; max-height: 300px;" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
     
 </div>
 
@@ -43,14 +43,22 @@ permalink: /cnc
 
 
 # Gallery
-<div class="gallery">deburr.mp4
+<div class="gallery">tiny aly strips.mp4
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/magnet block.jpg" class="gallery__img">
+        <figcaption>5-axis tabbing</figcaption>
+    </figure>
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/rubber pully.jpg" class="gallery__img">
         <figcaption>4mm rubber pulley</figcaption>
     </figure>
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/needle hub.jpg" class="gallery__img">
-        <figcaption>12mm planetary gearbox</figcaption>
+        <figcaption>Planetary gearbox</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/hubs.jpg" class="gallery__img">
+        <figcaption>Planetary gear hubs</figcaption>
     </figure>
     <figure class="gallery__item">
         <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/deburr.mp4" class="gallery__img"></video> 
