@@ -6,7 +6,7 @@ permalink: /cnc
 
 # CNC machining
 <div class="clearfix"> 
-    <img src="/sebsite/images/CNC/motor_mount.jpg" class="rightfloat">
+    <img src="/sebsite/images/CNC/motor_mount.jpg" class="rightfloat" style="max-height: 410px;">
     <p class="leftfloat">I learnt CNC machining in 2020 and it has become one of my most valuable skills! CNC machining is a computer controlled process where a cutting tool moves through solid material to cut out the programed part. I started machining wood on routers, and have progressed up to machining tool steels on a 5-axis mill and turning bearing shafts on a CNC lathe. I have machined parts for many personal projects, <a href="/sebsite/redback">Redback Racing</a>, my thesis, and <a href="/sebsite/Machinistchess">chess board</a>. </p>
     <p class="leftfloat">I work at UNSW designing and making parts for researchers, which has greatly expanded my skills! Researchers always seem to want massive or tiny parts and they often have unusual material requirements. The largest part was bigger than the working volume of the machine and required rotating halfway and the <a href="/sebsite/letterpunches">most detailed parts</a> required 0.2mm endmills, which is the size of 2-3 human hairs. I have machined materials including rubber, tool steel, teflon, and foam.</p>
 </div>
@@ -30,11 +30,12 @@ permalink: /cnc
 </div>
 
 # Grand Teton
-<p class="leftfloat">The Grand Teton is a mountain in Wyoming where I used to live.</p>
+<div class="clearfix">
+    <p class="leftfloat">The Grand Teton is a mountain in Wyoming where I used to live.</p>
+</div>
 <div class="clearfix">
     <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="leftfloat">
     <iframe class="rightfloat" style="aspect-ratio: 3 / 2; max-height: 300px;" src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-    
 </div>
 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
