@@ -88,6 +88,10 @@ permalink: /cnc
         <figcaption>Soft jaws</figcaption>
     </figure>
     <figure class="gallery__item">
+        <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/moose.mp4" class="gallery__img" style="object-fit: cover;"></video> 
+        <figcaption>Moose cutting board</figcaption>
+    </figure>
+    <figure class="gallery__item">
         <img src="/sebsite/images/CNC/heatsinks.jpg" class="gallery__img">
         <figcaption>Copper heatsinks</figcaption>
     </figure>
@@ -109,5 +113,7 @@ permalink: /cnc
         <img src="/sebsite/images/CNC/Blank.jpg" class="gallery__img">
         <figcaption>Blank</figcaption>
     </figure>
-    <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/Blank.mp4" class="gallery__img"></video> 
-        <figcaption>blank</figcaption>
+    <figure class="gallery__item">
+        <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/blank.mp4" class="gallery__img" style="object-fit: cover;"></video> 
+        <figcaption>Blank</figcaption>
+    </figure>
