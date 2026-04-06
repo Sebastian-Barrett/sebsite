@@ -142,12 +142,3 @@ permalink: /cnc
 </div>
 
 <iframe src="https://gmail1265769.autodesk360.com/shares/public/SH919a0QTf3c32634dcf815c514eef38cdc0?mode=embed" class="viewer3d" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-
-# Wave
-<div class="clearfix">
-    <img alt="Wave" src="/sebsite/images/wave.jpg" class="rightfloat">
-    <p>This is water ripple frozen into wood. I used python to convert a wave equation into a DXF file. The wave is a cosine  with an exponential decay:</p>
-    <p>\(y = ae^{-bx}\cos{cx}\)</p>
-    <img alt="Wave graph" src="/sebsite/images/wavegraph.jpg" width="50%" width-max="600">
-</div>
