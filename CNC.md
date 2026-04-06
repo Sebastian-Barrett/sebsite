@@ -97,6 +97,10 @@ permalink: /cnc
         <figcaption>Moose cutting board</figcaption>
     </figure>
     <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/symbi_part.jpg" class="gallery__img">
+        <figcaption>Wood induction part</figcaption>
+    </figure>
+    <figure class="gallery__item">
         <img src="/sebsite/images/CNC/heatsinks.jpg" class="gallery__img">
         <figcaption>Copper heatsinks</figcaption>
     </figure>
@@ -127,6 +131,16 @@ permalink: /cnc
     <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/pla_mold.mp4" class="rightfloat"></video> 
     <p class="leftfloat">I manufactured a large 6-piece mold for high temperature pressing of PLA composites sheets. The mold was so large that it barely fit into the machines available (which are pretty small). I was able to make the side panels on the 5-axis, which allowed me to drill holes and machine from 3 different directions at once.</p>
     <p class="leftfloat">This was my first time using a high feed mill, and it worked perfectly. High feed mills change the shape of the chip which allow for a much faster feed rate.  They also alter the direction of the cutting force from horizontal to mostly vertical which reduces the bending force on the cutter.</p>
+</div>
+
+# Injection mold
+<div class="clearfix">
+    <img src="/sebsite/images/CNC/injection_mold.jpg" class="rightfloat">
+    <p class="leftfloat">To learn more about injection molding I designed and made a small injection mold for a keychain badge. I designed it with a large fillet on the inside to replace a draft angle, because we didn't have any tapered tools. Some of the small details had straight sides but didn't grip too strongly to the plastic because they were below 0.5mm height. I also cut shallow air channels between the cavity and outside to allow venting when the plastic is injected.</p>
+</div>
+<div class="clearfix">
+    <img src="/sebsite/images/CNC/MS_injection.jpg" class="rightfloat">
+    <p class="rightfloat">The mold worked well, but we only had a desktop injection machine which didn't generate much pressure and struggled to clamp the mold together. This often caused plastic shots to only fill half the mold or spill plastic out the sides of the mold. </p>
 </div>
 
 # Acrylic bearing mounts
