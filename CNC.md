@@ -17,15 +17,17 @@ permalink: /cnc
 </div>
 
 # Gallery
-<div class="gallery"> pla_soft_jaw.jpg
+<div class="gallery"> 
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/magnet block.jpg" class="gallery__img">
         <figcaption>5-axis tabbing</figcaption>
     </figure>
-    <figure class="gallery__item">
-        <img src="/sebsite/images/CNC/torque.jpg" class="gallery__img">
-        <figcaption>Torque testing rig</figcaption>
-    </figure>
+    <a href="/sebsite/Machinistchess">
+        <figure class="gallery__item">
+            <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/20250310_115831.mp4" class="gallery__img"></video> 
+            <figcaption>5-axis chess pieces</figcaption>
+        </figure>
+    </a>
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/rubber pully.jpg" class="gallery__img">
         <figcaption>4mm rubber pulley</figcaption>
@@ -47,6 +49,22 @@ permalink: /cnc
         <figcaption>Cryogenic brackets</figcaption>
     </figure>
     <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/planet gears.jpg" class="gallery__img">
+        <figcaption>Planetary gear journal bearings</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/jounal bearings.jpg" class="gallery__img">
+        <figcaption>Journal bearing shaft</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/journal shaft.jpg" class="gallery__img">
+        <figcaption>Journal bearing shaft</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/20241026_120920.jpg" class="gallery__img">
+        <figcaption>Rotary union</figcaption>
+    </figure>
+    <figure class="gallery__item">
         <img src="/sebsite/images/CNC/Gearbox.jpg" class="gallery__img">
         <figcaption>Planetary gear test rig</figcaption>
     </figure>
@@ -57,6 +75,14 @@ permalink: /cnc
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/vice modification.jpg" class="gallery__img">
         <figcaption>Vice modification</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/accu mount.jpg" class="gallery__img">
+        <figcaption>Chassis mount for welding</figcaption>
+    </figure>
+    <figure class="gallery__item">
+        <img src="/sebsite/images/CNC/torque.jpg" class="gallery__img">
+        <figcaption>Torque testing rig</figcaption>
     </figure>
     <figure class="gallery__item">
         <img src="/sebsite/images/CNC/soft_jaws.jpg" class="gallery__img">
