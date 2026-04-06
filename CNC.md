@@ -109,6 +109,10 @@ permalink: /cnc
         <figcaption>PLA soft jaws</figcaption>
     </figure>
     <figure class="gallery__item">
+        <img src="/sebsite/images/wave.jpg" class="gallery__img">
+        <figcaption>Wooden wave</figcaption>
+    </figure>
+    <figure class="gallery__item">
         <img src="/sebsite/images/surface.jpg" class="gallery__img">
         <figcaption>Mathematical surface</figcaption>
     </figure>
@@ -118,16 +122,7 @@ permalink: /cnc
     </figure>
 </div>  
 
-    <figure class="gallery__item">
-        <img src="/sebsite/images/CNC/Blank.jpg" class="gallery__img">
-        <figcaption>Blank</figcaption>
-    </figure>
-    <figure class="gallery__item">
-        <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/blank.mp4" class="gallery__img" style="object-fit: cover;"></video> 
-        <figcaption>Blank</figcaption>
-    </figure>
-
-# PLA mold
+# PLA high pressure mold
 <div class="clearfix">
     <video autoplay muted loop playsinline controls src="/sebsite/images/CNC/pla_mold.mp4" class="rightfloat"></video> 
     <p class="leftfloat">I manufactured a large 6-piece mold for high temperature pressing of PLA composites sheets. The mold was so large that it barely fit into the machines available (which are pretty small). I was able to make the side panels on the 5-axis, which allowed me to drill holes and machine from 3 different directions at once.</p>
@@ -142,7 +137,7 @@ permalink: /cnc
 
 # Grand Teton
 <div class="clearfix">
-    <p class="leftfloat">The Grand Teton is a mountain in Wyoming where I used to live. </p>
+    <p class="leftfloat">The Grand Teton is a mountain in Wyoming where I used to live and I made this model for my father, because he climbed it. I machined it with enough stepovers that the STL texture is more visible in the wood that the toolpath! You can download STL files (like the one below) of any location in the world.</p>
     <img alt="Grand Teton" src="/sebsite/images/teton.jpg" class="rightfloat">
 </div>
 
