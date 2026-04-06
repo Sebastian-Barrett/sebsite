@@ -139,7 +139,7 @@ permalink: /cnc
     <p class="leftfloat">To learn more about injection molding I designed and made a small injection mold for a keychain badge. I designed it with a large fillet on the inside to replace a draft angle, because we didn't have any tapered tools. Some of the small details had straight sides but didn't grip too strongly to the plastic because they were below 0.5mm height. I also cut shallow air channels between the cavity and outside to allow venting when the plastic is injected.</p>
 </div>
 <div class="clearfix">
-    <img src="/sebsite/images/CNC/MS_injection.jpg" class="rightfloat">
+    <img src="/sebsite/images/CNC/MS_injection.jpg" class="leftfloat">
     <p class="rightfloat">The mold worked well, but we only had a desktop injection machine which didn't generate much pressure and struggled to clamp the mold together. This often caused plastic shots to only fill half the mold or spill plastic out the sides of the mold. </p>
 </div>
 
